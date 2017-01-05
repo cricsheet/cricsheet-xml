@@ -1,0 +1,3191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.8</data_version>
+    <created>2012-07-16</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Johannesburg</city>
+    <dates>
+      <date>2009-03-27</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>T20</match_type>
+    <outcome>
+      <by>
+        <wickets>4</wickets>
+      </by>
+      <winner>South Africa</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>DJ Hussey</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>South Africa</team>
+      <team>Australia</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>South Africa</winner>
+    </toss>
+    <umpires>
+      <umpire>M Erasmus</umpire>
+      <umpire>RE Koertzen</umpire>
+    </umpires>
+    <venue>New Wanderers Stadium</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Australia</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>DA Warner</batsman>
+          <bowler>DW Steyn</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>DA Warner</batsman>
+          <bowler>DW Steyn</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>DA Warner</batsman>
+          <bowler>DW Steyn</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>DW Steyn</bowler>
+          <non_striker>DA Warner</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>DW Steyn</bowler>
+          <non_striker>DA Warner</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>DW Steyn</bowler>
+          <non_striker>DA Warner</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>WD Parnell</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>DA Warner</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>WD Parnell</bowler>
+          <non_striker>DA Warner</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>DA Warner</batsman>
+          <bowler>WD Parnell</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>DA Warner</batsman>
+          <bowler>WD Parnell</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>WD Parnell</bowler>
+          <non_striker>DA Warner</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>WD Parnell</bowler>
+          <non_striker>DA Warner</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>MJ Clarke</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>RT Ponting</batsman>
+          <bowler>WD Parnell</bowler>
+          <non_striker>DA Warner</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>DA Warner</batsman>
+          <bowler>DW Steyn</bowler>
+          <non_striker>RT Ponting</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>DA Warner</batsman>
+          <bowler>DW Steyn</bowler>
+          <non_striker>RT Ponting</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>DA Warner</batsman>
+          <bowler>DW Steyn</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RT Ponting</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>DA Warner</batsman>
+          <bowler>DW Steyn</bowler>
+          <non_striker>RT Ponting</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>RT Ponting</batsman>
+          <bowler>DW Steyn</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>DA Warner</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>DA Warner</batsman>
+          <bowler>DW Steyn</bowler>
+          <non_striker>RT Ponting</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>7</ball>
+          <batsman>RT Ponting</batsman>
+          <bowler>DW Steyn</bowler>
+          <non_striker>DA Warner</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>RT Ponting</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>DA Warner</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>RT Ponting</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>DA Warner</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>J Botha</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>RT Ponting</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>DA Warner</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>DA Warner</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>DA Warner</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>DA Warner</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>DA Warner</batsman>
+          <bowler>WD Parnell</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>WD Parnell</bowler>
+          <non_striker>DA Warner</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>WD Parnell</bowler>
+          <non_striker>DA Warner</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>WD Parnell</bowler>
+          <non_striker>DA Warner</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>WD Parnell</bowler>
+          <non_striker>DA Warner</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>DA Warner</batsman>
+          <bowler>WD Parnell</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>DA Warner</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>DA Warner</batsman>
+          <bowler>JA Morkel</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>DA Warner</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>DA Warner</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>DA Warner</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>DA Warner</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>J Botha</bowler>
+          <non_striker>DA Warner</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>J Botha</bowler>
+          <non_striker>DA Warner</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>DA Warner</batsman>
+          <bowler>J Botha</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>DA Warner</batsman>
+          <bowler>J Botha</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>DA Warner</batsman>
+          <bowler>J Botha</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>DA Warner</batsman>
+          <bowler>J Botha</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>RJ Peterson</bowler>
+          <non_striker>DA Warner</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>RJ Peterson</bowler>
+          <non_striker>DA Warner</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>RJ Peterson</bowler>
+          <non_striker>DA Warner</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>RJ Peterson</bowler>
+          <non_striker>DA Warner</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>DA Warner</batsman>
+          <bowler>RJ Peterson</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>DA Warner</batsman>
+          <bowler>RJ Peterson</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>DA Warner</batsman>
+          <bowler>J Botha</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>DA Warner</batsman>
+          <bowler>J Botha</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>J Botha</bowler>
+          <non_striker>DA Warner</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>DA Warner</batsman>
+          <bowler>J Botha</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>DA Warner</batsman>
+          <bowler>J Botha</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>J Botha</bowler>
+          <non_striker>DA Warner</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>DA Warner</batsman>
+          <bowler>RJ Peterson</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>caught and bowled</kind>
+              <player_out>DA Warner</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>MEK Hussey</batsman>
+          <bowler>RJ Peterson</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>J Botha</fielder>
+              </fielders>
+              <kind>run out</kind>
+              <player_out>MEK Hussey</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>RJ Peterson</bowler>
+          <non_striker>BJ Haddin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>BJ Haddin</batsman>
+          <bowler>RJ Peterson</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>BJ Haddin</batsman>
+          <bowler>RJ Peterson</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>BJ Haddin</batsman>
+          <bowler>RJ Peterson</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>JA Morkel</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>BJ Haddin</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>CL White</batsman>
+          <bowler>J Botha</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>CL White</batsman>
+          <bowler>J Botha</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>CL White</batsman>
+          <bowler>J Botha</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>J Botha</bowler>
+          <non_striker>CL White</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>J Botha</bowler>
+          <non_striker>CL White</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>CL White</batsman>
+          <bowler>J Botha</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>CL White</batsman>
+          <bowler>RJ Peterson</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>RJ Peterson</bowler>
+          <non_striker>CL White</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>CL White</batsman>
+          <bowler>RJ Peterson</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>CL White</batsman>
+          <bowler>RJ Peterson</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>CL White</batsman>
+          <bowler>RJ Peterson</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>CL White</batsman>
+          <bowler>RJ Peterson</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>CL White</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>CL White</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>CL White</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>CL White</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>CL White</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>CL White</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>J Botha</bowler>
+          <non_striker>CL White</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>CL White</batsman>
+          <bowler>J Botha</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>CL White</batsman>
+          <bowler>J Botha</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>CL White</batsman>
+          <bowler>J Botha</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>J Botha</bowler>
+          <non_striker>CL White</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>CL White</batsman>
+          <bowler>J Botha</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>CL White</batsman>
+          <bowler>WD Parnell</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>WD Parnell</bowler>
+          <non_striker>CL White</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>CL White</batsman>
+          <bowler>WD Parnell</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>WD Parnell</bowler>
+          <non_striker>CL White</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>WD Parnell</bowler>
+          <non_striker>CL White</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>WD Parnell</bowler>
+          <non_striker>CL White</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>RJ Peterson</bowler>
+          <non_striker>CL White</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>RJ Peterson</bowler>
+          <non_striker>CL White</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>CL White</batsman>
+          <bowler>RJ Peterson</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>CL White</batsman>
+          <bowler>RJ Peterson</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>CL White</batsman>
+          <bowler>RJ Peterson</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>CL White</batsman>
+          <bowler>RJ Peterson</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>JP Duminy</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>CL White</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>MG Johnson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>MG Johnson</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>MG Johnson</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>JA Morkel</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>MG Johnson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>MG Johnson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>MG Johnson</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>7</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>MG Johnson</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>MG Johnson</batsman>
+          <bowler>DW Steyn</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>MG Johnson</batsman>
+          <bowler>DW Steyn</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>DW Steyn</bowler>
+          <non_striker>MG Johnson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>DW Steyn</bowler>
+          <non_striker>MG Johnson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>DW Steyn</bowler>
+          <non_striker>MG Johnson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>DW Steyn</bowler>
+          <non_striker>MG Johnson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>MG Johnson</batsman>
+          <bowler>WD Parnell</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>MG Johnson</batsman>
+          <bowler>WD Parnell</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>MG Johnson</batsman>
+          <bowler>WD Parnell</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>WD Parnell</bowler>
+          <non_striker>MG Johnson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>MG Johnson</batsman>
+          <bowler>WD Parnell</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>MG Johnson</batsman>
+          <bowler>WD Parnell</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>7</ball>
+          <batsman>MG Johnson</batsman>
+          <bowler>WD Parnell</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>MG Johnson</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>DW Steyn</bowler>
+          <non_striker>JR Hopes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>JR Hopes</batsman>
+          <bowler>DW Steyn</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>JR Hopes</batsman>
+          <bowler>DW Steyn</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>DW Steyn</bowler>
+          <non_striker>JR Hopes</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>DW Steyn</bowler>
+          <non_striker>JR Hopes</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>DW Steyn</bowler>
+          <non_striker>JR Hopes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>South Africa</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>HM Amla</batsman>
+          <bowler>MG Johnson</bowler>
+          <non_striker>HH Gibbs</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>HM Amla</batsman>
+          <bowler>MG Johnson</bowler>
+          <non_striker>HH Gibbs</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>HM Amla</batsman>
+          <bowler>MG Johnson</bowler>
+          <non_striker>HH Gibbs</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>HM Amla</batsman>
+          <bowler>MG Johnson</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>HH Gibbs</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>HM Amla</batsman>
+          <bowler>MG Johnson</bowler>
+          <non_striker>HH Gibbs</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>HH Gibbs</batsman>
+          <bowler>MG Johnson</bowler>
+          <non_striker>HM Amla</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <batsman>HH Gibbs</batsman>
+          <bowler>MG Johnson</bowler>
+          <non_striker>HM Amla</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>HH Gibbs</batsman>
+          <bowler>SM Harwood</bowler>
+          <non_striker>HM Amla</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>HH Gibbs</batsman>
+          <bowler>SM Harwood</bowler>
+          <non_striker>HM Amla</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>HH Gibbs</batsman>
+          <bowler>SM Harwood</bowler>
+          <non_striker>HM Amla</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>HM Amla</batsman>
+          <bowler>SM Harwood</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>HH Gibbs</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>HM Amla</batsman>
+          <bowler>SM Harwood</bowler>
+          <non_striker>HH Gibbs</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>HH Gibbs</batsman>
+          <bowler>SM Harwood</bowler>
+          <non_striker>HM Amla</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>HH Gibbs</batsman>
+          <bowler>SM Harwood</bowler>
+          <non_striker>HM Amla</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>HM Amla</batsman>
+          <bowler>MG Johnson</bowler>
+          <non_striker>HH Gibbs</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>HM Amla</batsman>
+          <bowler>MG Johnson</bowler>
+          <non_striker>HH Gibbs</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>HH Gibbs</batsman>
+          <bowler>MG Johnson</bowler>
+          <non_striker>HM Amla</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>HH Gibbs</batsman>
+          <bowler>MG Johnson</bowler>
+          <non_striker>HM Amla</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>HH Gibbs</batsman>
+          <bowler>MG Johnson</bowler>
+          <non_striker>HM Amla</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>HH Gibbs</batsman>
+          <bowler>MG Johnson</bowler>
+          <non_striker>HM Amla</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>HH Gibbs</batsman>
+          <bowler>B Geeves</bowler>
+          <non_striker>HM Amla</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>RT Ponting</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>HH Gibbs</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>AB de Villiers</batsman>
+          <bowler>B Geeves</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>HM Amla</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>1</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>HM Amla</batsman>
+          <bowler>B Geeves</bowler>
+          <non_striker>AB de Villiers</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>HM Amla</batsman>
+          <bowler>B Geeves</bowler>
+          <non_striker>AB de Villiers</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>HM Amla</batsman>
+          <bowler>B Geeves</bowler>
+          <non_striker>AB de Villiers</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>AB de Villiers</batsman>
+          <bowler>B Geeves</bowler>
+          <non_striker>HM Amla</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>7</ball>
+          <batsman>HM Amla</batsman>
+          <bowler>B Geeves</bowler>
+          <non_striker>AB de Villiers</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>AB de Villiers</batsman>
+          <bowler>SM Harwood</bowler>
+          <non_striker>HM Amla</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>AB de Villiers</batsman>
+          <bowler>SM Harwood</bowler>
+          <non_striker>HM Amla</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>AB de Villiers</batsman>
+          <bowler>SM Harwood</bowler>
+          <non_striker>HM Amla</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>AB de Villiers</batsman>
+          <bowler>SM Harwood</bowler>
+          <non_striker>HM Amla</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>HM Amla</batsman>
+          <bowler>SM Harwood</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>AB de Villiers</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>HM Amla</batsman>
+          <bowler>SM Harwood</bowler>
+          <non_striker>AB de Villiers</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>7</ball>
+          <batsman>HM Amla</batsman>
+          <bowler>SM Harwood</bowler>
+          <non_striker>AB de Villiers</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>AB de Villiers</batsman>
+          <bowler>B Geeves</bowler>
+          <non_striker>HM Amla</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>AB de Villiers</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>B Geeves</bowler>
+          <non_striker>HM Amla</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>B Geeves</bowler>
+          <non_striker>HM Amla</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>B Geeves</bowler>
+          <non_striker>HM Amla</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>B Geeves</bowler>
+          <non_striker>HM Amla</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>B Geeves</bowler>
+          <non_striker>HM Amla</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>HM Amla</batsman>
+          <bowler>DJ Hussey</bowler>
+          <non_striker>JP Duminy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>HM Amla</batsman>
+          <bowler>DJ Hussey</bowler>
+          <non_striker>JP Duminy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>DJ Hussey</bowler>
+          <non_striker>HM Amla</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>HM Amla</batsman>
+          <bowler>DJ Hussey</bowler>
+          <non_striker>JP Duminy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>DJ Hussey</bowler>
+          <non_striker>HM Amla</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>HM Amla</batsman>
+          <bowler>DJ Hussey</bowler>
+          <non_striker>JP Duminy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>HM Amla</batsman>
+          <bowler>JR Hopes</bowler>
+          <non_striker>JP Duminy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>HM Amla</batsman>
+          <bowler>JR Hopes</bowler>
+          <non_striker>JP Duminy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>HM Amla</batsman>
+          <bowler>JR Hopes</bowler>
+          <non_striker>JP Duminy</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>HM Amla</batsman>
+          <bowler>JR Hopes</bowler>
+          <non_striker>JP Duminy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>HM Amla</batsman>
+          <bowler>JR Hopes</bowler>
+          <non_striker>JP Duminy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>JR Hopes</bowler>
+          <non_striker>HM Amla</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>DJ Hussey</bowler>
+          <non_striker>HM Amla</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>DJ Hussey</bowler>
+          <non_striker>HM Amla</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>DJ Hussey</bowler>
+          <non_striker>HM Amla</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>DJ Hussey</bowler>
+          <non_striker>HM Amla</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>HM Amla</batsman>
+          <bowler>DJ Hussey</bowler>
+          <non_striker>JP Duminy</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>HM Amla</batsman>
+          <bowler>DJ Hussey</bowler>
+          <non_striker>JP Duminy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>HM Amla</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>JR Hopes</bowler>
+          <non_striker>VB van Jaarsveld</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>VB van Jaarsveld</batsman>
+          <bowler>JR Hopes</bowler>
+          <non_striker>JP Duminy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>JR Hopes</bowler>
+          <non_striker>VB van Jaarsveld</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>VB van Jaarsveld</batsman>
+          <bowler>JR Hopes</bowler>
+          <non_striker>JP Duminy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>VB van Jaarsveld</batsman>
+          <bowler>JR Hopes</bowler>
+          <non_striker>JP Duminy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>JR Hopes</bowler>
+          <non_striker>VB van Jaarsveld</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>DJ Hussey</bowler>
+          <non_striker>VB van Jaarsveld</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>DJ Hussey</bowler>
+          <non_striker>VB van Jaarsveld</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>VB van Jaarsveld</batsman>
+          <bowler>DJ Hussey</bowler>
+          <non_striker>JP Duminy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>VB van Jaarsveld</batsman>
+          <bowler>DJ Hussey</bowler>
+          <non_striker>JP Duminy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>VB van Jaarsveld</batsman>
+          <bowler>DJ Hussey</bowler>
+          <non_striker>JP Duminy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>DJ Hussey</bowler>
+          <non_striker>VB van Jaarsveld</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>JR Hopes</bowler>
+          <non_striker>VB van Jaarsveld</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>JR Hopes</bowler>
+          <non_striker>VB van Jaarsveld</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>JR Hopes</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>VB van Jaarsveld</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>JR Hopes</bowler>
+          <non_striker>VB van Jaarsveld</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>JP Duminy</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>MV Boucher</batsman>
+          <bowler>JR Hopes</bowler>
+          <non_striker>VB van Jaarsveld</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>MV Boucher</batsman>
+          <bowler>JR Hopes</bowler>
+          <non_striker>VB van Jaarsveld</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>7</ball>
+          <batsman>MV Boucher</batsman>
+          <bowler>JR Hopes</bowler>
+          <non_striker>VB van Jaarsveld</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>VB van Jaarsveld</batsman>
+          <bowler>DJ Hussey</bowler>
+          <non_striker>MV Boucher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>VB van Jaarsveld</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>DJ Hussey</bowler>
+          <non_striker>MV Boucher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>MV Boucher</batsman>
+          <bowler>DJ Hussey</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>DJ Hussey</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>MV Boucher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>MV Boucher</batsman>
+          <bowler>DJ Hussey</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>MV Boucher</batsman>
+          <bowler>DJ Hussey</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>MG Johnson</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>MV Boucher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>MG Johnson</bowler>
+          <non_striker>MV Boucher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>MV Boucher</batsman>
+          <bowler>MG Johnson</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>MG Johnson</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>MV Boucher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>MG Johnson</bowler>
+          <non_striker>MV Boucher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>MG Johnson</bowler>
+          <non_striker>MV Boucher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>7</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>MG Johnson</bowler>
+          <non_striker>MV Boucher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>8</ball>
+          <batsman>MV Boucher</batsman>
+          <bowler>MG Johnson</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>9</ball>
+          <batsman>MV Boucher</batsman>
+          <bowler>MG Johnson</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>MV Boucher</batsman>
+          <bowler>SM Harwood</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>MV Boucher</batsman>
+          <bowler>SM Harwood</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>SM Harwood</bowler>
+          <non_striker>MV Boucher</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>SM Harwood</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>MV Boucher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>MV Boucher</batsman>
+          <bowler>SM Harwood</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>SM Harwood</bowler>
+          <non_striker>MV Boucher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>B Geeves</bowler>
+          <non_striker>MV Boucher</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>B Geeves</bowler>
+          <non_striker>MV Boucher</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>B Geeves</bowler>
+          <non_striker>MV Boucher</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>B Geeves</bowler>
+          <non_striker>MV Boucher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>MV Boucher</batsman>
+          <bowler>B Geeves</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>B Geeves</bowler>
+          <non_striker>MV Boucher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>JR Hopes</bowler>
+          <non_striker>MV Boucher</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>JR Hopes</bowler>
+          <non_striker>MV Boucher</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>JR Hopes</bowler>
+          <non_striker>MV Boucher</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>JR Hopes</bowler>
+          <non_striker>MV Boucher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>MV Boucher</batsman>
+          <bowler>JR Hopes</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>MV Boucher</batsman>
+          <bowler>JR Hopes</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>MG Johnson</bowler>
+          <non_striker>MV Boucher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>DJ Hussey</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>JA Morkel</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>MV Boucher</batsman>
+          <bowler>MG Johnson</bowler>
+          <non_striker>J Botha</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>MV Boucher</batsman>
+          <bowler>MG Johnson</bowler>
+          <non_striker>J Botha</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>J Botha</batsman>
+          <bowler>MG Johnson</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>MV Boucher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>J Botha</batsman>
+          <bowler>MG Johnson</bowler>
+          <non_striker>MV Boucher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>MV Boucher</batsman>
+          <bowler>MG Johnson</bowler>
+          <non_striker>J Botha</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>7</ball>
+          <batsman>J Botha</batsman>
+          <bowler>MG Johnson</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>MV Boucher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>J Botha</batsman>
+          <bowler>SM Harwood</bowler>
+          <non_striker>MV Boucher</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>J Botha</batsman>
+          <bowler>SM Harwood</bowler>
+          <non_striker>MV Boucher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>MV Boucher</batsman>
+          <bowler>SM Harwood</bowler>
+          <non_striker>J Botha</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>J Botha</batsman>
+          <bowler>SM Harwood</bowler>
+          <non_striker>MV Boucher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>MV Boucher</batsman>
+          <bowler>SM Harwood</bowler>
+          <non_striker>J Botha</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>MV Boucher</batsman>
+          <bowler>SM Harwood</bowler>
+          <non_striker>J Botha</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>MV Boucher</batsman>
+          <bowler>B Geeves</bowler>
+          <non_striker>J Botha</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>MV Boucher</batsman>
+          <bowler>B Geeves</bowler>
+          <non_striker>J Botha</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

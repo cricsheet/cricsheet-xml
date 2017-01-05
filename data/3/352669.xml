@@ -1,0 +1,4455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.8</data_version>
+    <created>2013-03-03</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>St Lucia</city>
+    <dates>
+      <date>2009-04-03</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>ODI</match_type>
+    <outcome>
+      <by>
+        <runs>26</runs>
+      </by>
+      <winner>England</winner>
+    </outcome>
+    <overs>50</overs>
+    <player_of_match>
+      <player_of_match>A Flintoff</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>West Indies</team>
+      <team>England</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>West Indies</winner>
+    </toss>
+    <umpires>
+      <umpire>SJ Davis</umpire>
+      <umpire>NA Malcolm</umpire>
+    </umpires>
+    <venue>Beausejour Stadium, Gros Islet</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>England</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>AJ Strauss</batsman>
+          <bowler>FH Edwards</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>AJ Strauss</batsman>
+          <bowler>FH Edwards</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>AJ Strauss</batsman>
+          <bowler>FH Edwards</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>AJ Strauss</batsman>
+          <bowler>FH Edwards</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>FH Edwards</bowler>
+          <non_striker>AJ Strauss</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>FH Edwards</bowler>
+          <non_striker>AJ Strauss</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>FH Edwards</bowler>
+          <non_striker>AJ Strauss</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>AJ Strauss</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>DJ Bravo</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>AJ Strauss</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>FH Edwards</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>FH Edwards</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>FH Edwards</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>FH Edwards</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>FH Edwards</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>FH Edwards</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>R Rampaul</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>7</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>DJ Bravo</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>7</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>DJ Bravo</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>DJG Sammy</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>KP Pietersen</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>OA Shah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>OA Shah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>OA Shah</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>OA Shah</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>SJ Benn</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>OA Shah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>OA Shah</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>OA Shah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>OA Shah</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>OA Shah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>D Ramdin</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>RS Bopara</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>PD Collingwood</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>OA Shah</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>PD Collingwood</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>OA Shah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>PD Collingwood</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>OA Shah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>LMP Simmons</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>OA Shah</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>A Flintoff</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>A Flintoff</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>PD Collingwood</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>A Flintoff</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>A Flintoff</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>1</ball>
+          <batsman>A Flintoff</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>2</ball>
+          <batsman>PD Collingwood</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>A Flintoff</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>3</ball>
+          <batsman>PD Collingwood</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>A Flintoff</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>4</ball>
+          <batsman>A Flintoff</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>5</ball>
+          <batsman>A Flintoff</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>S Chanderpaul</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>A Flintoff</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>6</ball>
+          <batsman>MJ Prior</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>1</ball>
+          <batsman>PD Collingwood</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>MJ Prior</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>2</ball>
+          <batsman>MJ Prior</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>3</ball>
+          <batsman>MJ Prior</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>4</ball>
+          <batsman>MJ Prior</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>5</ball>
+          <batsman>MJ Prior</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>6</ball>
+          <batsman>MJ Prior</batsman>
+          <bowler>SJ Benn</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>1</ball>
+          <batsman>PD Collingwood</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>MJ Prior</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>2</ball>
+          <batsman>PD Collingwood</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>MJ Prior</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>3</ball>
+          <batsman>PD Collingwood</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>MJ Prior</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>4</ball>
+          <batsman>PD Collingwood</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>MJ Prior</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>5</ball>
+          <batsman>PD Collingwood</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>MJ Prior</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>6</ball>
+          <batsman>MJ Prior</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>1</ball>
+          <batsman>PD Collingwood</batsman>
+          <bowler>CH Gayle</bowler>
+          <non_striker>MJ Prior</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>2</ball>
+          <batsman>PD Collingwood</batsman>
+          <bowler>CH Gayle</bowler>
+          <non_striker>MJ Prior</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>3</ball>
+          <batsman>MJ Prior</batsman>
+          <bowler>CH Gayle</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>4</ball>
+          <batsman>PD Collingwood</batsman>
+          <bowler>CH Gayle</bowler>
+          <non_striker>MJ Prior</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>5</ball>
+          <batsman>PD Collingwood</batsman>
+          <bowler>CH Gayle</bowler>
+          <non_striker>MJ Prior</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>6</ball>
+          <batsman>PD Collingwood</batsman>
+          <bowler>CH Gayle</bowler>
+          <non_striker>MJ Prior</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>1</ball>
+          <batsman>PD Collingwood</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>MJ Prior</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>2</ball>
+          <batsman>PD Collingwood</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>MJ Prior</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>3</ball>
+          <batsman>MJ Prior</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>4</ball>
+          <batsman>MJ Prior</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>5</ball>
+          <batsman>PD Collingwood</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>MJ Prior</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>6</ball>
+          <batsman>PD Collingwood</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>MJ Prior</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>1</ball>
+          <batsman>MJ Prior</batsman>
+          <bowler>DJ Bravo</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>2</ball>
+          <batsman>MJ Prior</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>3</ball>
+          <batsman>MJ Prior</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>4</ball>
+          <batsman>PD Collingwood</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>MJ Prior</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>5</ball>
+          <batsman>MJ Prior</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>6</ball>
+          <batsman>MJ Prior</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>7</ball>
+          <batsman>MJ Prior</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>1</ball>
+          <batsman>PD Collingwood</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>MJ Prior</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>2</ball>
+          <batsman>MJ Prior</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>3</ball>
+          <batsman>PD Collingwood</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>MJ Prior</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>4</ball>
+          <batsman>MJ Prior</batsman>
+          <bowler>DJG Sammy</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>5</ball>
+          <batsman>MJ Prior</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>6</ball>
+          <batsman>MJ Prior</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>7</ball>
+          <batsman>MJ Prior</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>1</ball>
+          <batsman>PD Collingwood</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>MJ Prior</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>2</ball>
+          <batsman>PD Collingwood</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>MJ Prior</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>3</ball>
+          <batsman>MJ Prior</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>4</ball>
+          <batsman>PD Collingwood</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>MJ Prior</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>5</ball>
+          <batsman>MJ Prior</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>6</ball>
+          <batsman>PD Collingwood</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>MJ Prior</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>1</ball>
+          <batsman>PD Collingwood</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>MJ Prior</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>2</ball>
+          <batsman>PD Collingwood</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>MJ Prior</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>3</ball>
+          <batsman>MJ Prior</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>4</ball>
+          <batsman>PD Collingwood</batsman>
+          <bowler>DJG Sammy</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>MJ Prior</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>5</ball>
+          <batsman>MJ Prior</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>6</ball>
+          <batsman>MJ Prior</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>PD Collingwood</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>West Indies</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>CH Gayle</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>CH Gayle</batsman>
+          <bowler>JM Anderson</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>CH Gayle</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>CH Gayle</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>A Flintoff</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>CH Gayle</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>RR Sarwan</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>RR Sarwan</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>RR Sarwan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>RR Sarwan</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>RR Sarwan</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>RR Sarwan</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>RR Sarwan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>RR Sarwan</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>RR Sarwan</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>RR Sarwan</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>RR Sarwan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>RR Sarwan</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>RR Sarwan</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>RR Sarwan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>RR Sarwan</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>RR Sarwan</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>RR Sarwan</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>RR Sarwan</batsman>
+          <bowler>SCJ Broad</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>RR Sarwan</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>RR Sarwan</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>RR Sarwan</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>7</ball>
+          <batsman>RR Sarwan</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>RR Sarwan</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>RR Sarwan</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>RR Sarwan</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>RR Sarwan</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>RR Sarwan</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>RR Sarwan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>RR Sarwan</batsman>
+          <bowler>A Flintoff</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>RR Sarwan</batsman>
+          <bowler>A Flintoff</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>A Flintoff</bowler>
+          <non_striker>RR Sarwan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>A Flintoff</bowler>
+          <non_striker>RR Sarwan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>A Flintoff</bowler>
+          <non_striker>RR Sarwan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>A Flintoff</bowler>
+          <non_striker>RR Sarwan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>RR Sarwan</batsman>
+          <bowler>SJ Harmison</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SJ Harmison</bowler>
+          <non_striker>RR Sarwan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>RR Sarwan</batsman>
+          <bowler>SJ Harmison</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SJ Harmison</bowler>
+          <non_striker>RR Sarwan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>RR Sarwan</batsman>
+          <bowler>SJ Harmison</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>RR Sarwan</batsman>
+          <bowler>SJ Harmison</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>7</ball>
+          <batsman>RR Sarwan</batsman>
+          <bowler>SJ Harmison</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>RR Sarwan</batsman>
+          <bowler>A Flintoff</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>RR Sarwan</batsman>
+          <bowler>A Flintoff</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>RR Sarwan</batsman>
+          <bowler>A Flintoff</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>MJ Prior</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>RR Sarwan</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>S Chanderpaul</batsman>
+          <bowler>A Flintoff</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>A Flintoff</bowler>
+          <non_striker>S Chanderpaul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>A Flintoff</bowler>
+          <non_striker>S Chanderpaul</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SJ Harmison</bowler>
+          <non_striker>S Chanderpaul</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>S Chanderpaul</batsman>
+          <bowler>SJ Harmison</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>S Chanderpaul</batsman>
+          <bowler>SJ Harmison</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SJ Harmison</bowler>
+          <non_striker>S Chanderpaul</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>S Chanderpaul</batsman>
+          <bowler>SJ Harmison</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>S Chanderpaul</batsman>
+          <bowler>SJ Harmison</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>A Flintoff</bowler>
+          <non_striker>S Chanderpaul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>SCJ Broad</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>LMP Simmons</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>S Chanderpaul</batsman>
+          <bowler>A Flintoff</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>S Chanderpaul</batsman>
+          <bowler>A Flintoff</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>S Chanderpaul</batsman>
+          <bowler>A Flintoff</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>S Chanderpaul</batsman>
+          <bowler>A Flintoff</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>A Flintoff</bowler>
+          <non_striker>S Chanderpaul</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>SJ Harmison</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>S Chanderpaul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>S Chanderpaul</batsman>
+          <bowler>SJ Harmison</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>SJ Harmison</bowler>
+          <non_striker>S Chanderpaul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>SJ Harmison</bowler>
+          <non_striker>S Chanderpaul</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>S Chanderpaul</batsman>
+          <bowler>SJ Harmison</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>S Chanderpaul</batsman>
+          <bowler>SJ Harmison</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>7</ball>
+          <batsman>S Chanderpaul</batsman>
+          <bowler>SJ Harmison</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>S Chanderpaul</batsman>
+          <bowler>AD Mascarenhas</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>AD Mascarenhas</bowler>
+          <non_striker>S Chanderpaul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>AD Mascarenhas</bowler>
+          <non_striker>S Chanderpaul</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>AD Mascarenhas</bowler>
+          <non_striker>S Chanderpaul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>AD Mascarenhas</bowler>
+          <non_striker>S Chanderpaul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>AD Mascarenhas</bowler>
+          <non_striker>S Chanderpaul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>S Chanderpaul</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>S Chanderpaul</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>S Chanderpaul</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>S Chanderpaul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>S Chanderpaul</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>S Chanderpaul</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>AD Mascarenhas</bowler>
+          <non_striker>S Chanderpaul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>AD Mascarenhas</bowler>
+          <non_striker>S Chanderpaul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>AD Mascarenhas</bowler>
+          <non_striker>S Chanderpaul</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>AD Mascarenhas</bowler>
+          <non_striker>S Chanderpaul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>AD Mascarenhas</bowler>
+          <non_striker>S Chanderpaul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>AD Mascarenhas</bowler>
+          <non_striker>S Chanderpaul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>S Chanderpaul</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>IR Bell (sub)</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>S Chanderpaul</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>AD Mascarenhas</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>AD Mascarenhas</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>AD Mascarenhas</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>AD Mascarenhas</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>AD Mascarenhas</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>AD Mascarenhas</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>AD Mascarenhas</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>AD Mascarenhas</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>AD Mascarenhas</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>AD Mascarenhas</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>AD Mascarenhas</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>AD Mascarenhas</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>SCJ Broad</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>1</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>2</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>3</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>4</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>5</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>6</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>1</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>SCJ Broad</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>2</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>3</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>4</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>5</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>6</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>1</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>A Flintoff</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>2</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>A Flintoff</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>3</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>A Flintoff</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>4</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>A Flintoff</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>5</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>A Flintoff</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>6</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>A Flintoff</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>1</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>2</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>3</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>4</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>SCJ Broad</bowler>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>5</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>6</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>A Flintoff</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>DJ Bravo</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>1</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>D Ramdin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>PD Collingwood</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>KA Pollard</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>2</ball>
+          <batsman>D Ramdin</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>3</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>D Ramdin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>4</ball>
+          <batsman>D Ramdin</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>5</ball>
+          <batsman>D Ramdin</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>6</ball>
+          <batsman>D Ramdin</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>1</ball>
+          <batsman>D Ramdin</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>2</ball>
+          <batsman>D Ramdin</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>3</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>D Ramdin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>4</ball>
+          <batsman>D Ramdin</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>5</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>D Ramdin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>6</ball>
+          <batsman>D Ramdin</batsman>
+          <bowler>SCJ Broad</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>1</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>A Flintoff</bowler>
+          <non_striker>D Ramdin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>2</ball>
+          <batsman>D Ramdin</batsman>
+          <bowler>A Flintoff</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>3</ball>
+          <batsman>D Ramdin</batsman>
+          <bowler>A Flintoff</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>D Ramdin</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>4</ball>
+          <batsman>R Rampaul</batsman>
+          <bowler>A Flintoff</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>R Rampaul</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>5</ball>
+          <batsman>SJ Benn</batsman>
+          <bowler>A Flintoff</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>SJ Benn</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>6</ball>
+          <batsman>FH Edwards</batsman>
+          <bowler>A Flintoff</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>1</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>FH Edwards</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>2</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>FH Edwards</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>3</ball>
+          <batsman>FH Edwards</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>4</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>JM Anderson</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>FH Edwards</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>5</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>FH Edwards</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>6</ball>
+          <batsman>FH Edwards</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>7</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>JM Anderson</bowler>
+          <non_striker>FH Edwards</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>KP Pietersen</fielder>
+                <fielder>MJ Prior</fielder>
+              </fielders>
+              <kind>run out</kind>
+              <player_out>DJG Sammy</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

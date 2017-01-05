@@ -1,0 +1,3202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.8</data_version>
+    <created>2015-04-11</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Chennai</city>
+    <competition>IPL</competition>
+    <dates>
+      <date>2015-04-09</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>T20</match_type>
+    <outcome>
+      <by>
+        <runs>1</runs>
+      </by>
+      <winner>Chennai Super Kings</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>A Nehra</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Chennai Super Kings</team>
+      <team>Delhi Daredevils</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Delhi Daredevils</winner>
+    </toss>
+    <umpires>
+      <umpire>RK Illingworth</umpire>
+      <umpire>VA Kulkarni</umpire>
+    </umpires>
+    <venue>MA Chidambaram Stadium, Chepauk</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Chennai Super Kings</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>DR Smith</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>DR Smith</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>DR Smith</batsman>
+          <bowler>JA Morkel</bowler>
+          <extras>
+            <legbyes>4</legbyes>
+          </extras>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>4</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>DR Smith</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>DR Smith</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>DR Smith</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>BB McCullum</batsman>
+          <bowler>NM Coulter-Nile</bowler>
+          <non_striker>DR Smith</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>BB McCullum</batsman>
+          <bowler>NM Coulter-Nile</bowler>
+          <non_striker>DR Smith</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Yuvraj Singh</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>BB McCullum</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>DR Smith</batsman>
+          <bowler>NM Coulter-Nile</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>SK Raina</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>DR Smith</batsman>
+          <bowler>NM Coulter-Nile</bowler>
+          <non_striker>SK Raina</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>SK Raina</batsman>
+          <bowler>NM Coulter-Nile</bowler>
+          <non_striker>DR Smith</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>DR Smith</batsman>
+          <bowler>NM Coulter-Nile</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>SK Raina</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>SK Raina</batsman>
+          <bowler>NM Coulter-Nile</bowler>
+          <non_striker>DR Smith</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>DR Smith</batsman>
+          <bowler>DJ Muthuswami</bowler>
+          <extras>
+            <legbyes>4</legbyes>
+          </extras>
+          <non_striker>SK Raina</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>4</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>DR Smith</batsman>
+          <bowler>DJ Muthuswami</bowler>
+          <non_striker>SK Raina</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>DR Smith</batsman>
+          <bowler>DJ Muthuswami</bowler>
+          <non_striker>SK Raina</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>DR Smith</batsman>
+          <bowler>DJ Muthuswami</bowler>
+          <non_striker>SK Raina</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>DR Smith</batsman>
+          <bowler>DJ Muthuswami</bowler>
+          <non_striker>SK Raina</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>DR Smith</batsman>
+          <bowler>DJ Muthuswami</bowler>
+          <non_striker>SK Raina</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>SK Raina</batsman>
+          <bowler>NM Coulter-Nile</bowler>
+          <non_striker>DR Smith</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>DR Smith</batsman>
+          <bowler>NM Coulter-Nile</bowler>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <non_striker>SK Raina</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>SK Raina</batsman>
+          <bowler>NM Coulter-Nile</bowler>
+          <non_striker>DR Smith</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>SK Raina</batsman>
+          <bowler>NM Coulter-Nile</bowler>
+          <non_striker>DR Smith</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>SK Raina</batsman>
+          <bowler>NM Coulter-Nile</bowler>
+          <non_striker>DR Smith</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>SK Raina</batsman>
+          <bowler>NM Coulter-Nile</bowler>
+          <non_striker>DR Smith</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>SK Raina</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>DR Smith</batsman>
+          <bowler>DJ Muthuswami</bowler>
+          <non_striker>F du Plessis</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>DR Smith</batsman>
+          <bowler>DJ Muthuswami</bowler>
+          <non_striker>F du Plessis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>F du Plessis</batsman>
+          <bowler>DJ Muthuswami</bowler>
+          <non_striker>DR Smith</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>DR Smith</batsman>
+          <bowler>DJ Muthuswami</bowler>
+          <non_striker>F du Plessis</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>DR Smith</batsman>
+          <bowler>DJ Muthuswami</bowler>
+          <non_striker>F du Plessis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>F du Plessis</batsman>
+          <bowler>DJ Muthuswami</bowler>
+          <non_striker>DR Smith</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>DR Smith</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>F du Plessis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>F du Plessis</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>DR Smith</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>F du Plessis</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>DR Smith</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>DR Smith</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>F du Plessis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>F du Plessis</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>DR Smith</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>F du Plessis</batsman>
+          <bowler>JA Morkel</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>DR Smith</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>7</ball>
+          <batsman>F du Plessis</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>DR Smith</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>DR Smith</batsman>
+          <bowler>Imran Tahir</bowler>
+          <non_striker>F du Plessis</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>DR Smith</batsman>
+          <bowler>Imran Tahir</bowler>
+          <non_striker>F du Plessis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>F du Plessis</batsman>
+          <bowler>Imran Tahir</bowler>
+          <non_striker>DR Smith</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>DR Smith</batsman>
+          <bowler>Imran Tahir</bowler>
+          <non_striker>F du Plessis</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>DR Smith</batsman>
+          <bowler>Imran Tahir</bowler>
+          <non_striker>F du Plessis</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>DR Smith</batsman>
+          <bowler>Imran Tahir</bowler>
+          <non_striker>F du Plessis</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>F du Plessis</batsman>
+          <bowler>A Mishra</bowler>
+          <non_striker>DR Smith</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>F du Plessis</batsman>
+          <bowler>A Mishra</bowler>
+          <non_striker>DR Smith</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>DR Smith</batsman>
+          <bowler>A Mishra</bowler>
+          <non_striker>F du Plessis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>F du Plessis</batsman>
+          <bowler>A Mishra</bowler>
+          <non_striker>DR Smith</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>DR Smith</batsman>
+          <bowler>A Mishra</bowler>
+          <non_striker>F du Plessis</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>DR Smith</batsman>
+          <bowler>A Mishra</bowler>
+          <non_striker>F du Plessis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>DR Smith</batsman>
+          <bowler>Imran Tahir</bowler>
+          <non_striker>F du Plessis</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>NM Coulter-Nile</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>DR Smith</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>F du Plessis</batsman>
+          <bowler>Imran Tahir</bowler>
+          <non_striker>RA Jadeja</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>F du Plessis</batsman>
+          <bowler>Imran Tahir</bowler>
+          <non_striker>RA Jadeja</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>F du Plessis</batsman>
+          <bowler>Imran Tahir</bowler>
+          <non_striker>RA Jadeja</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>RA Jadeja</batsman>
+          <bowler>Imran Tahir</bowler>
+          <non_striker>F du Plessis</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>RA Jadeja</batsman>
+          <bowler>Imran Tahir</bowler>
+          <non_striker>F du Plessis</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>F du Plessis</batsman>
+          <bowler>A Mishra</bowler>
+          <non_striker>RA Jadeja</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>F du Plessis</batsman>
+          <bowler>A Mishra</bowler>
+          <non_striker>RA Jadeja</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>RA Jadeja</batsman>
+          <bowler>A Mishra</bowler>
+          <non_striker>F du Plessis</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>RA Jadeja</batsman>
+          <bowler>A Mishra</bowler>
+          <non_striker>F du Plessis</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>RA Jadeja</batsman>
+          <bowler>A Mishra</bowler>
+          <non_striker>F du Plessis</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>RA Jadeja</batsman>
+          <bowler>A Mishra</bowler>
+          <non_striker>F du Plessis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>RA Jadeja</batsman>
+          <bowler>JP Duminy</bowler>
+          <non_striker>F du Plessis</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>RA Jadeja</batsman>
+          <bowler>JP Duminy</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>F du Plessis</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>RA Jadeja</batsman>
+          <bowler>JP Duminy</bowler>
+          <non_striker>F du Plessis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>F du Plessis</batsman>
+          <bowler>JP Duminy</bowler>
+          <non_striker>RA Jadeja</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>F du Plessis</batsman>
+          <bowler>JP Duminy</bowler>
+          <non_striker>RA Jadeja</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>F du Plessis</batsman>
+          <bowler>JP Duminy</bowler>
+          <non_striker>RA Jadeja</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>7</ball>
+          <batsman>F du Plessis</batsman>
+          <bowler>JP Duminy</bowler>
+          <non_striker>RA Jadeja</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>RA Jadeja</batsman>
+          <bowler>A Mishra</bowler>
+          <non_striker>F du Plessis</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>RA Jadeja</batsman>
+          <bowler>A Mishra</bowler>
+          <non_striker>F du Plessis</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>RA Jadeja</batsman>
+          <bowler>A Mishra</bowler>
+          <non_striker>F du Plessis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>F du Plessis</batsman>
+          <bowler>A Mishra</bowler>
+          <non_striker>RA Jadeja</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>F du Plessis</batsman>
+          <bowler>A Mishra</bowler>
+          <non_striker>RA Jadeja</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>F du Plessis</batsman>
+          <bowler>A Mishra</bowler>
+          <non_striker>RA Jadeja</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>F du Plessis</batsman>
+          <bowler>JP Duminy</bowler>
+          <non_striker>RA Jadeja</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>F du Plessis</batsman>
+          <bowler>JP Duminy</bowler>
+          <non_striker>RA Jadeja</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>SS Iyer</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>F du Plessis</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>RA Jadeja</batsman>
+          <bowler>JP Duminy</bowler>
+          <non_striker>MS Dhoni</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>JP Duminy</bowler>
+          <non_striker>RA Jadeja</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>RA Jadeja</batsman>
+          <bowler>JP Duminy</bowler>
+          <non_striker>MS Dhoni</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>JP Duminy</bowler>
+          <non_striker>RA Jadeja</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>RA Jadeja</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>MS Dhoni</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>RA Jadeja</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>MS Dhoni</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>RA Jadeja</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>RA Jadeja</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>RA Jadeja</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>RA Jadeja</batsman>
+          <bowler>JA Morkel</bowler>
+          <non_striker>MS Dhoni</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>Imran Tahir</bowler>
+          <non_striker>RA Jadeja</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>RA Jadeja</batsman>
+          <bowler>Imran Tahir</bowler>
+          <non_striker>MS Dhoni</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>Imran Tahir</bowler>
+          <non_striker>RA Jadeja</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>Imran Tahir</bowler>
+          <non_striker>RA Jadeja</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>Imran Tahir</bowler>
+          <non_striker>RA Jadeja</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>Imran Tahir</bowler>
+          <non_striker>RA Jadeja</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>A Mishra</bowler>
+          <non_striker>RA Jadeja</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>RA Jadeja</batsman>
+          <bowler>A Mishra</bowler>
+          <non_striker>MS Dhoni</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>CM Gautam</fielder>
+              </fielders>
+              <kind>stumped</kind>
+              <player_out>RA Jadeja</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>A Mishra</bowler>
+          <non_striker>MS Dhoni</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>A Mishra</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>A Mishra</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>A Mishra</bowler>
+          <non_striker>MS Dhoni</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>DJ Muthuswami</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>DJ Muthuswami</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>DJ Muthuswami</bowler>
+          <non_striker>DJ Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>DJ Bravo</batsman>
+          <bowler>DJ Muthuswami</bowler>
+          <non_striker>MS Dhoni</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>DJ Bravo</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>R Ashwin</batsman>
+          <bowler>DJ Muthuswami</bowler>
+          <non_striker>MS Dhoni</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>R Ashwin</batsman>
+          <bowler>DJ Muthuswami</bowler>
+          <non_striker>MS Dhoni</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>NM Coulter-Nile</bowler>
+          <non_striker>R Ashwin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>NM Coulter-Nile</bowler>
+          <non_striker>R Ashwin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>NM Coulter-Nile</bowler>
+          <non_striker>R Ashwin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>NM Coulter-Nile</bowler>
+          <non_striker>R Ashwin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>NM Coulter-Nile</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>R Ashwin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>R Ashwin</batsman>
+          <bowler>NM Coulter-Nile</bowler>
+          <non_striker>MS Dhoni</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>Imran Tahir</bowler>
+          <non_striker>R Ashwin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>R Ashwin</batsman>
+          <bowler>Imran Tahir</bowler>
+          <non_striker>MS Dhoni</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>R Ashwin</batsman>
+          <bowler>Imran Tahir</bowler>
+          <non_striker>MS Dhoni</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>R Ashwin</batsman>
+          <bowler>Imran Tahir</bowler>
+          <non_striker>MS Dhoni</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>Imran Tahir</bowler>
+          <non_striker>R Ashwin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>R Ashwin</batsman>
+          <bowler>Imran Tahir</bowler>
+          <non_striker>MS Dhoni</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>NM Coulter-Nile</bowler>
+          <non_striker>R Ashwin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>R Ashwin</batsman>
+          <bowler>NM Coulter-Nile</bowler>
+          <non_striker>MS Dhoni</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>NM Coulter-Nile</bowler>
+          <non_striker>R Ashwin</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>NM Coulter-Nile</bowler>
+          <non_striker>R Ashwin</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>NM Coulter-Nile</bowler>
+          <non_striker>R Ashwin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>MA Agarwal</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>MS Dhoni</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>MM Sharma</batsman>
+          <bowler>NM Coulter-Nile</bowler>
+          <non_striker>R Ashwin</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Delhi Daredevils</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>MA Agarwal</batsman>
+          <bowler>A Nehra</bowler>
+          <non_striker>CM Gautam</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>MA Agarwal</batsman>
+          <bowler>A Nehra</bowler>
+          <non_striker>CM Gautam</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>MA Agarwal</batsman>
+          <bowler>A Nehra</bowler>
+          <non_striker>CM Gautam</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>MA Agarwal</batsman>
+          <bowler>A Nehra</bowler>
+          <non_striker>CM Gautam</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>MA Agarwal</batsman>
+          <bowler>A Nehra</bowler>
+          <non_striker>CM Gautam</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>MA Agarwal</batsman>
+          <bowler>A Nehra</bowler>
+          <non_striker>CM Gautam</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>CM Gautam</batsman>
+          <bowler>MM Sharma</bowler>
+          <non_striker>MA Agarwal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>MA Agarwal</batsman>
+          <bowler>MM Sharma</bowler>
+          <non_striker>CM Gautam</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>MA Agarwal</batsman>
+          <bowler>MM Sharma</bowler>
+          <non_striker>CM Gautam</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>CM Gautam</batsman>
+          <bowler>MM Sharma</bowler>
+          <non_striker>MA Agarwal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>MA Agarwal</batsman>
+          <bowler>MM Sharma</bowler>
+          <non_striker>CM Gautam</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>MA Agarwal</batsman>
+          <bowler>MM Sharma</bowler>
+          <non_striker>CM Gautam</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>CM Gautam</batsman>
+          <bowler>A Nehra</bowler>
+          <non_striker>MA Agarwal</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>CM Gautam</batsman>
+          <bowler>A Nehra</bowler>
+          <non_striker>MA Agarwal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>CM Gautam</batsman>
+          <bowler>A Nehra</bowler>
+          <non_striker>MA Agarwal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>DJ Bravo</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>CM Gautam</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>A Nehra</bowler>
+          <non_striker>MA Agarwal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>MA Agarwal</batsman>
+          <bowler>A Nehra</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>MA Agarwal</batsman>
+          <bowler>A Nehra</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>MS Dhoni</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>MA Agarwal</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>MM Sharma</bowler>
+          <non_striker>SS Iyer</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>SS Iyer</batsman>
+          <bowler>MM Sharma</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>MM Sharma</bowler>
+          <non_striker>SS Iyer</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>MM Sharma</bowler>
+          <non_striker>SS Iyer</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>SS Iyer</batsman>
+          <bowler>MM Sharma</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>MM Sharma</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>SS Iyer</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>7</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>MM Sharma</bowler>
+          <non_striker>SS Iyer</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>SS Iyer</batsman>
+          <bowler>A Nehra</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>SS Iyer</batsman>
+          <bowler>A Nehra</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>A Nehra</bowler>
+          <non_striker>SS Iyer</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>SS Iyer</batsman>
+          <bowler>A Nehra</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>SS Iyer</batsman>
+          <bowler>A Nehra</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>SS Iyer</batsman>
+          <bowler>A Nehra</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>F du Plessis</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>SS Iyer</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>MM Sharma</bowler>
+          <non_striker>KM Jadhav</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>MM Sharma</bowler>
+          <non_striker>KM Jadhav</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>MM Sharma</bowler>
+          <non_striker>KM Jadhav</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>KM Jadhav</batsman>
+          <bowler>MM Sharma</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>KM Jadhav</batsman>
+          <bowler>MM Sharma</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>KM Jadhav</batsman>
+          <bowler>MM Sharma</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>IC Pandey</bowler>
+          <non_striker>KM Jadhav</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>IC Pandey</bowler>
+          <non_striker>KM Jadhav</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>IC Pandey</bowler>
+          <non_striker>KM Jadhav</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>IC Pandey</bowler>
+          <non_striker>KM Jadhav</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>IC Pandey</bowler>
+          <non_striker>KM Jadhav</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>IC Pandey</bowler>
+          <non_striker>KM Jadhav</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>R Ashwin</bowler>
+          <non_striker>KM Jadhav</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>KM Jadhav</batsman>
+          <bowler>R Ashwin</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>R Ashwin</bowler>
+          <non_striker>KM Jadhav</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>R Ashwin</bowler>
+          <non_striker>KM Jadhav</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>R Ashwin</bowler>
+          <non_striker>KM Jadhav</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>KM Jadhav</batsman>
+          <bowler>R Ashwin</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>KM Jadhav</batsman>
+          <bowler>IC Pandey</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>IC Pandey</bowler>
+          <non_striker>KM Jadhav</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>IC Pandey</bowler>
+          <non_striker>KM Jadhav</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>IC Pandey</bowler>
+          <non_striker>KM Jadhav</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>KM Jadhav</batsman>
+          <bowler>IC Pandey</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>KM Jadhav</batsman>
+          <bowler>IC Pandey</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>KM Jadhav</batsman>
+          <bowler>R Ashwin</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>KM Jadhav</batsman>
+          <bowler>R Ashwin</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>R Ashwin</bowler>
+          <non_striker>KM Jadhav</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>R Ashwin</bowler>
+          <non_striker>KM Jadhav</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>R Ashwin</bowler>
+          <non_striker>KM Jadhav</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>KM Jadhav</batsman>
+          <bowler>R Ashwin</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>KM Jadhav</batsman>
+          <bowler>IC Pandey</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>KM Jadhav</batsman>
+          <bowler>IC Pandey</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>IC Pandey</bowler>
+          <non_striker>KM Jadhav</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>IC Pandey</bowler>
+          <non_striker>KM Jadhav</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>IC Pandey</bowler>
+          <non_striker>KM Jadhav</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>KM Jadhav</batsman>
+          <bowler>IC Pandey</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>R Ashwin</bowler>
+          <non_striker>KM Jadhav</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>R Ashwin</bowler>
+          <non_striker>KM Jadhav</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>KM Jadhav</batsman>
+          <bowler>R Ashwin</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>KM Jadhav</batsman>
+          <bowler>R Ashwin</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>R Ashwin</bowler>
+          <non_striker>KM Jadhav</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>KM Jadhav</batsman>
+          <bowler>R Ashwin</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>DJ Bravo</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>KM Jadhav</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>KM Jadhav</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>KM Jadhav</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>KM Jadhav</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>KM Jadhav</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>KM Jadhav</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>7</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>KM Jadhav</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>KM Jadhav</batsman>
+          <bowler>MM Sharma</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>RA Jadeja</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>KM Jadhav</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>Yuvraj Singh</batsman>
+          <bowler>MM Sharma</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>MM Sharma</bowler>
+          <non_striker>Yuvraj Singh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>Yuvraj Singh</batsman>
+          <bowler>MM Sharma</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>Yuvraj Singh</batsman>
+          <bowler>MM Sharma</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>Yuvraj Singh</batsman>
+          <bowler>MM Sharma</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>DJ Bravo</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Yuvraj Singh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>Yuvraj Singh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>Yuvraj Singh</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>Yuvraj Singh</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>IC Pandey</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Yuvraj Singh</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>JP Duminy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>7</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>IC Pandey</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>IC Pandey</bowler>
+          <non_striker>JP Duminy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>IC Pandey</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>IC Pandey</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>JP Duminy</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>NM Coulter-Nile</batsman>
+          <bowler>IC Pandey</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>NM Coulter-Nile</batsman>
+          <bowler>IC Pandey</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>NM Coulter-Nile</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>NM Coulter-Nile</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>NM Coulter-Nile</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>NM Coulter-Nile</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>NM Coulter-Nile</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>NM Coulter-Nile</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>R Ashwin</bowler>
+          <non_striker>NM Coulter-Nile</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>R Ashwin</bowler>
+          <non_striker>NM Coulter-Nile</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>R Ashwin</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>NM Coulter-Nile</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>R Ashwin</bowler>
+          <non_striker>NM Coulter-Nile</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>NM Coulter-Nile</batsman>
+          <bowler>R Ashwin</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>NM Coulter-Nile</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>A Mishra</batsman>
+          <bowler>R Ashwin</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>7</ball>
+          <batsman>A Mishra</batsman>
+          <bowler>R Ashwin</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>A Mishra</batsman>
+          <bowler>A Nehra</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>A Nehra</bowler>
+          <non_striker>A Mishra</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>A Nehra</bowler>
+          <non_striker>A Mishra</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>A Mishra</batsman>
+          <bowler>A Nehra</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>A Mishra</batsman>
+          <bowler>A Nehra</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>MS Dhoni</fielder>
+                <fielder>A Nehra</fielder>
+              </fielders>
+              <kind>run out</kind>
+              <player_out>A Mishra</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>A Nehra</bowler>
+          <non_striker>Imran Tahir</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>7</ball>
+          <batsman>Imran Tahir</batsman>
+          <bowler>A Nehra</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>Imran Tahir</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>Imran Tahir</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>Imran Tahir</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>JA Morkel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>SK Raina</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Imran Tahir</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>DJ Muthuswami</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>DJ Muthuswami</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>JA Morkel</batsman>
+          <bowler>DJ Bravo</bowler>
+          <non_striker>DJ Muthuswami</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

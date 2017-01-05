@@ -1,0 +1,2934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.8</data_version>
+    <created>2013-12-17</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Abu Dhabi</city>
+    <dates>
+      <date>2013-11-27</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>IT20</match_type>
+    <neutral_venue>1</neutral_venue>
+    <outcome>
+      <by>
+        <wickets>7</wickets>
+      </by>
+      <winner>Scotland</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>CS MacLeod</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Italy</team>
+      <team>Scotland</team>
+    </teams>
+    <toss>
+      <decision>bat</decision>
+      <winner>Italy</winner>
+    </toss>
+    <umpires>
+      <umpire>AT Holdstock</umpire>
+      <umpire>JD Ward</umpire>
+    </umpires>
+    <venue>Sheikh Zayed Stadium Nursery 2</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Italy</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>GK Berg</batsman>
+          <bowler>NM Carter</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>GK Berg</batsman>
+          <bowler>NM Carter</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>GK Berg</batsman>
+          <bowler>NM Carter</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>GK Berg</batsman>
+          <bowler>NM Carter</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>GK Berg</batsman>
+          <bowler>NM Carter</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>GK Berg</batsman>
+          <bowler>NM Carter</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>MW Machan</bowler>
+          <non_striker>GK Berg</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>GK Berg</batsman>
+          <bowler>MW Machan</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>GK Berg</batsman>
+          <bowler>MW Machan</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>GK Berg</batsman>
+          <bowler>MW Machan</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>MW Machan</bowler>
+          <non_striker>GK Berg</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>MW Machan</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>GK Berg</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>NM Carter</bowler>
+          <non_striker>GK Berg</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>NM Carter</bowler>
+          <non_striker>GK Berg</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>NM Carter</bowler>
+          <non_striker>GK Berg</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>GK Berg</batsman>
+          <bowler>NM Carter</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>GK Berg</batsman>
+          <bowler>NM Carter</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>GK Berg</batsman>
+          <bowler>NM Carter</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>GK Berg</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>GK Berg</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>GK Berg</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>GK Berg</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>GK Berg</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>PA Petricola</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>PA Petricola</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>PA Petricola</batsman>
+          <bowler>MW Machan</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>MW Machan</bowler>
+          <non_striker>PA Petricola</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>PA Petricola</batsman>
+          <bowler>MW Machan</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>PA Petricola</batsman>
+          <bowler>MW Machan</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>MW Machan</bowler>
+          <non_striker>PA Petricola</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>MW Machan</bowler>
+          <non_striker>PA Petricola</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>PA Petricola</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>PA Petricola</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>PA Petricola</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>PA Petricola</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>PA Petricola</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>PA Petricola</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>PA Petricola</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>G Goudie</bowler>
+          <non_striker>DG Crowley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>DG Crowley</batsman>
+          <bowler>G Goudie</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>G Goudie</bowler>
+          <non_striker>DG Crowley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>DG Crowley</batsman>
+          <bowler>G Goudie</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>G Goudie</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>DG Crowley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>DG Crowley</batsman>
+          <bowler>G Goudie</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>DG Crowley</batsman>
+          <bowler>RM Haq</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>DG Crowley</batsman>
+          <bowler>RM Haq</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>RM Haq</bowler>
+          <non_striker>DG Crowley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>RM Haq</bowler>
+          <non_striker>DG Crowley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>DG Crowley</batsman>
+          <bowler>RM Haq</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>RM Haq</bowler>
+          <non_striker>DG Crowley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>RML Taylor</bowler>
+          <non_striker>DG Crowley</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>RML Taylor</bowler>
+          <non_striker>DG Crowley</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>RML Taylor</bowler>
+          <non_striker>DG Crowley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>RML Taylor</bowler>
+          <non_striker>DG Crowley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>DG Crowley</batsman>
+          <bowler>RML Taylor</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>RML Taylor</bowler>
+          <non_striker>DG Crowley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>RM Haq</bowler>
+          <non_striker>DG Crowley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>RM Haq</bowler>
+          <non_striker>DG Crowley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>RM Haq</bowler>
+          <non_striker>DG Crowley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>RM Haq</bowler>
+          <non_striker>DG Crowley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>RM Haq</bowler>
+          <non_striker>DG Crowley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>RM Haq</bowler>
+          <non_striker>DG Crowley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>NM Carter</bowler>
+          <non_striker>DG Crowley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>DG Crowley</batsman>
+          <bowler>NM Carter</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>DG Crowley</batsman>
+          <bowler>NM Carter</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>DG Crowley</batsman>
+          <bowler>NM Carter</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>MH Cross</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>DG Crowley</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>CS Sandri</batsman>
+          <bowler>NM Carter</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>CS Sandri</batsman>
+          <bowler>NM Carter</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>MW Machan</bowler>
+          <non_striker>CS Sandri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>CS Sandri</batsman>
+          <bowler>MW Machan</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>MW Machan</bowler>
+          <non_striker>CS Sandri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>CS Sandri</batsman>
+          <bowler>MW Machan</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>MW Machan</bowler>
+          <non_striker>CS Sandri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>CS Sandri</batsman>
+          <bowler>MW Machan</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>CS Sandri</batsman>
+          <bowler>RM Haq</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>RM Haq</bowler>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <non_striker>CS Sandri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>CS Sandri</batsman>
+          <bowler>RM Haq</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>RM Haq</bowler>
+          <non_striker>CS Sandri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>CS Sandri</batsman>
+          <bowler>RM Haq</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>RM Haq</bowler>
+          <non_striker>CS Sandri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>CS Sandri</batsman>
+          <bowler>MW Machan</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>CS Sandri</batsman>
+          <bowler>MW Machan</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>MH Cross</fielder>
+              </fielders>
+              <kind>stumped</kind>
+              <player_out>CS Sandri</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>BBJL Perera</batsman>
+          <bowler>MW Machan</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>BBJL Perera</batsman>
+          <bowler>MW Machan</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>BBJL Perera</batsman>
+          <bowler>MW Machan</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>MW Machan</bowler>
+          <non_striker>BBJL Perera</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>7</ball>
+          <batsman>BBJL Perera</batsman>
+          <bowler>MW Machan</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>BBJL Perera</batsman>
+          <bowler>G Goudie</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>G Goudie</bowler>
+          <extras>
+            <byes>4</byes>
+          </extras>
+          <non_striker>BBJL Perera</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>4</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>G Goudie</bowler>
+          <non_striker>BBJL Perera</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>BBJL Perera</batsman>
+          <bowler>G Goudie</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>G Goudie</bowler>
+          <non_striker>BBJL Perera</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>BBJL Perera</batsman>
+          <bowler>G Goudie</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>RM Haq</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>BBJL Perera</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>BBJL Perera</batsman>
+          <bowler>RM Haq</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>RM Haq</bowler>
+          <non_striker>BBJL Perera</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>BBJL Perera</batsman>
+          <bowler>RM Haq</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>caught and bowled</kind>
+              <player_out>BBJL Perera</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>MG Raso</batsman>
+          <bowler>RM Haq</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>RM Haq</bowler>
+          <non_striker>MG Raso</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>MG Raso</batsman>
+          <bowler>G Goudie</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>G Goudie</bowler>
+          <non_striker>MG Raso</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>MG Raso</batsman>
+          <bowler>G Goudie</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>MG Raso</batsman>
+          <bowler>G Goudie</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>MG Raso</batsman>
+          <bowler>G Goudie</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>MG Raso</batsman>
+          <bowler>G Goudie</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>MG Raso</batsman>
+          <bowler>RML Taylor</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>MG Raso</batsman>
+          <bowler>RML Taylor</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>RML Taylor</bowler>
+          <non_striker>MG Raso</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>MG Raso</batsman>
+          <bowler>RML Taylor</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>RML Taylor</bowler>
+          <non_striker>MG Raso</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>MG Raso</batsman>
+          <bowler>RML Taylor</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>RM Haq</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>MG Raso</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>DA Marage</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>DA Marage</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>DA Marage</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>DA Marage</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>SM Sharif</fielder>
+              </fielders>
+              <kind>run out</kind>
+              <player_out>DA Marage</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>V Pennazza</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>V Pennazza</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>V Pennazza</batsman>
+          <bowler>NM Carter</bowler>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>NM Carter</bowler>
+          <non_striker>V Pennazza</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>NM Carter</bowler>
+          <non_striker>V Pennazza</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>NM Carter</bowler>
+          <non_striker>V Pennazza</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>AM Northcote</batsman>
+          <bowler>NM Carter</bowler>
+          <non_striker>V Pennazza</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>V Pennazza</batsman>
+          <bowler>NM Carter</bowler>
+          <non_striker>AM Northcote</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>MA Leask</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>V Pennazza</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Scotland</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>GRD Munasinghe</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>GRD Munasinghe</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>GRD Munasinghe</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>GRD Munasinghe</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>GRD Munasinghe</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>GRD Munasinghe</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>DG Crowley</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>DG Crowley</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>DG Crowley</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>DG Crowley</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>DG Crowley</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>DG Crowley</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>GRD Munasinghe</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>GRD Munasinghe</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>GRD Munasinghe</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>GRD Munasinghe</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>GRD Munasinghe</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>GRD Munasinghe</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>V Pennazza</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>V Pennazza</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>V Pennazza</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>V Pennazza</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>V Pennazza</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>V Pennazza</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>GK Berg</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>GK Berg</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>GK Berg</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>GK Berg</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>GK Berg</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>GK Berg</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>V Pennazza</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>V Pennazza</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>V Pennazza</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>V Pennazza</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>V Pennazza</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>V Pennazza</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>MGSM Fernando</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>MGSM Fernando</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>MGSM Fernando</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>MGSM Fernando</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>MGSM Fernando</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>MGSM Fernando</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>CS Sandri</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>CS Sandri</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>CS Sandri</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>CS Sandri</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>CS Sandri</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>CS Sandri</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>DA Marage</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>DA Marage</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>DA Marage</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>DA Marage</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>DA Marage</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>DA Marage</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>7</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>DA Marage</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>CS Sandri</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>CS Sandri</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>CS Sandri</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>CS Sandri</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>CS Sandri</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>CS Sandri</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>GK Berg</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>GK Berg</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>GK Berg</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>GK Berg</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>GK Berg</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>GK Berg</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>7</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>GK Berg</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>DG Crowley</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>DG Crowley</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>DG Crowley</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>DG Crowley</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>DG Crowley</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>DG Crowley</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>CS Sandri</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>CS Sandri</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>CS Sandri</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>CS Sandri</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>CS Sandri</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>CS Sandri</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>DG Crowley</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>DG Crowley</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>DG Crowley</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>DG Crowley</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>DG Crowley</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>DG Crowley</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>CS Sandri</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>CS Sandri</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>CS Sandri</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>CS Sandri</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>BBJL Perera</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>CS MacLeod</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>CS Sandri</bowler>
+          <non_striker>MW Machan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>CS Sandri</bowler>
+          <non_striker>MW Machan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>RD Berrington</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>7</ball>
+          <batsman>MA Leask</batsman>
+          <bowler>CS Sandri</bowler>
+          <non_striker>MW Machan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>MW Machan</batsman>
+          <bowler>V Pennazza</bowler>
+          <non_striker>MA Leask</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>MA Leask</batsman>
+          <bowler>V Pennazza</bowler>
+          <non_striker>MW Machan</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>MW Machan</batsman>
+          <bowler>V Pennazza</bowler>
+          <non_striker>MA Leask</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>MW Machan</batsman>
+          <bowler>V Pennazza</bowler>
+          <non_striker>MA Leask</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>MW Machan</batsman>
+          <bowler>V Pennazza</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>MA Leask</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>MW Machan</batsman>
+          <bowler>V Pennazza</bowler>
+          <non_striker>MA Leask</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>7</ball>
+          <batsman>MW Machan</batsman>
+          <bowler>V Pennazza</bowler>
+          <non_striker>MA Leask</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>MW Machan</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>MA Leask</batsman>
+          <bowler>GRD Munasinghe</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>GRD Munasinghe</bowler>
+          <non_striker>MA Leask</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>GRD Munasinghe</bowler>
+          <non_striker>MA Leask</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>GRD Munasinghe</bowler>
+          <non_striker>MA Leask</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>GRD Munasinghe</bowler>
+          <non_striker>MA Leask</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>MA Leask</batsman>
+          <bowler>GRD Munasinghe</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>V Pennazza</bowler>
+          <non_striker>MA Leask</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>V Pennazza</bowler>
+          <non_striker>MA Leask</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>V Pennazza</bowler>
+          <non_striker>MA Leask</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

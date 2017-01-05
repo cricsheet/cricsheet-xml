@@ -1,0 +1,6406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.8</data_version>
+    <created>2013-07-11</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Trinidad</city>
+    <dates>
+      <date>2013-07-07</date>
+      <date>2013-07-08</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>ODI</match_type>
+    <outcome>
+      <by>
+        <runs>39</runs>
+      </by>
+      <method>D/L</method>
+      <winner>Sri Lanka</winner>
+    </outcome>
+    <overs>50</overs>
+    <player_of_match>
+      <player_of_match>KC Sangakkara</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>West Indies</team>
+      <team>Sri Lanka</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>West Indies</winner>
+    </toss>
+    <umpires>
+      <umpire>NJ Llong</umpire>
+      <umpire>JS Wilson</umpire>
+    </umpires>
+    <venue>Queen's Park Oval, Port of Spain</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Sri Lanka</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>KAJ Roach</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>DPMD Jayawardene</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>DPMD Jayawardene</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>KAJ Roach</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>DPMD Jayawardene</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>DPMD Jayawardene</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>DPMD Jayawardene</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>DPMD Jayawardene</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>DPMD Jayawardene</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>DPMD Jayawardene</batsman>
+          <bowler>JO Holder</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>DPMD Jayawardene</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>DPMD Jayawardene</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>DPMD Jayawardene</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>DPMD Jayawardene</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>DPMD Jayawardene</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>DPMD Jayawardene</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>DPMD Jayawardene</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>DPMD Jayawardene</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>DPMD Jayawardene</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>DPMD Jayawardene</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>DPMD Jayawardene</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>DPMD Jayawardene</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>JO Holder</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>DPMD Jayawardene</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>DPMD Jayawardene</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>DPMD Jayawardene</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>DPMD Jayawardene</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>JO Holder</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>DPMD Jayawardene</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>DPMD Jayawardene</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>7</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>DPMD Jayawardene</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>8</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>DPMD Jayawardene</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>DM Bravo</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>WU Tharanga</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>DPMD Jayawardene</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>DS Smith</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>DPMD Jayawardene</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>LD Chandimal</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>LD Chandimal</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>LD Chandimal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>LD Chandimal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>LD Chandimal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>JO Holder</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>LD Chandimal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>JO Holder</bowler>
+          <extras>
+            <wides>5</wides>
+          </extras>
+          <non_striker>LD Chandimal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>5</extras>
+            <total>5</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>LD Chandimal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>LD Chandimal</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>LD Chandimal</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>LD Chandimal</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>7</ball>
+          <batsman>LD Chandimal</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>8</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>LD Chandimal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>LD Chandimal</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>LD Chandimal</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>LD Chandimal</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>7</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>TL Best</bowler>
+          <extras>
+            <wides>5</wides>
+          </extras>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>5</extras>
+            <total>5</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>7</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>TL Best</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>TL Best</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>TL Best</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>7</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>8</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>1</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>2</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>3</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>4</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>5</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>6</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>1</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>2</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>3</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>4</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>5</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>6</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>1</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>TL Best</bowler>
+          <extras>
+            <wides>5</wides>
+          </extras>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>5</extras>
+            <total>5</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>2</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>3</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>4</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>5</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>6</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>7</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>1</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>2</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>3</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>4</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>5</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>6</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>1</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>2</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>3</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>4</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>5</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>6</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>1</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>2</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>3</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>HDRL Thirimanne</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>4</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>5</ball>
+          <batsman>HDRL Thirimanne</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>HDRL Thirimanne</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>6</ball>
+          <batsman>AD Mathews</batsman>
+          <bowler>MN Samuels</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>7</ball>
+          <batsman>AD Mathews</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>1</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>AD Mathews</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>2</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>AD Mathews</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>3</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>AD Mathews</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>4</ball>
+          <batsman>AD Mathews</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>5</ball>
+          <batsman>AD Mathews</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>6</ball>
+          <batsman>AD Mathews</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>1</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>AD Mathews</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>2</ball>
+          <batsman>AD Mathews</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>3</ball>
+          <batsman>AD Mathews</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>4</ball>
+          <batsman>AD Mathews</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>5</ball>
+          <batsman>AD Mathews</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>6</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>AD Mathews</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>1</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>AD Mathews</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>2</ball>
+          <batsman>AD Mathews</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>3</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>AD Mathews</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>4</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>AD Mathews</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>5</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>AD Mathews</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>6</ball>
+          <batsman>AD Mathews</batsman>
+          <bowler>DJG Sammy</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>1</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>AD Mathews</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>2</ball>
+          <batsman>AD Mathews</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>3</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>AD Mathews</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>4</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>AD Mathews</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>5</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>AD Mathews</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>6</ball>
+          <batsman>AD Mathews</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>1</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>AD Mathews</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>2</ball>
+          <batsman>AD Mathews</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>3</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>AD Mathews</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>4</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>AD Mathews</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>5</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>AD Mathews</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>6</ball>
+          <batsman>AD Mathews</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>1</ball>
+          <batsman>AD Mathews</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>2</ball>
+          <batsman>AD Mathews</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>3</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>AD Mathews</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>4</ball>
+          <batsman>AD Mathews</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>5</ball>
+          <batsman>AD Mathews</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>6</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>AD Mathews</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>1</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>AD Mathews</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>2</ball>
+          <batsman>AD Mathews</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>3</ball>
+          <batsman>AD Mathews</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>4</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>AD Mathews</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>5</ball>
+          <batsman>AD Mathews</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>6</ball>
+          <batsman>AD Mathews</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>1</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>AD Mathews</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>2</ball>
+          <batsman>AD Mathews</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>3</ball>
+          <batsman>AD Mathews</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>4</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>AD Mathews</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>5</ball>
+          <batsman>AD Mathews</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>6</ball>
+          <batsman>AD Mathews</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>1</ball>
+          <batsman>AD Mathews</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>DS Smith</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>AD Mathews</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>2</ball>
+          <batsman>BMAJ Mendis</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>3</ball>
+          <batsman>BMAJ Mendis</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>4</ball>
+          <batsman>BMAJ Mendis</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>5</ball>
+          <batsman>BMAJ Mendis</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>6</ball>
+          <batsman>BMAJ Mendis</batsman>
+          <bowler>KAJ Roach</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>J Charles</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>BMAJ Mendis</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>1</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>KMDN Kulasekara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>2</ball>
+          <batsman>KMDN Kulasekara</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>3</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>KMDN Kulasekara</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>4</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>JO Holder</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>KMDN Kulasekara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>5</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>KMDN Kulasekara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>6</ball>
+          <batsman>KMDN Kulasekara</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>7</ball>
+          <batsman>KMDN Kulasekara</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>1</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>KMDN Kulasekara</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>2</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>KMDN Kulasekara</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>3</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>KMDN Kulasekara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>4</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>TL Best</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>KMDN Kulasekara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>5</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>KMDN Kulasekara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>6</ball>
+          <batsman>KMDN Kulasekara</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>7</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>TL Best</bowler>
+          <non_striker>KMDN Kulasekara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>1</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>KMDN Kulasekara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>2</ball>
+          <batsman>KMDN Kulasekara</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>3</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>KMDN Kulasekara</non_striker>
+          <runs>
+            <batsman>5</batsman>
+            <extras>0</extras>
+            <total>5</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>4</ball>
+          <batsman>KMDN Kulasekara</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>5</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>KMDN Kulasekara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>6</ball>
+          <batsman>KMDN Kulasekara</batsman>
+          <bowler>MN Samuels</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>1</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>KMDN Kulasekara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>2</ball>
+          <batsman>KMDN Kulasekara</batsman>
+          <bowler>KA Pollard</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>3</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>KMDN Kulasekara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>4</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>KA Pollard</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>KMDN Kulasekara</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>1</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>5</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>KMDN Kulasekara</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>6</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>KMDN Kulasekara</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>7</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>KMDN Kulasekara</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>1</ball>
+          <batsman>KMDN Kulasekara</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>DM Bravo</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>KMDN Kulasekara</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>2</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>SMSM Senanayake</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>3</ball>
+          <batsman>SMSM Senanayake</batsman>
+          <bowler>JO Holder</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>4</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>SMSM Senanayake</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>5</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>SMSM Senanayake</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>6</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>JO Holder</bowler>
+          <non_striker>SMSM Senanayake</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>1</ball>
+          <batsman>SMSM Senanayake</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>2</ball>
+          <batsman>SMSM Senanayake</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>3</ball>
+          <batsman>SMSM Senanayake</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>4</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>SMSM Senanayake</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>5</ball>
+          <batsman>SMSM Senanayake</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>6</ball>
+          <batsman>SMSM Senanayake</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>DM Bravo</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>SMSM Senanayake</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>West Indies</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>CH Gayle</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>J Charles</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>CH Gayle</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>J Charles</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>J Charles</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>CH Gayle</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>J Charles</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>CH Gayle</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>CH Gayle</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>J Charles</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>CH Gayle</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>J Charles</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>J Charles</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>CH Gayle</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>J Charles</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>CH Gayle</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>CH Gayle</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>J Charles</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>CH Gayle</batsman>
+          <bowler>RMS Eranga</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>J Charles</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>CH Gayle</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>J Charles</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>CH Gayle</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>J Charles</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>CH Gayle</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>J Charles</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>J Charles</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>CH Gayle</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>J Charles</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>CH Gayle</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>J Charles</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>CH Gayle</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>J Charles</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>CH Gayle</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>CH Gayle</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>J Charles</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>J Charles</batsman>
+          <bowler>HDRL Thirimanne</bowler>
+          <non_striker>CH Gayle</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>CH Gayle</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>J Charles</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>CH Gayle</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>J Charles</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>CH Gayle</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>J Charles</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>CH Gayle</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>J Charles</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>CH Gayle</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>J Charles</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>CH Gayle</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>J Charles</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>J Charles</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>CH Gayle</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>J Charles</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>CH Gayle</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>CH Gayle</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>J Charles</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>CH Gayle</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>J Charles</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>RMS Eranga</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>CH Gayle</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>DS Smith</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>J Charles</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>DS Smith</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>J Charles</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>J Charles</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>DS Smith</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>J Charles</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>DS Smith</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>caught and bowled</kind>
+              <player_out>J Charles</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>MN Samuels</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>DS Smith</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>MN Samuels</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>DS Smith</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>MN Samuels</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>DS Smith</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>MN Samuels</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>DS Smith</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>DPMD Jayawardene</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>MN Samuels</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>DS Smith</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>DS Smith</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>DS Smith</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>DS Smith</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>DS Smith</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>DS Smith</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>DS Smith</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>DS Smith</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>DS Smith</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>DS Smith</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>DS Smith</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>DS Smith</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DS Smith</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>DS Smith</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>DS Smith</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>HDRL Thirimanne</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>HDRL Thirimanne</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>HDRL Thirimanne</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>HDRL Thirimanne</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>HDRL Thirimanne</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>HDRL Thirimanne</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>HDRL Thirimanne</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>HDRL Thirimanne</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>HDRL Thirimanne</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>HDRL Thirimanne</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>HDRL Thirimanne</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>HDRL Thirimanne</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>HDRL Thirimanne</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>HDRL Thirimanne</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>HDRL Thirimanne</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>HDRL Thirimanne</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>HDRL Thirimanne</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>HDRL Thirimanne</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>1</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>2</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SL Malinga</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>3</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>4</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>5</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>6</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>7</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>1</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>2</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>3</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>4</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>5</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>6</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>1</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>2</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>AD Mathews</bowler>
+          <extras>
+            <wides>5</wides>
+          </extras>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>5</extras>
+            <total>5</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>3</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>4</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>5</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>6</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>7</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>1</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>HDRL Thirimanne</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>2</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>HDRL Thirimanne</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>3</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>HDRL Thirimanne</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>4</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>HDRL Thirimanne</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>5</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>HDRL Thirimanne</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>6</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>HDRL Thirimanne</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>1</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>BMAJ Mendis</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>2</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>BMAJ Mendis</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>3</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>BMAJ Mendis</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>4</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>BMAJ Mendis</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>5</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>BMAJ Mendis</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>6</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>BMAJ Mendis</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>1</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>2</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>3</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>4</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>5</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>6</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>1</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>2</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>3</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>4</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>5</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>6</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>1</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>2</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>3</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>4</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>5</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>6</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>1</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>2</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>3</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>4</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>5</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>6</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>1</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>2</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>3</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>4</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>5</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>6</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>1</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>2</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>3</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>4</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>5</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>6</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>1</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>2</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>3</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>LMP Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>4</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>5</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>6</ball>
+          <batsman>LMP Simmons</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>HDRL Thirimanne</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>LMP Simmons</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>1</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>2</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>3</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>4</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>KC Sangakkara</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>KA Pollard</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>5</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>6</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>1</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>2</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>3</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>4</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>5</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>6</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>1</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>2</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>3</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>4</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>5</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>6</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>1</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>2</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>3</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>4</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>5</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>6</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>RMS Eranga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>1</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>2</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>3</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>caught and bowled</kind>
+              <player_out>DJG Sammy</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>4</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>KAJ Roach</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>5</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>KAJ Roach</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>6</ball>
+          <batsman>KAJ Roach</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DM Bravo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>1</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>AD Mathews</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>KAJ Roach</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>2</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>KAJ Roach</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>3</ball>
+          <batsman>DM Bravo</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>KAJ Roach</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>BMAJ Mendis</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>DM Bravo</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>4</ball>
+          <batsman>KAJ Roach</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>JO Holder</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>5</ball>
+          <batsman>JO Holder</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>KAJ Roach</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>JO Holder</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>6</ball>
+          <batsman>TL Best</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>KAJ Roach</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>7</ball>
+          <batsman>TL Best</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>KAJ Roach</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>1</ball>
+          <batsman>KAJ Roach</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>TL Best</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>2</ball>
+          <batsman>TL Best</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>KAJ Roach</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>3</ball>
+          <batsman>TL Best</batsman>
+          <bowler>SL Malinga</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>KAJ Roach</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>4</ball>
+          <batsman>TL Best</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>KAJ Roach</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>5</ball>
+          <batsman>TL Best</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>KAJ Roach</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>6</ball>
+          <batsman>TL Best</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>KAJ Roach</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>7</ball>
+          <batsman>TL Best</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>KAJ Roach</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>1</ball>
+          <batsman>KAJ Roach</batsman>
+          <bowler>BMAJ Mendis</bowler>
+          <non_striker>TL Best</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>2</ball>
+          <batsman>KAJ Roach</batsman>
+          <bowler>BMAJ Mendis</bowler>
+          <non_striker>TL Best</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>3</ball>
+          <batsman>KAJ Roach</batsman>
+          <bowler>BMAJ Mendis</bowler>
+          <non_striker>TL Best</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>4</ball>
+          <batsman>KAJ Roach</batsman>
+          <bowler>BMAJ Mendis</bowler>
+          <non_striker>TL Best</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>5</ball>
+          <batsman>TL Best</batsman>
+          <bowler>BMAJ Mendis</bowler>
+          <non_striker>KAJ Roach</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>6</ball>
+          <batsman>TL Best</batsman>
+          <bowler>BMAJ Mendis</bowler>
+          <non_striker>KAJ Roach</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>1</ball>
+          <batsman>KAJ Roach</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>TL Best</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>2</ball>
+          <batsman>KAJ Roach</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>TL Best</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>3</ball>
+          <batsman>KAJ Roach</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>TL Best</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>4</ball>
+          <batsman>TL Best</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>KAJ Roach</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>5</ball>
+          <batsman>TL Best</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>KAJ Roach</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>6</ball>
+          <batsman>KAJ Roach</batsman>
+          <bowler>SMSM Senanayake</bowler>
+          <non_striker>TL Best</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

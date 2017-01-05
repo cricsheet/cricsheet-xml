@@ -1,0 +1,2228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.8</data_version>
+    <created>2016-02-01</created>
+    <revision>2</revision>
+  </meta>
+  <info>
+    <dates>
+      <date>2016-01-29</date>
+    </dates>
+    <gender>female</gender>
+    <match_type>T20</match_type>
+    <outcome>
+      <by>
+        <wickets>10</wickets>
+      </by>
+      <method>D/L</method>
+      <winner>India</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>J Goswami</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Australia</team>
+      <team>India</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>India</winner>
+    </toss>
+    <umpires>
+      <umpire>GA Abood</umpire>
+      <umpire>GC Joshua</umpire>
+    </umpires>
+    <venue>Melbourne Cricket Ground</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Australia</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>BL Mooney</batsman>
+          <bowler>J Goswami</bowler>
+          <non_striker>GM Harris</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>GM Harris</batsman>
+          <bowler>J Goswami</bowler>
+          <non_striker>BL Mooney</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>GM Harris</batsman>
+          <bowler>J Goswami</bowler>
+          <non_striker>BL Mooney</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>GM Harris</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>J Goswami</bowler>
+          <non_striker>BL Mooney</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>J Goswami</bowler>
+          <non_striker>BL Mooney</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>J Goswami</bowler>
+          <non_striker>BL Mooney</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>S Pandey</bowler>
+          <non_striker>BL Mooney</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>S Pandey</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>BL Mooney</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>S Pandey</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>BL Mooney</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>S Pandey</bowler>
+          <non_striker>BL Mooney</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>BL Mooney</batsman>
+          <bowler>S Pandey</bowler>
+          <extras>
+            <legbyes>4</legbyes>
+          </extras>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>4</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>BL Mooney</batsman>
+          <bowler>S Pandey</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>BL Mooney</batsman>
+          <bowler>S Pandey</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>8</ball>
+          <batsman>BL Mooney</batsman>
+          <bowler>S Pandey</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>9</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>S Pandey</bowler>
+          <non_striker>BL Mooney</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>10</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>S Pandey</bowler>
+          <non_striker>BL Mooney</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>BL Mooney</batsman>
+          <bowler>J Goswami</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>BL Mooney</batsman>
+          <bowler>J Goswami</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>BL Mooney</batsman>
+          <bowler>J Goswami</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>BL Mooney</batsman>
+          <bowler>J Goswami</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>BL Mooney</batsman>
+          <bowler>J Goswami</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>J Goswami</bowler>
+          <non_striker>BL Mooney</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>BL Mooney</batsman>
+          <bowler>N Niranjana</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>BL Mooney</batsman>
+          <bowler>N Niranjana</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>BL Mooney</batsman>
+          <bowler>N Niranjana</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>BL Mooney</batsman>
+          <bowler>N Niranjana</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>N Niranjana</bowler>
+          <non_striker>BL Mooney</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>N Niranjana</bowler>
+          <non_striker>BL Mooney</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>BL Mooney</batsman>
+          <bowler>J Goswami</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>AA Patil</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>BL Mooney</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>J Goswami</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>J Goswami</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>J Goswami</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>J Goswami</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>AA Patil</fielder>
+              </fielders>
+              <kind>run out</kind>
+              <player_out>EA Perry</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>J Goswami</bowler>
+          <non_striker>JL Jonassen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>JL Jonassen</batsman>
+          <bowler>N Niranjana</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>JL Jonassen</batsman>
+          <bowler>N Niranjana</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>JL Jonassen</batsman>
+          <bowler>N Niranjana</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>JL Jonassen</batsman>
+          <bowler>N Niranjana</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>JL Jonassen</batsman>
+          <bowler>N Niranjana</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>JL Jonassen</batsman>
+          <bowler>N Niranjana</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>7</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>N Niranjana</bowler>
+          <non_striker>JL Jonassen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>8</ball>
+          <batsman>JL Jonassen</batsman>
+          <bowler>N Niranjana</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>AA Patil</bowler>
+          <non_striker>JL Jonassen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>AA Patil</bowler>
+          <non_striker>JL Jonassen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>JL Jonassen</batsman>
+          <bowler>AA Patil</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>JL Jonassen</batsman>
+          <bowler>AA Patil</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>AA Patil</bowler>
+          <non_striker>JL Jonassen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>AA Patil</bowler>
+          <non_striker>JL Jonassen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>RS Gayakwad</bowler>
+          <non_striker>JL Jonassen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>RS Gayakwad</bowler>
+          <non_striker>JL Jonassen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>JL Jonassen</batsman>
+          <bowler>RS Gayakwad</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>RS Gayakwad</bowler>
+          <non_striker>JL Jonassen</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>RS Gayakwad</bowler>
+          <non_striker>JL Jonassen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>JL Jonassen</batsman>
+          <bowler>RS Gayakwad</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>JL Jonassen</batsman>
+          <bowler>AA Patil</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>AA Patil</bowler>
+          <non_striker>JL Jonassen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>JL Jonassen</batsman>
+          <bowler>AA Patil</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>AA Patil</bowler>
+          <non_striker>JL Jonassen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>AA Patil</bowler>
+          <non_striker>JL Jonassen</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>AA Patil</bowler>
+          <non_striker>JL Jonassen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>RS Gayakwad</bowler>
+          <non_striker>JL Jonassen</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>RS Gayakwad</bowler>
+          <non_striker>JL Jonassen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>RS Gayakwad</bowler>
+          <non_striker>JL Jonassen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>RS Gayakwad</bowler>
+          <non_striker>JL Jonassen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>JL Jonassen</batsman>
+          <bowler>RS Gayakwad</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>RS Gayakwad</bowler>
+          <non_striker>JL Jonassen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>Poonam Yadav</bowler>
+          <non_striker>JL Jonassen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>JL Jonassen</batsman>
+          <bowler>Poonam Yadav</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>JL Jonassen</batsman>
+          <bowler>Poonam Yadav</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>Poonam Yadav</bowler>
+          <non_striker>JL Jonassen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>JL Jonassen</batsman>
+          <bowler>Poonam Yadav</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>Poonam Yadav</bowler>
+          <non_striker>JL Jonassen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>N Niranjana</bowler>
+          <non_striker>JL Jonassen</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>N Niranjana</bowler>
+          <non_striker>JL Jonassen</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>N Niranjana</bowler>
+          <non_striker>JL Jonassen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>JL Jonassen</batsman>
+          <bowler>N Niranjana</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>JL Jonassen</batsman>
+          <bowler>N Niranjana</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>JL Jonassen</batsman>
+          <bowler>N Niranjana</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>JL Jonassen</batsman>
+          <bowler>AA Patil</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>AA Patil</bowler>
+          <non_striker>JL Jonassen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>AA Patil</bowler>
+          <non_striker>JL Jonassen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>JL Jonassen</batsman>
+          <bowler>AA Patil</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>JL Jonassen</batsman>
+          <bowler>AA Patil</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>MM Lanning</batsman>
+          <bowler>AA Patil</bowler>
+          <non_striker>JL Jonassen</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>JL Jonassen</batsman>
+          <bowler>H Kaur</bowler>
+          <extras>
+            <byes>4</byes>
+          </extras>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>4</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>JL Jonassen</batsman>
+          <bowler>H Kaur</bowler>
+          <non_striker>MM Lanning</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>H Kaur</fielder>
+              </fielders>
+              <kind>run out</kind>
+              <player_out>MM Lanning</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>JL Jonassen</batsman>
+          <bowler>H Kaur</bowler>
+          <non_striker>AJ Healy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>JL Jonassen</batsman>
+          <bowler>H Kaur</bowler>
+          <non_striker>AJ Healy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>AJ Healy</batsman>
+          <bowler>H Kaur</bowler>
+          <non_striker>JL Jonassen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>JL Jonassen</batsman>
+          <bowler>H Kaur</bowler>
+          <non_striker>AJ Healy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>V Krishnamurthy</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>JL Jonassen</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>AJ Blackwell</batsman>
+          <bowler>Poonam Yadav</bowler>
+          <non_striker>AJ Healy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>AJ Healy</batsman>
+          <bowler>Poonam Yadav</bowler>
+          <non_striker>AJ Blackwell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>M Raj</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>AJ Healy</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>AJ Blackwell</batsman>
+          <bowler>Poonam Yadav</bowler>
+          <non_striker>SJ Coyte</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>SJ Coyte</batsman>
+          <bowler>Poonam Yadav</bowler>
+          <non_striker>AJ Blackwell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>AJ Blackwell</batsman>
+          <bowler>Poonam Yadav</bowler>
+          <non_striker>SJ Coyte</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>AJ Blackwell</batsman>
+          <bowler>Poonam Yadav</bowler>
+          <non_striker>SJ Coyte</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>AJ Blackwell</batsman>
+          <bowler>RS Gayakwad</bowler>
+          <non_striker>SJ Coyte</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>SJ Coyte</batsman>
+          <bowler>RS Gayakwad</bowler>
+          <non_striker>AJ Blackwell</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>SJ Coyte</batsman>
+          <bowler>RS Gayakwad</bowler>
+          <non_striker>AJ Blackwell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>S Pandey</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>SJ Coyte</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>AJ Blackwell</batsman>
+          <bowler>RS Gayakwad</bowler>
+          <non_striker>RM Farrell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>RM Farrell</batsman>
+          <bowler>RS Gayakwad</bowler>
+          <non_striker>AJ Blackwell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>S Verma</fielder>
+              </fielders>
+              <kind>stumped</kind>
+              <player_out>RM Farrell</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>L Cheatle</batsman>
+          <bowler>RS Gayakwad</bowler>
+          <non_striker>AJ Blackwell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>AJ Blackwell</batsman>
+          <bowler>J Goswami</bowler>
+          <non_striker>L Cheatle</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>L Cheatle</batsman>
+          <bowler>J Goswami</bowler>
+          <non_striker>AJ Blackwell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>AJ Blackwell</batsman>
+          <bowler>J Goswami</bowler>
+          <non_striker>L Cheatle</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>L Cheatle</batsman>
+          <bowler>J Goswami</bowler>
+          <non_striker>AJ Blackwell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>L Cheatle</batsman>
+          <bowler>J Goswami</bowler>
+          <non_striker>AJ Blackwell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>AJ Blackwell</batsman>
+          <bowler>J Goswami</bowler>
+          <non_striker>L Cheatle</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>L Cheatle</batsman>
+          <bowler>RS Gayakwad</bowler>
+          <non_striker>AJ Blackwell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>AJ Blackwell</batsman>
+          <bowler>RS Gayakwad</bowler>
+          <non_striker>L Cheatle</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>L Cheatle</batsman>
+          <bowler>RS Gayakwad</bowler>
+          <non_striker>AJ Blackwell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>L Cheatle</batsman>
+          <bowler>RS Gayakwad</bowler>
+          <non_striker>AJ Blackwell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>L Cheatle</batsman>
+          <bowler>RS Gayakwad</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>AJ Blackwell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>L Cheatle</batsman>
+          <bowler>RS Gayakwad</bowler>
+          <non_striker>AJ Blackwell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>7</ball>
+          <batsman>AJ Blackwell</batsman>
+          <bowler>RS Gayakwad</bowler>
+          <non_striker>L Cheatle</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>India</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>M Raj</batsman>
+          <bowler>JL Jonassen</bowler>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>M Raj</batsman>
+          <bowler>JL Jonassen</bowler>
+          <extras>
+            <legbyes>2</legbyes>
+          </extras>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>M Raj</batsman>
+          <bowler>JL Jonassen</bowler>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>M Raj</batsman>
+          <bowler>JL Jonassen</bowler>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>M Raj</batsman>
+          <bowler>JL Jonassen</bowler>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>M Raj</batsman>
+          <bowler>JL Jonassen</bowler>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>S Mandhana</batsman>
+          <bowler>RM Farrell</bowler>
+          <non_striker>M Raj</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>S Mandhana</batsman>
+          <bowler>RM Farrell</bowler>
+          <non_striker>M Raj</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>S Mandhana</batsman>
+          <bowler>RM Farrell</bowler>
+          <non_striker>M Raj</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>S Mandhana</batsman>
+          <bowler>RM Farrell</bowler>
+          <non_striker>M Raj</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>S Mandhana</batsman>
+          <bowler>RM Farrell</bowler>
+          <non_striker>M Raj</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>S Mandhana</batsman>
+          <bowler>RM Farrell</bowler>
+          <non_striker>M Raj</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>M Raj</batsman>
+          <bowler>JL Jonassen</bowler>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>M Raj</batsman>
+          <bowler>JL Jonassen</bowler>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>M Raj</batsman>
+          <bowler>JL Jonassen</bowler>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>S Mandhana</batsman>
+          <bowler>JL Jonassen</bowler>
+          <non_striker>M Raj</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>S Mandhana</batsman>
+          <bowler>JL Jonassen</bowler>
+          <non_striker>M Raj</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>M Raj</batsman>
+          <bowler>JL Jonassen</bowler>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>M Raj</batsman>
+          <bowler>RM Farrell</bowler>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>M Raj</batsman>
+          <bowler>RM Farrell</bowler>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>M Raj</batsman>
+          <bowler>RM Farrell</bowler>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>S Mandhana</batsman>
+          <bowler>RM Farrell</bowler>
+          <non_striker>M Raj</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>S Mandhana</batsman>
+          <bowler>RM Farrell</bowler>
+          <non_striker>M Raj</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>S Mandhana</batsman>
+          <bowler>RM Farrell</bowler>
+          <non_striker>M Raj</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>M Raj</batsman>
+          <bowler>L Cheatle</bowler>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>M Raj</batsman>
+          <bowler>L Cheatle</bowler>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>S Mandhana</batsman>
+          <bowler>L Cheatle</bowler>
+          <non_striker>M Raj</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>S Mandhana</batsman>
+          <bowler>L Cheatle</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>M Raj</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>M Raj</batsman>
+          <bowler>L Cheatle</bowler>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>M Raj</batsman>
+          <bowler>L Cheatle</bowler>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>M Raj</batsman>
+          <bowler>HL Ferling</bowler>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>M Raj</batsman>
+          <bowler>HL Ferling</bowler>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>M Raj</batsman>
+          <bowler>HL Ferling</bowler>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>M Raj</batsman>
+          <bowler>HL Ferling</bowler>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>M Raj</batsman>
+          <bowler>HL Ferling</bowler>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>S Mandhana</batsman>
+          <bowler>HL Ferling</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>M Raj</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>7</ball>
+          <batsman>S Mandhana</batsman>
+          <bowler>HL Ferling</bowler>
+          <non_striker>M Raj</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>M Raj</batsman>
+          <bowler>L Cheatle</bowler>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>M Raj</batsman>
+          <bowler>L Cheatle</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>S Mandhana</batsman>
+          <bowler>L Cheatle</bowler>
+          <non_striker>M Raj</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>M Raj</batsman>
+          <bowler>L Cheatle</bowler>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>S Mandhana</batsman>
+          <bowler>L Cheatle</bowler>
+          <non_striker>M Raj</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>S Mandhana</batsman>
+          <bowler>L Cheatle</bowler>
+          <non_striker>M Raj</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>S Mandhana</batsman>
+          <bowler>HL Ferling</bowler>
+          <non_striker>M Raj</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>M Raj</batsman>
+          <bowler>HL Ferling</bowler>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>S Mandhana</batsman>
+          <bowler>HL Ferling</bowler>
+          <extras>
+            <wides>5</wides>
+          </extras>
+          <non_striker>M Raj</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>5</extras>
+            <total>5</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>S Mandhana</batsman>
+          <bowler>HL Ferling</bowler>
+          <non_striker>M Raj</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>M Raj</batsman>
+          <bowler>HL Ferling</bowler>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>M Raj</batsman>
+          <bowler>HL Ferling</bowler>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>7</ball>
+          <batsman>S Mandhana</batsman>
+          <bowler>HL Ferling</bowler>
+          <non_striker>M Raj</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>S Mandhana</batsman>
+          <bowler>SJ Coyte</bowler>
+          <non_striker>M Raj</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>S Mandhana</batsman>
+          <bowler>SJ Coyte</bowler>
+          <non_striker>M Raj</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>M Raj</batsman>
+          <bowler>SJ Coyte</bowler>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>S Mandhana</batsman>
+          <bowler>SJ Coyte</bowler>
+          <non_striker>M Raj</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>M Raj</batsman>
+          <bowler>SJ Coyte</bowler>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>M Raj</batsman>
+          <bowler>SJ Coyte</bowler>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>M Raj</batsman>
+          <bowler>EA Perry</bowler>
+          <non_striker>S Mandhana</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

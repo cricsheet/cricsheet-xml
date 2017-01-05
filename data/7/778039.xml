@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.8</data_version>
+    <created>2014-10-02</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Incheon</city>
+    <dates>
+      <date>2014-10-02</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>IT20</match_type>
+    <neutral_venue>1</neutral_venue>
+    <outcome>
+      <result>no result</result>
+    </outcome>
+    <overs>20</overs>
+    <teams>
+      <team>Bangladesh</team>
+      <team>Sri Lanka</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Sri Lanka</winner>
+    </toss>
+    <umpires>
+      <umpire>R Batumalai</umpire>
+      <umpire>Sarika Prasad</umpire>
+    </umpires>
+    <venue>Yeonhui Cricket Ground</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Bangladesh</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>LHD Dilhara</bowler>
+          <non_striker>Anamul Haque</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>LHD Dilhara</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>Anamul Haque</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>Anamul Haque</batsman>
+          <bowler>LHD Dilhara</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>RLB Rambukwella</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Anamul Haque</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>Mohammad Mithun</batsman>
+          <bowler>LHD Dilhara</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>Mohammad Mithun</batsman>
+          <bowler>LHD Dilhara</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>Mohammad Mithun</batsman>
+          <bowler>LHD Dilhara</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>I Udana</bowler>
+          <non_striker>Mohammad Mithun</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>I Udana</bowler>
+          <non_striker>Mohammad Mithun</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>I Udana</bowler>
+          <non_striker>Mohammad Mithun</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>I Udana</bowler>
+          <non_striker>Mohammad Mithun</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>I Udana</bowler>
+          <non_striker>Mohammad Mithun</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>I Udana</bowler>
+          <non_striker>Mohammad Mithun</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>LHD Dilhara</bowler>
+          <non_striker>Mohammad Mithun</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>LHD Dilhara</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>Mohammad Mithun</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>Mohammad Mithun</batsman>
+          <bowler>LHD Dilhara</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>Mohammad Mithun</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>Shakib Al Hasan</batsman>
+          <bowler>LHD Dilhara</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>LHD Dilhara</bowler>
+          <non_striker>Shakib Al Hasan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>Shakib Al Hasan</batsman>
+          <bowler>LHD Dilhara</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>I Udana</bowler>
+          <non_striker>Shakib Al Hasan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>Shakib Al Hasan</batsman>
+          <bowler>I Udana</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>KDK Vithanage</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Shakib Al Hasan</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>I Udana</bowler>
+          <non_striker>Sabbir Rahman</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>I Udana</bowler>
+          <non_striker>Sabbir Rahman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>I Udana</bowler>
+          <non_striker>Sabbir Rahman</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>Sabbir Rahman</batsman>
+          <bowler>I Udana</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>CKB Kulasekara</bowler>
+          <non_striker>Sabbir Rahman</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>Sabbir Rahman</batsman>
+          <bowler>CKB Kulasekara</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>CKB Kulasekara</bowler>
+          <non_striker>Sabbir Rahman</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>Sabbir Rahman</batsman>
+          <bowler>CKB Kulasekara</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>Sabbir Rahman</batsman>
+          <bowler>CKB Kulasekara</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>Sabbir Rahman</batsman>
+          <bowler>CKB Kulasekara</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>I Udana</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Sabbir Rahman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>I Udana</bowler>
+          <non_striker>Sabbir Rahman</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>Sabbir Rahman</batsman>
+          <bowler>I Udana</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>Sabbir Rahman</batsman>
+          <bowler>I Udana</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>Sabbir Rahman</batsman>
+          <bowler>I Udana</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>Sabbir Rahman</batsman>
+          <bowler>I Udana</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>7</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>I Udana</bowler>
+          <non_striker>Sabbir Rahman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>Sabbir Rahman</batsman>
+          <bowler>RLB Rambukwella</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>Sabbir Rahman</batsman>
+          <bowler>RLB Rambukwella</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>Sabbir Rahman</batsman>
+          <bowler>RLB Rambukwella</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>RLB Rambukwella</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Sabbir Rahman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>RLB Rambukwella</bowler>
+          <non_striker>Sabbir Rahman</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>Sabbir Rahman</batsman>
+          <bowler>RLB Rambukwella</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>7</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>RLB Rambukwella</bowler>
+          <non_striker>Sabbir Rahman</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>CKB Kulasekara</bowler>
+          <non_striker>Sabbir Rahman</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>Sabbir Rahman</batsman>
+          <bowler>CKB Kulasekara</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>Sabbir Rahman</batsman>
+          <bowler>CKB Kulasekara</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>CKB Kulasekara</bowler>
+          <non_striker>Sabbir Rahman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>CKB Kulasekara</bowler>
+          <non_striker>Sabbir Rahman</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>CKB Kulasekara</bowler>
+          <non_striker>Sabbir Rahman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>Sabbir Rahman</batsman>
+          <bowler>RLB Rambukwella</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>RLB Rambukwella</bowler>
+          <non_striker>Sabbir Rahman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>RLB Rambukwella</bowler>
+          <non_striker>Sabbir Rahman</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>Sabbir Rahman</batsman>
+          <bowler>RLB Rambukwella</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>Sabbir Rahman</batsman>
+          <bowler>RLB Rambukwella</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>RLB Rambukwella</bowler>
+          <non_striker>Sabbir Rahman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>Sabbir Rahman</batsman>
+          <bowler>BMAJ Mendis</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>Sabbir Rahman</batsman>
+          <bowler>BMAJ Mendis</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>BMAJ Mendis</bowler>
+          <non_striker>Sabbir Rahman</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>Sabbir Rahman</batsman>
+          <bowler>BMAJ Mendis</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>BMAJ Mendis</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Sabbir Rahman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>BMAJ Mendis</bowler>
+          <non_striker>Sabbir Rahman</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>7</ball>
+          <batsman>Sabbir Rahman</batsman>
+          <bowler>BMAJ Mendis</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>Sabbir Rahman</batsman>
+          <bowler>CKB Kulasekara</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>CKB Kulasekara</bowler>
+          <non_striker>Sabbir Rahman</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>CKB Kulasekara</bowler>
+          <non_striker>Sabbir Rahman</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>Sabbir Rahman</batsman>
+          <bowler>CKB Kulasekara</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>Sabbir Rahman</batsman>
+          <bowler>CKB Kulasekara</bowler>
+          <non_striker>Tamim Iqbal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>CKB Kulasekara</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Sabbir Rahman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>7</ball>
+          <batsman>Tamim Iqbal</batsman>
+          <bowler>CKB Kulasekara</bowler>
+          <non_striker>Sabbir Rahman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

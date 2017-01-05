@@ -1,0 +1,5480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.8</data_version>
+    <created>2016-10-24</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Paarl</city>
+    <dates>
+      <date>2016-10-22</date>
+    </dates>
+    <gender>female</gender>
+    <match_type>ODI</match_type>
+    <outcome>
+      <by>
+        <wickets>5</wickets>
+      </by>
+      <winner>South Africa</winner>
+    </outcome>
+    <overs>50</overs>
+    <player_of_match>
+      <player_of_match>M Klaas</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>South Africa</team>
+      <team>New Zealand</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>South Africa</winner>
+    </toss>
+    <umpires>
+      <umpire>RN Hendricks</umpire>
+      <umpire>A Paleker</umpire>
+    </umpires>
+    <venue>Boland Park</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>New Zealand</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>SW Bates</batsman>
+          <bowler>A Khaka</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>SW Bates</batsman>
+          <bowler>A Khaka</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>SW Bates</batsman>
+          <bowler>A Khaka</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>A Khaka</bowler>
+          <non_striker>SW Bates</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>A Khaka</bowler>
+          <non_striker>SW Bates</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>SW Bates</batsman>
+          <bowler>A Khaka</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>M Daniels</bowler>
+          <non_striker>SW Bates</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>M Daniels</bowler>
+          <non_striker>SW Bates</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>M Daniels</bowler>
+          <non_striker>SW Bates</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>M Daniels</bowler>
+          <non_striker>SW Bates</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>SW Bates</batsman>
+          <bowler>M Daniels</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>SW Bates</batsman>
+          <bowler>M Daniels</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>A Khaka</bowler>
+          <non_striker>SW Bates</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>A Khaka</bowler>
+          <non_striker>SW Bates</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>SW Bates</batsman>
+          <bowler>A Khaka</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>SW Bates</batsman>
+          <bowler>A Khaka</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>A Khaka</bowler>
+          <non_striker>SW Bates</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>A Khaka</bowler>
+          <non_striker>SW Bates</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>SW Bates</batsman>
+          <bowler>M Daniels</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>M Daniels</bowler>
+          <non_striker>SW Bates</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>M Daniels</bowler>
+          <non_striker>SW Bates</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>O Kirsten</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>RH Priest</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>M Daniels</bowler>
+          <non_striker>SW Bates</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>M Daniels</bowler>
+          <non_striker>SW Bates</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>M Daniels</bowler>
+          <non_striker>SW Bates</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>SW Bates</batsman>
+          <bowler>A Khaka</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>D van Niekerk</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>SW Bates</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>A Khaka</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>A Khaka</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>A Khaka</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>A Khaka</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>A Khaka</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>M Daniels</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>M Daniels</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>M Daniels</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>M Daniels</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>M Daniels</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>M Daniels</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>7</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>M Daniels</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>A Khaka</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>A Khaka</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>A Khaka</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>A Khaka</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>A Khaka</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>A Khaka</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>M Daniels</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>M Daniels</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>M Daniels</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>M Daniels</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>M Daniels</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>M Daniels</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>7</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>M Daniels</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>D van Niekerk</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>AE Satterthwaite</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>ML Green</batsman>
+          <bowler>O Kirsten</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>ML Green</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>ML Green</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>ML Green</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>ML Green</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>7</ball>
+          <batsman>ML Green</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>ML Green</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>ML Green</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>ML Green</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>ML Green</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>ML Green</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>ML Green</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>ML Green</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>ML Green</batsman>
+          <bowler>O Kirsten</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>ML Green</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>ML Green</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>ML Green</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>ML Green</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>7</ball>
+          <batsman>ML Green</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>ML Green</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>KT Perkins</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>KT Perkins</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>KT Perkins</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>KT Perkins</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>KT Perkins</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>KT Perkins</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>KT Perkins</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>KT Perkins</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>KT Perkins</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>KT Perkins</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>KT Perkins</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>KT Perkins</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>KT Perkins</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>KT Perkins</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>KT Perkins</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>KT Perkins</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>SRH Curtis</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>SRH Curtis</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>SRH Curtis</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>SRH Curtis</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>SRH Curtis</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>SRH Curtis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>SRH Curtis</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>SRH Curtis</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>SRH Curtis</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>SRH Curtis</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>SRH Curtis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>SRH Curtis</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>SRH Curtis</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>SRH Curtis</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>SRH Curtis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>SRH Curtis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>SRH Curtis</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>SRH Curtis</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>SRH Curtis</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>SRH Curtis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>SRH Curtis</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>SRH Curtis</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>SRH Curtis</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>M Klaas</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>SRH Curtis</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>EM Bermingham</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>EM Bermingham</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>EM Bermingham</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>EM Bermingham</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>EM Bermingham</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>EM Bermingham</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>EM Bermingham</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>EM Bermingham</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>EM Bermingham</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>EM Bermingham</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>caught and bowled</kind>
+              <player_out>EM Bermingham</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>1</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>2</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>3</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>4</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>5</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>6</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>1</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>2</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>3</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>4</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>5</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>6</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>1</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>2</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>3</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>4</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>5</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>6</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>1</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>2</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>3</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>4</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>5</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>6</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>1</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>2</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>3</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>4</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>5</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>6</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>1</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>2</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>3</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>4</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>5</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>6</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>1</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>2</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>3</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>4</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>5</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>6</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>1</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>2</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>3</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>HR Huddleston</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>4</ball>
+          <batsman>LMM Tahuhu</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>5</ball>
+          <batsman>LMM Tahuhu</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>6</ball>
+          <batsman>LMM Tahuhu</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>1</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>LMM Tahuhu</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>2</ball>
+          <batsman>LMM Tahuhu</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>3</ball>
+          <batsman>LMM Tahuhu</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>4</ball>
+          <batsman>LMM Tahuhu</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>5</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>LMM Tahuhu</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>6</ball>
+          <batsman>LMM Tahuhu</batsman>
+          <bowler>S Luus</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>1</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>LMM Tahuhu</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>2</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>LMM Tahuhu</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>3</ball>
+          <batsman>LMM Tahuhu</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>4</ball>
+          <batsman>LMM Tahuhu</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>5</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>LMM Tahuhu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>6</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>LMM Tahuhu</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>1</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>LMM Tahuhu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>2</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>LMM Tahuhu</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>3</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>LMM Tahuhu</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>4</ball>
+          <batsman>LMM Tahuhu</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>5</ball>
+          <batsman>LMM Tahuhu</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>6</ball>
+          <batsman>LMM Tahuhu</batsman>
+          <bowler>O Kirsten</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>1</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>LMM Tahuhu</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>2</ball>
+          <batsman>LMM Tahuhu</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>M Daniels</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>LMM Tahuhu</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>3</ball>
+          <batsman>MJG Nielsen</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>4</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>MJG Nielsen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>5</ball>
+          <batsman>MJG Nielsen</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>6</ball>
+          <batsman>MJG Nielsen</batsman>
+          <bowler>M Klaas</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>1</ball>
+          <batsman>MJG Nielsen</batsman>
+          <bowler>A Khaka</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>2</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>A Khaka</bowler>
+          <non_striker>MJG Nielsen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>3</ball>
+          <batsman>MJG Nielsen</batsman>
+          <bowler>A Khaka</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>4</ball>
+          <batsman>MJG Nielsen</batsman>
+          <bowler>A Khaka</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>5</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>A Khaka</bowler>
+          <non_striker>MJG Nielsen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>6</ball>
+          <batsman>KJ Martin</batsman>
+          <bowler>A Khaka</bowler>
+          <non_striker>MJG Nielsen</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>1</ball>
+          <batsman>MJG Nielsen</batsman>
+          <bowler>M Daniels</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>2</ball>
+          <batsman>MJG Nielsen</batsman>
+          <bowler>M Daniels</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>3</ball>
+          <batsman>MJG Nielsen</batsman>
+          <bowler>M Daniels</bowler>
+          <non_striker>KJ Martin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>MJG Nielsen</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>South Africa</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>A Steyn</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>A Steyn</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>A Steyn</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>A Steyn</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>A Steyn</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>A Steyn</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <batsman>A Steyn</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>L Lee</batsman>
+          <bowler>MJG Nielsen</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>A Steyn</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>L Lee</batsman>
+          <bowler>MJG Nielsen</bowler>
+          <non_striker>A Steyn</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>L Lee</batsman>
+          <bowler>MJG Nielsen</bowler>
+          <non_striker>A Steyn</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>A Steyn</batsman>
+          <bowler>MJG Nielsen</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>A Steyn</batsman>
+          <bowler>MJG Nielsen</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>A Steyn</batsman>
+          <bowler>MJG Nielsen</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>A Steyn</batsman>
+          <bowler>MJG Nielsen</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>8</ball>
+          <batsman>A Steyn</batsman>
+          <bowler>MJG Nielsen</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>A Steyn</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>A Steyn</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>A Steyn</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>A Steyn</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>A Steyn</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>L Lee</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>A Steyn</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>A Steyn</batsman>
+          <bowler>MJG Nielsen</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>A Steyn</batsman>
+          <bowler>MJG Nielsen</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>A Steyn</batsman>
+          <bowler>MJG Nielsen</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>A Steyn</batsman>
+          <bowler>MJG Nielsen</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>A Steyn</batsman>
+          <bowler>MJG Nielsen</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>A Steyn</batsman>
+          <bowler>MJG Nielsen</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>7</ball>
+          <batsman>A Steyn</batsman>
+          <bowler>MJG Nielsen</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>8</ball>
+          <batsman>A Steyn</batsman>
+          <bowler>MJG Nielsen</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>L Lee</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>A Steyn</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>L Lee</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>A Steyn</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>L Lee</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>A Steyn</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>L Lee</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>A Steyn</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>L Lee</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>A Steyn</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>L Lee</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>A Steyn</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>L Lee</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>A Steyn</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>A Steyn</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>A Steyn</batsman>
+          <bowler>EM Bermingham</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>A Steyn</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>L Lee</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>A Steyn</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>L Lee</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>A Steyn</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>7</ball>
+          <batsman>L Lee</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>A Steyn</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>L Lee</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>A Steyn</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>A Steyn</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>A Steyn</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>A Steyn</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>RH Priest</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>A Steyn</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>L Lee</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>L Lee</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>L Lee</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>L Lee</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>L Lee</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>L Lee</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>L Lee</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>L Lee</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>L Lee</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>SW Bates</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>L Lee</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>SW Bates</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>SW Bates</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>SW Bates</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>SW Bates</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>SW Bates</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>SW Bates</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>SW Bates</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>SW Bates</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>SW Bates</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>SW Bates</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>SW Bates</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>SW Bates</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>7</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>1</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>2</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>3</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>4</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>5</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>6</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>1</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>2</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>3</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>D Devnarain</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>4</ball>
+          <batsman>D Devnarain</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>RH Priest</fielder>
+              </fielders>
+              <kind>stumped</kind>
+              <player_out>D Devnarain</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>5</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>6</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>1</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>2</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>3</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>4</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>5</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>6</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>7</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>1</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>2</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>3</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>4</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>5</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>6</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>1</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>2</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>3</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>4</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>5</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>6</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>1</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>2</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>3</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>4</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>5</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>6</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>1</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>2</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>3</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>4</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>5</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>6</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>1</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>2</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>3</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>4</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>5</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>6</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>1</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>2</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>3</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>4</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>5</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>6</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>1</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>2</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>3</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>4</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>5</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>6</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>1</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>2</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>3</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>4</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>5</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>6</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>EM Bermingham</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>1</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>2</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>3</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>4</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>5</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>6</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>1</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>2</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>3</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>4</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>5</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>6</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>LMM Tahuhu</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>1</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>SW Bates</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>2</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>SW Bates</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>3</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>SW Bates</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>4</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>SW Bates</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>5</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>SW Bates</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>6</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>SW Bates</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>1</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>2</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>3</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>4</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>5</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>6</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>1</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>SW Bates</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>2</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>SW Bates</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>3</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>SW Bates</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>4</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>SW Bates</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>5</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>SW Bates</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>6</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>SW Bates</bowler>
+          <non_striker>M du Preez</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>1</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>2</ball>
+          <batsman>M du Preez</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>ML Green</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>M du Preez</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>3</ball>
+          <batsman>S Jafta</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>4</ball>
+          <batsman>S Jafta</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>5</ball>
+          <batsman>S Jafta</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>S Jafta</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>6</ball>
+          <batsman>S Luus</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>1</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>SW Bates</bowler>
+          <non_striker>S Luus</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>2</ball>
+          <batsman>S Luus</batsman>
+          <bowler>SW Bates</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>3</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>SW Bates</bowler>
+          <non_striker>S Luus</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>4</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>SW Bates</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>S Luus</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

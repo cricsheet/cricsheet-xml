@@ -1,0 +1,3253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.8</data_version>
+    <created>2015-12-07</created>
+    <revision>2</revision>
+  </meta>
+  <info>
+    <city>Bangkok</city>
+    <dates>
+      <date>2015-12-05</date>
+    </dates>
+    <gender>female</gender>
+    <match_type>IT20</match_type>
+    <neutral_venue>1</neutral_venue>
+    <outcome>
+      <by>
+        <wickets>3</wickets>
+      </by>
+      <winner>Zimbabwe</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>CS Mugeri</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Scotland</team>
+      <team>Zimbabwe</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Zimbabwe</winner>
+    </toss>
+    <umpires>
+      <umpire>CA Polosak</umpire>
+      <umpire>JM Williams</umpire>
+    </umpires>
+    <venue>Asian Institute of Technology Ground</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Scotland</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>FE Urquhart</batsman>
+          <bowler>N Mutasa</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>FE Urquhart</batsman>
+          <bowler>N Mutasa</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>FE Urquhart</batsman>
+          <bowler>N Mutasa</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>RV Scholes</batsman>
+          <bowler>N Mutasa</bowler>
+          <non_striker>FE Urquhart</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>RV Scholes</batsman>
+          <bowler>N Mutasa</bowler>
+          <non_striker>FE Urquhart</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>RV Scholes</batsman>
+          <bowler>N Mutasa</bowler>
+          <non_striker>FE Urquhart</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>FE Urquhart</batsman>
+          <bowler>A Mazvishaya</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>FE Urquhart</batsman>
+          <bowler>A Mazvishaya</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>FE Urquhart</batsman>
+          <bowler>A Mazvishaya</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>FE Urquhart</batsman>
+          <bowler>A Mazvishaya</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>FE Urquhart</batsman>
+          <bowler>A Mazvishaya</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>FE Urquhart</batsman>
+          <bowler>A Mazvishaya</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>RV Scholes</batsman>
+          <bowler>J Nkomo</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>FE Urquhart</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>RV Scholes</batsman>
+          <bowler>J Nkomo</bowler>
+          <non_striker>FE Urquhart</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>RV Scholes</batsman>
+          <bowler>J Nkomo</bowler>
+          <non_striker>FE Urquhart</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>RV Scholes</batsman>
+          <bowler>J Nkomo</bowler>
+          <non_striker>FE Urquhart</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>FE Urquhart</batsman>
+          <bowler>J Nkomo</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>FE Urquhart</batsman>
+          <bowler>J Nkomo</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>7</ball>
+          <batsman>FE Urquhart</batsman>
+          <bowler>J Nkomo</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>RV Scholes</batsman>
+          <bowler>P Marange</bowler>
+          <non_striker>FE Urquhart</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>RV Scholes</batsman>
+          <bowler>P Marange</bowler>
+          <non_striker>FE Urquhart</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>FE Urquhart</batsman>
+          <bowler>P Marange</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>FE Urquhart</batsman>
+          <bowler>P Marange</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>FE Urquhart</batsman>
+          <bowler>P Marange</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>FE Urquhart</batsman>
+          <bowler>P Marange</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>RV Scholes</batsman>
+          <bowler>J Nkomo</bowler>
+          <non_striker>FE Urquhart</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>RV Scholes</batsman>
+          <bowler>J Nkomo</bowler>
+          <non_striker>FE Urquhart</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>FE Urquhart</batsman>
+          <bowler>J Nkomo</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>RV Scholes</batsman>
+          <bowler>J Nkomo</bowler>
+          <non_striker>FE Urquhart</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>RV Scholes</batsman>
+          <bowler>J Nkomo</bowler>
+          <non_striker>FE Urquhart</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>RV Scholes</batsman>
+          <bowler>J Nkomo</bowler>
+          <non_striker>FE Urquhart</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>FE Urquhart</batsman>
+          <bowler>P Marange</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>FE Urquhart</batsman>
+          <bowler>P Marange</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>RV Scholes</batsman>
+          <bowler>P Marange</bowler>
+          <non_striker>FE Urquhart</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>RV Scholes</batsman>
+          <bowler>P Marange</bowler>
+          <non_striker>FE Urquhart</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>RV Scholes</batsman>
+          <bowler>P Marange</bowler>
+          <non_striker>FE Urquhart</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>RV Scholes</batsman>
+          <bowler>P Marange</bowler>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <non_striker>FE Urquhart</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>RV Scholes</batsman>
+          <bowler>J Nkomo</bowler>
+          <non_striker>FE Urquhart</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>FE Urquhart</batsman>
+          <bowler>J Nkomo</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>FE Urquhart</batsman>
+          <bowler>J Nkomo</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>FE Urquhart</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>J Nkomo</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>J Nkomo</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>J Nkomo</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>RV Scholes</batsman>
+          <bowler>T Granger</bowler>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>RV Scholes</batsman>
+          <bowler>T Granger</bowler>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>T Granger</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>T Granger</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>T Granger</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>T Granger</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>7</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>T Granger</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>J Nkomo</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>J Nkomo</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>J Nkomo</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>J Nkomo</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>J Nkomo</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>J Nkomo</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>T Granger</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>RV Scholes</batsman>
+          <bowler>T Granger</bowler>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>T Granger</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>T Granger</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>T Granger</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>T Granger</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>7</ball>
+          <batsman>RV Scholes</batsman>
+          <bowler>T Granger</bowler>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>8</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>T Granger</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>9</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>T Granger</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>RV Scholes</batsman>
+          <bowler>L Tshuma</bowler>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>RV Scholes</batsman>
+          <bowler>L Tshuma</bowler>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>RV Scholes</batsman>
+          <bowler>L Tshuma</bowler>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>RV Scholes</batsman>
+          <bowler>L Tshuma</bowler>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>RV Scholes</batsman>
+          <bowler>L Tshuma</bowler>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>L Tshuma</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>CS Mugeri</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>CS Mugeri</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>CS Mugeri</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>RV Scholes</batsman>
+          <bowler>CS Mugeri</bowler>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>CS Mugeri</bowler>
+          <non_striker>RV Scholes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>RV Scholes</batsman>
+          <bowler>CS Mugeri</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>7</ball>
+          <batsman>RV Scholes</batsman>
+          <bowler>CS Mugeri</bowler>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>RV Scholes</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>8</ball>
+          <batsman>EM Priddle</batsman>
+          <bowler>CS Mugeri</bowler>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>L Tshuma</bowler>
+          <non_striker>EM Priddle</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>EM Priddle</batsman>
+          <bowler>L Tshuma</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>L Tshuma</bowler>
+          <non_striker>EM Priddle</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>L Tshuma</bowler>
+          <non_striker>EM Priddle</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>L Tshuma</bowler>
+          <non_striker>EM Priddle</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>L Tshuma</bowler>
+          <non_striker>EM Priddle</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>CS Mugeri</bowler>
+          <non_striker>EM Priddle</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>CS Mugeri</bowler>
+          <non_striker>EM Priddle</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>CS Mugeri</bowler>
+          <non_striker>EM Priddle</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>EM Priddle</batsman>
+          <bowler>CS Mugeri</bowler>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>EM Priddle</batsman>
+          <bowler>CS Mugeri</bowler>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>EM Priddle</batsman>
+          <bowler>CS Mugeri</bowler>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>EM Priddle</batsman>
+          <bowler>L Tshuma</bowler>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>EM Priddle</batsman>
+          <bowler>L Tshuma</bowler>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>EM Priddle</batsman>
+          <bowler>L Tshuma</bowler>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>EM Priddle</batsman>
+          <bowler>L Tshuma</bowler>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>EM Priddle</batsman>
+          <bowler>L Tshuma</bowler>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>L Tshuma</bowler>
+          <non_striker>EM Priddle</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>CS Mugeri</bowler>
+          <non_striker>EM Priddle</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>EM Priddle</batsman>
+          <bowler>CS Mugeri</bowler>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>EM Priddle</batsman>
+          <bowler>CS Mugeri</bowler>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>CS Mugeri</bowler>
+          <non_striker>EM Priddle</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>EM Priddle</batsman>
+          <bowler>CS Mugeri</bowler>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>CS Mugeri</bowler>
+          <non_striker>EM Priddle</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>P Marange</bowler>
+          <non_striker>EM Priddle</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>P Marange</bowler>
+          <non_striker>EM Priddle</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>EM Priddle</batsman>
+          <bowler>P Marange</bowler>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>P Marange</bowler>
+          <non_striker>EM Priddle</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>EM Priddle</batsman>
+          <bowler>P Marange</bowler>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>EM Priddle</batsman>
+          <bowler>P Marange</bowler>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>EM Priddle</batsman>
+          <bowler>CS Mugeri</bowler>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>EM Priddle</batsman>
+          <bowler>CS Mugeri</bowler>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>EM Priddle</batsman>
+          <bowler>CS Mugeri</bowler>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>CS Mugeri</bowler>
+          <non_striker>EM Priddle</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>EM Priddle</batsman>
+          <bowler>CS Mugeri</bowler>
+          <non_striker>K Anderson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>K Anderson</batsman>
+          <bowler>CS Mugeri</bowler>
+          <non_striker>EM Priddle</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>K Anderson</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>EM Priddle</batsman>
+          <bowler>A Mazvishaya</bowler>
+          <non_striker>KE Bryce</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>EM Priddle</batsman>
+          <bowler>A Mazvishaya</bowler>
+          <non_striker>KE Bryce</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>EM Priddle</batsman>
+          <bowler>A Mazvishaya</bowler>
+          <non_striker>KE Bryce</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>KE Bryce</batsman>
+          <bowler>A Mazvishaya</bowler>
+          <non_striker>EM Priddle</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>EM Priddle</batsman>
+          <bowler>A Mazvishaya</bowler>
+          <non_striker>KE Bryce</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>EM Priddle</batsman>
+          <bowler>A Mazvishaya</bowler>
+          <non_striker>KE Bryce</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>EM Priddle</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>KE Bryce</batsman>
+          <bowler>N Mutasa</bowler>
+          <non_striker>A Aitken</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>A Aitken</batsman>
+          <bowler>N Mutasa</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>KE Bryce</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>1</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>KE Bryce</batsman>
+          <bowler>N Mutasa</bowler>
+          <non_striker>A Aitken</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>KE Bryce</batsman>
+          <bowler>N Mutasa</bowler>
+          <non_striker>A Aitken</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>A Aitken</batsman>
+          <bowler>N Mutasa</bowler>
+          <non_striker>KE Bryce</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>A Aitken</batsman>
+          <bowler>N Mutasa</bowler>
+          <non_striker>KE Bryce</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>7</ball>
+          <batsman>KE Bryce</batsman>
+          <bowler>N Mutasa</bowler>
+          <non_striker>A Aitken</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Zimbabwe</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>P Marange</batsman>
+          <bowler>KL Gordon</bowler>
+          <non_striker>M Mupachikwa</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>P Marange</batsman>
+          <bowler>KL Gordon</bowler>
+          <non_striker>M Mupachikwa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>P Marange</batsman>
+          <bowler>KL Gordon</bowler>
+          <non_striker>M Mupachikwa</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>P Marange</batsman>
+          <bowler>KL Gordon</bowler>
+          <non_striker>M Mupachikwa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>P Marange</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>KL Gordon</bowler>
+          <non_striker>M Mupachikwa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>M Mupachikwa</batsman>
+          <bowler>KL Gordon</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>A Aitken</bowler>
+          <non_striker>M Mupachikwa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>M Mupachikwa</batsman>
+          <bowler>A Aitken</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>M Mupachikwa</batsman>
+          <bowler>A Aitken</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>M Mupachikwa</batsman>
+          <bowler>A Aitken</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>KL Gordon</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>M Mupachikwa</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>A Aitken</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>A Aitken</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>A Aitken</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>8</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>A Aitken</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>KL Gordon</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>KL Gordon</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>KL Gordon</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>KL Gordon</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>KL Gordon</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>KL Gordon</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>AH Maqsood</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>AH Maqsood</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>AH Maqsood</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>AH Maqsood</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>AH Maqsood</bowler>
+          <extras>
+            <wides>2</wides>
+          </extras>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>AH Maqsood</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>7</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>AH Maqsood</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>RV Scholes</bowler>
+          <extras>
+            <wides>3</wides>
+          </extras>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>3</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>RV Scholes</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>RV Scholes</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>RV Scholes</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>RV Scholes</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>RV Scholes</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>7</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>RV Scholes</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>AH Maqsood</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>AH Maqsood</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>AH Maqsood</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>AH Maqsood</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>AH Maqsood</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>AH Maqsood</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>7</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>AH Maqsood</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>RV Scholes</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>RV Scholes</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>RV Scholes</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>RV Scholes</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>RV Scholes</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>RV Scholes</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>K Anderson</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>K Anderson</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>K Anderson</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>K Anderson</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>K Anderson</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>K Anderson</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>RV Scholes</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>RV Scholes</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>RV Scholes</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>RV Scholes</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>RV Scholes</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>RV Scholes</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>K Anderson</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>K Anderson</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>K Anderson</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>K Anderson</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>K Anderson</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>K Anderson</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>RV Scholes</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>RV Scholes</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>RV Scholes</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>RV Scholes</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>RV Scholes</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>RV Scholes</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>7</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>RV Scholes</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>K Anderson</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>K Anderson</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>K Anderson</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>K Anderson</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>K Anderson</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>K Anderson</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>K McGill</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>K McGill</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>K McGill</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>K McGill</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>K McGill</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>K McGill</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>K Anderson</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>K Anderson</bowler>
+          <non_striker>P Mujaji</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>K Anderson</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>P Mujaji</batsman>
+          <bowler>K Anderson</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>A Aitken</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>P Mujaji</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>SM Mayers</batsman>
+          <bowler>K Anderson</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>SM Mayers</batsman>
+          <bowler>K Anderson</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>SM Mayers</batsman>
+          <bowler>K McGill</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>SM Mayers</batsman>
+          <bowler>K McGill</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>SM Mayers</batsman>
+          <bowler>K McGill</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>K McGill</bowler>
+          <non_striker>SM Mayers</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>K McGill</bowler>
+          <non_striker>SM Mayers</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>SM Mayers</batsman>
+          <bowler>K McGill</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>7</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>K McGill</bowler>
+          <non_striker>SM Mayers</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>L Jack</fielder>
+                <fielder>A Aitken</fielder>
+              </fielders>
+              <kind>run out</kind>
+              <player_out>SM Mayers</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>KE Bryce</bowler>
+          <non_striker>L Tshuma</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>KE Bryce</bowler>
+          <non_striker>L Tshuma</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>KE Bryce</bowler>
+          <non_striker>L Tshuma</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>L Tshuma</batsman>
+          <bowler>KE Bryce</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>KE Bryce</bowler>
+          <non_striker>L Tshuma</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>L Tshuma</batsman>
+          <bowler>KE Bryce</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>KL Gordon</bowler>
+          <non_striker>L Tshuma</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>KL Gordon</bowler>
+          <non_striker>L Tshuma</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>L Tshuma</batsman>
+          <bowler>KL Gordon</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>L Tshuma</batsman>
+          <bowler>KL Gordon</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>L Tshuma</batsman>
+          <bowler>KL Gordon</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>L Tshuma</batsman>
+          <bowler>KL Gordon</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>L Jack</fielder>
+              </fielders>
+              <kind>stumped</kind>
+              <player_out>L Tshuma</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>KE Bryce</bowler>
+          <non_striker>J Nkomo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>J Nkomo</batsman>
+          <bowler>KE Bryce</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>J Nkomo</batsman>
+          <bowler>KE Bryce</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>KE Bryce</bowler>
+          <non_striker>J Nkomo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>J Nkomo</batsman>
+          <bowler>KE Bryce</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>J Nkomo</batsman>
+          <bowler>KE Bryce</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>J Nkomo</batsman>
+          <bowler>KL Gordon</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>A Aitken</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>J Nkomo</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>T Mlilo</batsman>
+          <bowler>KL Gordon</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>T Mlilo</batsman>
+          <bowler>KL Gordon</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>KE Bryce</fielder>
+              </fielders>
+              <kind>run out</kind>
+              <player_out>T Mlilo</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>KL Gordon</bowler>
+          <non_striker>N Mutasa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>N Mutasa</batsman>
+          <bowler>KL Gordon</bowler>
+          <non_striker>CS Mugeri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>KL Gordon</bowler>
+          <non_striker>N Mutasa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>KE Bryce</bowler>
+          <non_striker>N Mutasa</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>KE Bryce</bowler>
+          <non_striker>N Mutasa</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>KE Bryce</bowler>
+          <non_striker>N Mutasa</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>KE Bryce</bowler>
+          <non_striker>N Mutasa</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>KE Bryce</bowler>
+          <non_striker>N Mutasa</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>CS Mugeri</batsman>
+          <bowler>KE Bryce</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>N Mutasa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>1</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

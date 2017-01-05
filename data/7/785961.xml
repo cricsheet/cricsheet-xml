@@ -1,0 +1,3846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.8</data_version>
+    <created>2014-10-23</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Selangor</city>
+    <dates>
+      <date>2014-10-23</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>ODM</match_type>
+    <neutral_venue>1</neutral_venue>
+    <outcome>
+      <by>
+        <wickets>6</wickets>
+      </by>
+      <winner>United States of America</winner>
+    </outcome>
+    <overs>50</overs>
+    <player_of_match>
+      <player_of_match>Usman Shuja</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Bermuda</team>
+      <team>United States of America</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>United States of America</winner>
+    </toss>
+    <umpires>
+      <umpire>K Cross</umpire>
+      <umpire>Sri Ganesh</umpire>
+    </umpires>
+    <venue>Bayumas Oval</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Bermuda</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>TS Fray</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>SR Taylor</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>TS Fray</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>T Manders</batsman>
+          <bowler>JJC Lawson</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>T Manders</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>T Manders</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>T Manders</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>T Manders</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>JJC Lawson</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>T Manders</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>8</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>T Manders</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>T Manders</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>T Manders</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>T Manders</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>T Manders</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>T Manders</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>Usman Shuja</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>T Manders</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>T Manders</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>T Manders</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>T Manders</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>T Manders</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>T Manders</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>T Manders</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>T Manders</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>T Manders</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>T Manders</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>T Manders</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>T Manders</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>T Manders</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>T Manders</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>T Manders</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>T Manders</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>T Manders</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>T Manders</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>T Manders</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>T Manders</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>T Manders</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>T Manders</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>K Ganesh</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>T Manders</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>DC Stovell</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>DC Stovell</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>DC Stovell</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>JJC Lawson</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>DC Stovell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>DC Stovell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>DC Stovell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>DC Stovell</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>DC Stovell</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>DC Stovell</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>7</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>DC Stovell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>DC Stovell</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>DC Stovell</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>caught and bowled</kind>
+              <player_out>DC Stovell</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>JJ Tucker</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>JJ Tucker</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>JJ Tucker</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>JJ Tucker</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>Muhammad Ghous</bowler>
+          <non_striker>JJ Tucker</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>Muhammad Ghous</bowler>
+          <non_striker>JJ Tucker</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>Muhammad Ghous</bowler>
+          <non_striker>JJ Tucker</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>Muhammad Ghous</bowler>
+          <non_striker>JJ Tucker</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>Muhammad Ghous</bowler>
+          <non_striker>JJ Tucker</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>Muhammad Ghous</bowler>
+          <non_striker>JJ Tucker</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>JJ Tucker</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>JJ Tucker</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>JJ Tucker</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>LOB Cann</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>LOB Cann</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>LOB Cann</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>LOB Cann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>LOB Cann</batsman>
+          <bowler>JJC Lawson</bowler>
+          <extras>
+            <wides>2</wides>
+          </extras>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>JJC Lawson</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>LOB Cann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>JJC Lawson</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>LOB Cann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>LOB Cann</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>LOB Cann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>LOB Cann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>7</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>LOB Cann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>8</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>LOB Cann</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>9</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>LOB Cann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>LOB Cann</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>LOB Cann</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>LOB Cann</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>LOB Cann</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>LOB Cann</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>LOB Cann</batsman>
+          <bowler>Usman Shuja</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>Muhammad Ghous</bowler>
+          <non_striker>LOB Cann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>Muhammad Ghous</bowler>
+          <non_striker>LOB Cann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>Muhammad Ghous</bowler>
+          <non_striker>LOB Cann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>Muhammad Ghous</bowler>
+          <non_striker>LOB Cann</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>LOB Cann</batsman>
+          <bowler>Muhammad Ghous</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>LOB Cann</batsman>
+          <bowler>Muhammad Ghous</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>LOB Cann</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>LOB Cann</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>LOB Cann</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>LOB Cann</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>LOB Cann</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>C Burgess</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>LOB Cann</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>Muhammad Ghous</bowler>
+          <non_striker>LOB Cann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>Muhammad Ghous</bowler>
+          <non_striker>LOB Cann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>Muhammad Ghous</bowler>
+          <non_striker>LOB Cann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>C Burgess</batsman>
+          <bowler>Muhammad Ghous</bowler>
+          <non_striker>LOB Cann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>C Burgess</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>Muhammad Ghous</bowler>
+          <non_striker>LOB Cann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>Muhammad Ghous</bowler>
+          <non_striker>LOB Cann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>LOB Cann</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>LOB Cann</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>LOB Cann</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>LOB Cann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>LOB Cann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>LOB Cann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>LOB Cann</batsman>
+          <bowler>Muhammad Ghous</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>LOB Cann</batsman>
+          <bowler>Muhammad Ghous</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>LOB Cann</batsman>
+          <bowler>Muhammad Ghous</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>LOB Cann</batsman>
+          <bowler>Muhammad Ghous</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>LOB Cann</batsman>
+          <bowler>Muhammad Ghous</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>LOB Cann</batsman>
+          <bowler>Muhammad Ghous</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>LOB Cann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>LOB Cann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>LOB Cann</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>LOB Cann</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>LOB Cann</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>SR Taylor</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>LOB Cann</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>MO Jones</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>Muhammad Ghous</bowler>
+          <non_striker>MO Jones</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>Muhammad Ghous</bowler>
+          <non_striker>MO Jones</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>Muhammad Ghous</bowler>
+          <non_striker>MO Jones</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>Muhammad Ghous</bowler>
+          <non_striker>MO Jones</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>Muhammad Ghous</bowler>
+          <non_striker>MO Jones</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>Muhammad Ghous</bowler>
+          <non_striker>MO Jones</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>MO Jones</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>MO Jones</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>MO Jones</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>MO Jones</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>MO Jones</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>MO Jones</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>1</ball>
+          <batsman>MO Jones</batsman>
+          <bowler>K Ganesh</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>2</ball>
+          <batsman>MO Jones</batsman>
+          <bowler>K Ganesh</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>MO Jones</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>3</ball>
+          <batsman>KS Leverock</batsman>
+          <bowler>K Ganesh</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>4</ball>
+          <batsman>KS Leverock</batsman>
+          <bowler>K Ganesh</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>5</ball>
+          <batsman>KS Leverock</batsman>
+          <bowler>K Ganesh</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>6</ball>
+          <batsman>KS Leverock</batsman>
+          <bowler>K Ganesh</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>1</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>KS Leverock</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>2</ball>
+          <batsman>KS Leverock</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>3</ball>
+          <batsman>KS Leverock</batsman>
+          <bowler>TK Patel</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>4</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>KS Leverock</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>5</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>KS Leverock</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>6</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>KS Leverock</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>1</ball>
+          <batsman>KS Leverock</batsman>
+          <bowler>K Ganesh</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>2</ball>
+          <batsman>KS Leverock</batsman>
+          <bowler>K Ganesh</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>3</ball>
+          <batsman>KS Leverock</batsman>
+          <bowler>K Ganesh</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>4</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>K Ganesh</bowler>
+          <non_striker>KS Leverock</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>5</ball>
+          <batsman>KS Leverock</batsman>
+          <bowler>K Ganesh</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>6</ball>
+          <batsman>KS Leverock</batsman>
+          <bowler>K Ganesh</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>1</ball>
+          <batsman>KS Leverock</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>2</ball>
+          <batsman>KS Leverock</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>3</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>KS Leverock</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>4</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>TK Patel</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>KS Leverock</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>5</ball>
+          <batsman>KS Leverock</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>6</ball>
+          <batsman>KS Leverock</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>1</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>K Ganesh</bowler>
+          <non_striker>KS Leverock</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>2</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>K Ganesh</bowler>
+          <extras>
+            <legbyes>2</legbyes>
+          </extras>
+          <non_striker>KS Leverock</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>3</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>K Ganesh</bowler>
+          <non_striker>KS Leverock</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>4</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>K Ganesh</bowler>
+          <non_striker>KS Leverock</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>5</ball>
+          <batsman>KS Leverock</batsman>
+          <bowler>K Ganesh</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>KS Leverock</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>6</ball>
+          <batsman>DMW Rawlins</batsman>
+          <bowler>K Ganesh</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>1</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>DMW Rawlins</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>2</ball>
+          <batsman>DMW Rawlins</batsman>
+          <bowler>TK Patel</bowler>
+          <extras>
+            <wides>2</wides>
+          </extras>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>3</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>DMW Rawlins</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>4</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>DMW Rawlins</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>5</ball>
+          <batsman>DMW Rawlins</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>6</ball>
+          <batsman>DMW Rawlins</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>7</ball>
+          <batsman>DMW Rawlins</batsman>
+          <bowler>TK Patel</bowler>
+          <non_striker>AC Douglas</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>1</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>DMW Rawlins</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>2</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>DMW Rawlins</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>3</ball>
+          <batsman>AC Douglas</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>DMW Rawlins</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>TK Patel</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>AC Douglas</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>4</ball>
+          <batsman>DMW Rawlins</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>D Talbot</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>5</ball>
+          <batsman>DMW Rawlins</batsman>
+          <bowler>JJC Lawson</bowler>
+          <non_striker>D Talbot</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Usman Shuja</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>DMW Rawlins</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>United States of America</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>DC Stovell</bowler>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>DC Stovell</bowler>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>DC Stovell</bowler>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>DC Stovell</bowler>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>DC Stovell</bowler>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>DC Stovell</bowler>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>MO Jones</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>MO Jones</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>MO Jones</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>MO Jones</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>MO Jones</bowler>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>MO Jones</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>MO Jones</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>MO Jones</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>MO Jones</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>MO Jones</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>MO Jones</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>MO Jones</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>MO Jones</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>MO Jones</bowler>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>MO Jones</bowler>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>SR Taylor</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>SR Santhanam</batsman>
+          <bowler>MO Jones</bowler>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>SR Santhanam</batsman>
+          <bowler>MO Jones</bowler>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>MO Jones</bowler>
+          <non_striker>SR Santhanam</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>7</ball>
+          <batsman>SR Santhanam</batsman>
+          <bowler>MO Jones</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>8</ball>
+          <batsman>SR Santhanam</batsman>
+          <bowler>MO Jones</bowler>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>SR Santhanam</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>SR Santhanam</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>SR Santhanam</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>SR Santhanam</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>SR Santhanam</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>SR Santhanam</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>SR Santhanam</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>SR Santhanam</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>SR Santhanam</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>SR Santhanam</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>SR Santhanam</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>SR Santhanam</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>SR Santhanam</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>SR Santhanam</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>SR Santhanam</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>SR Santhanam</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>SR Santhanam</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>SR Santhanam</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>SR Santhanam</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>SR Santhanam</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>SR Santhanam</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>SR Santhanam</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>C Burgess</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>SR Santhanam</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>SJ Massiah</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>SJ Massiah</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>Fahad Babar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>SJ Massiah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>SJ Massiah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>SJ Massiah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>SJ Massiah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>Fahad Babar</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>SJ Massiah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>JJ Tucker</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Fahad Babar</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>A Thyagarajan</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>SJ Massiah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>SJ Massiah</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>SJ Massiah</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>SJ Massiah</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>A Thyagarajan</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>SJ Massiah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>A Thyagarajan</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>SJ Massiah</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>A Thyagarajan</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>SJ Massiah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>SJ Massiah</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>SJ Massiah</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>SJ Massiah</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>SJ Massiah</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>SJ Massiah</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>SJ Massiah</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>A Thyagarajan</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>SJ Massiah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>A Thyagarajan</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>SJ Massiah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>A Thyagarajan</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>SJ Massiah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>A Thyagarajan</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>SJ Massiah</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>A Thyagarajan</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>SJ Massiah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>A Thyagarajan</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>SJ Massiah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>7</ball>
+          <batsman>A Thyagarajan</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>SJ Massiah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>SJ Massiah</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>SJ Massiah</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>SJ Massiah</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>SJ Massiah</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>SJ Massiah</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>SJ Massiah</batsman>
+          <bowler>D Talbot</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>SJ Massiah</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>SJ Massiah</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>A Thyagarajan</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>SJ Massiah</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>A Thyagarajan</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>SJ Massiah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>A Thyagarajan</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>SJ Massiah</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>SJ Massiah</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>A Thyagarajan</batsman>
+          <bowler>DC Stovell</bowler>
+          <non_striker>SJ Massiah</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>SJ Massiah</batsman>
+          <bowler>DC Stovell</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>SJ Massiah</batsman>
+          <bowler>DC Stovell</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>A Thyagarajan</batsman>
+          <bowler>DC Stovell</bowler>
+          <non_striker>SJ Massiah</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>SJ Massiah</batsman>
+          <bowler>DC Stovell</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>SJ Massiah</batsman>
+          <bowler>DC Stovell</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>SJ Massiah</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>SJ Massiah</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>SJ Massiah</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>D Talbot</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>SJ Massiah</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>TK Patel</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>TK Patel</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>TK Patel</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <extras>
+            <legbyes>2</legbyes>
+          </extras>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>A Thyagarajan</batsman>
+          <bowler>DC Stovell</bowler>
+          <non_striker>TK Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>A Thyagarajan</batsman>
+          <bowler>DC Stovell</bowler>
+          <non_striker>TK Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>TK Patel</batsman>
+          <bowler>DC Stovell</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>TK Patel</batsman>
+          <bowler>DC Stovell</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>TK Patel</batsman>
+          <bowler>DC Stovell</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>TK Patel</batsman>
+          <bowler>DC Stovell</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>A Thyagarajan</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>TK Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>A Thyagarajan</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>TK Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>TK Patel</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>TK Patel</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>TK Patel</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>A Thyagarajan</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>TK Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>1</ball>
+          <batsman>A Thyagarajan</batsman>
+          <bowler>DC Stovell</bowler>
+          <non_striker>TK Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>2</ball>
+          <batsman>A Thyagarajan</batsman>
+          <bowler>DC Stovell</bowler>
+          <non_striker>TK Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>3</ball>
+          <batsman>A Thyagarajan</batsman>
+          <bowler>DC Stovell</bowler>
+          <non_striker>TK Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>4</ball>
+          <batsman>TK Patel</batsman>
+          <bowler>DC Stovell</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>5</ball>
+          <batsman>TK Patel</batsman>
+          <bowler>DC Stovell</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>6</ball>
+          <batsman>TK Patel</batsman>
+          <bowler>DC Stovell</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>1</ball>
+          <batsman>TK Patel</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>2</ball>
+          <batsman>TK Patel</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>3</ball>
+          <batsman>TK Patel</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>A Thyagarajan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>4</ball>
+          <batsman>A Thyagarajan</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>TK Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>5</ball>
+          <batsman>A Thyagarajan</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>TK Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>6</ball>
+          <batsman>A Thyagarajan</batsman>
+          <bowler>DMW Rawlins</bowler>
+          <non_striker>TK Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

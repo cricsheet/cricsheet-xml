@@ -1,0 +1,3045 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.8</data_version>
+    <created>2015-07-26</created>
+    <revision>2</revision>
+  </meta>
+  <info>
+    <city>Edinburgh</city>
+    <dates>
+      <date>2015-07-15</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>IT20</match_type>
+    <neutral_venue>1</neutral_venue>
+    <outcome>
+      <by>
+        <runs>40</runs>
+      </by>
+      <winner>Oman</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>Mehran Khan</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Oman</team>
+      <team>Afghanistan</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Afghanistan</winner>
+    </toss>
+    <umpires>
+      <umpire>VA Kulkarni</umpire>
+      <umpire>S George</umpire>
+    </umpires>
+    <venue>Goldenacre</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Oman</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>Zeeshan Maqsood</batsman>
+          <bowler>Aftab Alam</bowler>
+          <non_striker>Zeeshan Siddiqui</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>Zeeshan Maqsood</batsman>
+          <bowler>Aftab Alam</bowler>
+          <non_striker>Zeeshan Siddiqui</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>Zeeshan Maqsood</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Aftab Alam</bowler>
+          <non_striker>Zeeshan Siddiqui</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Aftab Alam</bowler>
+          <non_striker>Zeeshan Siddiqui</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Aftab Alam</bowler>
+          <non_striker>Zeeshan Siddiqui</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Aftab Alam</bowler>
+          <non_striker>Zeeshan Siddiqui</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>Zeeshan Siddiqui</batsman>
+          <bowler>Gulbadin Naib</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>Zeeshan Siddiqui</batsman>
+          <bowler>Gulbadin Naib</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>Zeeshan Siddiqui</batsman>
+          <bowler>Gulbadin Naib</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>Zeeshan Siddiqui</batsman>
+          <bowler>Gulbadin Naib</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>Zeeshan Siddiqui</batsman>
+          <bowler>Gulbadin Naib</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>Zeeshan Siddiqui</batsman>
+          <bowler>Gulbadin Naib</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>Zeeshan Siddiqui</batsman>
+          <bowler>Gulbadin Naib</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>Zeeshan Siddiqui</batsman>
+          <bowler>Aftab Alam</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>Zeeshan Siddiqui</batsman>
+          <bowler>Aftab Alam</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>Zeeshan Siddiqui</batsman>
+          <bowler>Aftab Alam</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>Zeeshan Siddiqui</batsman>
+          <bowler>Aftab Alam</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>Zeeshan Siddiqui</batsman>
+          <bowler>Aftab Alam</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Aftab Alam</bowler>
+          <non_striker>Zeeshan Siddiqui</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>7</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Aftab Alam</bowler>
+          <non_striker>Zeeshan Siddiqui</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>Zeeshan Siddiqui</batsman>
+          <bowler>Gulbadin Naib</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>Zeeshan Siddiqui</batsman>
+          <bowler>Gulbadin Naib</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>Zeeshan Siddiqui</batsman>
+          <bowler>Gulbadin Naib</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Gulbadin Naib</bowler>
+          <non_striker>Zeeshan Siddiqui</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Gulbadin Naib</bowler>
+          <non_striker>Zeeshan Siddiqui</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Gulbadin Naib</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>Zeeshan Siddiqui</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Shapoor Zadran</bowler>
+          <non_striker>Zeeshan Siddiqui</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Shapoor Zadran</bowler>
+          <non_striker>Zeeshan Siddiqui</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Shapoor Zadran</bowler>
+          <non_striker>Zeeshan Siddiqui</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Shapoor Zadran</bowler>
+          <non_striker>Zeeshan Siddiqui</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Shapoor Zadran</bowler>
+          <non_striker>Zeeshan Siddiqui</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Shapoor Zadran</bowler>
+          <non_striker>Zeeshan Siddiqui</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>Zeeshan Siddiqui</batsman>
+          <bowler>Mirwais Ashraf</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Mirwais Ashraf</bowler>
+          <non_striker>Zeeshan Siddiqui</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Mirwais Ashraf</bowler>
+          <non_striker>Zeeshan Siddiqui</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>Zeeshan Siddiqui</batsman>
+          <bowler>Mirwais Ashraf</bowler>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Mirwais Ashraf</bowler>
+          <non_striker>Zeeshan Siddiqui</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>Zeeshan Siddiqui</batsman>
+          <bowler>Mirwais Ashraf</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Shapoor Zadran</bowler>
+          <non_striker>Zeeshan Siddiqui</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Shapoor Zadran</bowler>
+          <non_striker>Zeeshan Siddiqui</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Shapoor Zadran</bowler>
+          <non_striker>Zeeshan Siddiqui</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>Zeeshan Siddiqui</batsman>
+          <bowler>Shapoor Zadran</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>Zeeshan Siddiqui</batsman>
+          <bowler>Shapoor Zadran</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Shapoor Zadran</bowler>
+          <non_striker>Zeeshan Siddiqui</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>Zeeshan Siddiqui</batsman>
+          <bowler>Mirwais Ashraf</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Mirwais Ashraf</bowler>
+          <non_striker>Zeeshan Siddiqui</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Mirwais Ashraf</bowler>
+          <non_striker>Zeeshan Siddiqui</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>Zeeshan Siddiqui</batsman>
+          <bowler>Mirwais Ashraf</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Mirwais Ashraf</bowler>
+          <non_striker>Zeeshan Siddiqui</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Mirwais Ashraf</bowler>
+          <extras>
+            <byes>2</byes>
+          </extras>
+          <non_striker>Zeeshan Siddiqui</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>Zeeshan Siddiqui</batsman>
+          <bowler>Mohammad Nabi</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>Zeeshan Siddiqui</batsman>
+          <bowler>Mohammad Nabi</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>Zeeshan Siddiqui</batsman>
+          <bowler>Mohammad Nabi</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>caught and bowled</kind>
+              <player_out>Zeeshan Siddiqui</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>VS Wategaonkar</batsman>
+          <bowler>Mohammad Nabi</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>VS Wategaonkar</batsman>
+          <bowler>Mohammad Nabi</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>VS Wategaonkar</batsman>
+          <bowler>Mohammad Nabi</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Samiullah Shenwari</bowler>
+          <non_striker>VS Wategaonkar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>VS Wategaonkar</batsman>
+          <bowler>Samiullah Shenwari</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>VS Wategaonkar</batsman>
+          <bowler>Samiullah Shenwari</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Samiullah Shenwari</bowler>
+          <non_striker>VS Wategaonkar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Samiullah Shenwari</bowler>
+          <non_striker>VS Wategaonkar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Samiullah Shenwari</bowler>
+          <non_striker>VS Wategaonkar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Mohammad Nabi</bowler>
+          <non_striker>VS Wategaonkar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Mohammad Nabi</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>VS Wategaonkar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Mohammad Nabi</bowler>
+          <non_striker>VS Wategaonkar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>VS Wategaonkar</batsman>
+          <bowler>Mohammad Nabi</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>VS Wategaonkar</batsman>
+          <bowler>Mohammad Nabi</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Mohammad Nabi</bowler>
+          <non_striker>VS Wategaonkar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>7</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Mohammad Nabi</bowler>
+          <non_striker>VS Wategaonkar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Samiullah Shenwari</bowler>
+          <non_striker>VS Wategaonkar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>VS Wategaonkar</batsman>
+          <bowler>Samiullah Shenwari</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>VS Wategaonkar</batsman>
+          <bowler>Samiullah Shenwari</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>VS Wategaonkar</batsman>
+          <bowler>Samiullah Shenwari</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Samiullah Shenwari</bowler>
+          <non_striker>VS Wategaonkar</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Samiullah Shenwari</bowler>
+          <extras>
+            <wides>2</wides>
+          </extras>
+          <non_striker>VS Wategaonkar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>7</ball>
+          <batsman>VS Wategaonkar</batsman>
+          <bowler>Samiullah Shenwari</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Shapoor Zadran</bowler>
+          <non_striker>VS Wategaonkar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Shapoor Zadran</bowler>
+          <non_striker>VS Wategaonkar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>VS Wategaonkar</batsman>
+          <bowler>Shapoor Zadran</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Shapoor Zadran</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>VS Wategaonkar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>VS Wategaonkar</batsman>
+          <bowler>Shapoor Zadran</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>VS Wategaonkar</batsman>
+          <bowler>Shapoor Zadran</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Mirwais Ashraf</bowler>
+          <non_striker>VS Wategaonkar</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Mirwais Ashraf</bowler>
+          <non_striker>VS Wategaonkar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>VS Wategaonkar</batsman>
+          <bowler>Mirwais Ashraf</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Mirwais Ashraf</bowler>
+          <non_striker>VS Wategaonkar</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Mirwais Ashraf</bowler>
+          <non_striker>VS Wategaonkar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Mirwais Ashraf</bowler>
+          <non_striker>VS Wategaonkar</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>VS Wategaonkar</batsman>
+          <bowler>Shapoor Zadran</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>VS Wategaonkar</batsman>
+          <bowler>Shapoor Zadran</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Aftab Alam</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>VS Wategaonkar</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Shapoor Zadran</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>Mehran Khan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>1</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>Mehran Khan</batsman>
+          <bowler>Shapoor Zadran</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Shapoor Zadran</bowler>
+          <non_striker>Mehran Khan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>Mehran Khan</batsman>
+          <bowler>Shapoor Zadran</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>7</ball>
+          <batsman>Mehran Khan</batsman>
+          <bowler>Shapoor Zadran</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>Mehran Khan</batsman>
+          <bowler>Aftab Alam</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>Mehran Khan</batsman>
+          <bowler>Aftab Alam</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Aftab Alam</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Mehran Khan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Aftab Alam</bowler>
+          <non_striker>Mehran Khan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>Mehran Khan</batsman>
+          <bowler>Aftab Alam</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>Mehran Khan</batsman>
+          <bowler>Aftab Alam</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>7</ball>
+          <batsman>Mehran Khan</batsman>
+          <bowler>Aftab Alam</bowler>
+          <non_striker>Jatinder Singh</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>Jatinder Singh</batsman>
+          <bowler>Mohammad Nabi</bowler>
+          <non_striker>Mehran Khan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>Jatinder Singh</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>Amir Ali</batsman>
+          <bowler>Mohammad Nabi</bowler>
+          <non_striker>Mehran Khan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>Mehran Khan</batsman>
+          <bowler>Mohammad Nabi</bowler>
+          <non_striker>Amir Ali</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>Mehran Khan</batsman>
+          <bowler>Mohammad Nabi</bowler>
+          <non_striker>Amir Ali</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>Amir Ali</batsman>
+          <bowler>Mohammad Nabi</bowler>
+          <non_striker>Mehran Khan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>Amir Ali</batsman>
+          <bowler>Mohammad Nabi</bowler>
+          <non_striker>Mehran Khan</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>Mehran Khan</batsman>
+          <bowler>Mirwais Ashraf</bowler>
+          <non_striker>Amir Ali</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>Amir Ali</batsman>
+          <bowler>Mirwais Ashraf</bowler>
+          <non_striker>Mehran Khan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Gulbadin Naib</fielder>
+              </fielders>
+              <kind>run out</kind>
+              <player_out>Amir Ali</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>Mehran Khan</batsman>
+          <bowler>Mirwais Ashraf</bowler>
+          <non_striker>RJ Ranpura</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>Mehran Khan</batsman>
+          <bowler>Mirwais Ashraf</bowler>
+          <non_striker>RJ Ranpura</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>RJ Ranpura</batsman>
+          <bowler>Mirwais Ashraf</bowler>
+          <non_striker>Mehran Khan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>RJ Ranpura</batsman>
+          <bowler>Mirwais Ashraf</bowler>
+          <non_striker>Mehran Khan</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>Mehran Khan</batsman>
+          <bowler>Mohammad Nabi</bowler>
+          <non_striker>RJ Ranpura</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>RJ Ranpura</batsman>
+          <bowler>Mohammad Nabi</bowler>
+          <non_striker>Mehran Khan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>Mehran Khan</batsman>
+          <bowler>Mohammad Nabi</bowler>
+          <non_striker>RJ Ranpura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>Mehran Khan</batsman>
+          <bowler>Mohammad Nabi</bowler>
+          <non_striker>RJ Ranpura</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>RJ Ranpura</batsman>
+          <bowler>Mohammad Nabi</bowler>
+          <non_striker>Mehran Khan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>Mehran Khan</batsman>
+          <bowler>Mohammad Nabi</bowler>
+          <non_striker>RJ Ranpura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Mohammad Shahzad</fielder>
+              </fielders>
+              <kind>stumped</kind>
+              <player_out>Mehran Khan</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>RJ Ranpura</batsman>
+          <bowler>Aftab Alam</bowler>
+          <non_striker>Aamir Kaleem</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>Aamir Kaleem</batsman>
+          <bowler>Aftab Alam</bowler>
+          <non_striker>RJ Ranpura</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>RJ Ranpura</batsman>
+          <bowler>Aftab Alam</bowler>
+          <non_striker>Aamir Kaleem</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>Aamir Kaleem</batsman>
+          <bowler>Aftab Alam</bowler>
+          <non_striker>RJ Ranpura</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>Aamir Kaleem</batsman>
+          <bowler>Aftab Alam</bowler>
+          <non_striker>RJ Ranpura</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>Aamir Kaleem</batsman>
+          <bowler>Aftab Alam</bowler>
+          <non_striker>RJ Ranpura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>Aamir Kaleem</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Afghanistan</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>Mohammad Shahzad</batsman>
+          <bowler>M Ansari</bowler>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>Mohammad Shahzad</batsman>
+          <bowler>M Ansari</bowler>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>Mohammad Shahzad</batsman>
+          <bowler>M Ansari</bowler>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>Mohammad Shahzad</batsman>
+          <bowler>M Ansari</bowler>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>Mohammad Shahzad</batsman>
+          <bowler>M Ansari</bowler>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>Mohammad Shahzad</batsman>
+          <bowler>M Ansari</bowler>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>Javed Ahmadi</batsman>
+          <bowler>RJ Ranpura</bowler>
+          <non_striker>Mohammad Shahzad</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>Javed Ahmadi</batsman>
+          <bowler>RJ Ranpura</bowler>
+          <non_striker>Mohammad Shahzad</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>Javed Ahmadi</batsman>
+          <bowler>RJ Ranpura</bowler>
+          <non_striker>Mohammad Shahzad</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>Javed Ahmadi</batsman>
+          <bowler>RJ Ranpura</bowler>
+          <non_striker>Mohammad Shahzad</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>Javed Ahmadi</batsman>
+          <bowler>RJ Ranpura</bowler>
+          <non_striker>Mohammad Shahzad</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>Javed Ahmadi</batsman>
+          <bowler>RJ Ranpura</bowler>
+          <non_striker>Mohammad Shahzad</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>Mohammad Shahzad</batsman>
+          <bowler>M Ansari</bowler>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>Mohammad Shahzad</batsman>
+          <bowler>M Ansari</bowler>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>Javed Ahmadi</batsman>
+          <bowler>M Ansari</bowler>
+          <non_striker>Mohammad Shahzad</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>Javed Ahmadi</batsman>
+          <bowler>M Ansari</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Mohammad Shahzad</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>Javed Ahmadi</batsman>
+          <bowler>M Ansari</bowler>
+          <non_striker>Mohammad Shahzad</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>Javed Ahmadi</batsman>
+          <bowler>M Ansari</bowler>
+          <non_striker>Mohammad Shahzad</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>7</ball>
+          <batsman>Javed Ahmadi</batsman>
+          <bowler>M Ansari</bowler>
+          <non_striker>Mohammad Shahzad</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>Mohammad Shahzad</batsman>
+          <bowler>RJ Ranpura</bowler>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>Mohammad Shahzad</batsman>
+          <bowler>RJ Ranpura</bowler>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>Mohammad Shahzad</batsman>
+          <bowler>RJ Ranpura</bowler>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>Mohammad Shahzad</batsman>
+          <bowler>RJ Ranpura</bowler>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>Javed Ahmadi</batsman>
+          <bowler>RJ Ranpura</bowler>
+          <non_striker>Mohammad Shahzad</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>Javed Ahmadi</batsman>
+          <bowler>RJ Ranpura</bowler>
+          <non_striker>Mohammad Shahzad</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>Mohammad Shahzad</batsman>
+          <bowler>Zeeshan Maqsood</bowler>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>Mohammad Shahzad</batsman>
+          <bowler>Zeeshan Maqsood</bowler>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>Mohammad Shahzad</batsman>
+          <bowler>Zeeshan Maqsood</bowler>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>Mohammad Shahzad</batsman>
+          <bowler>Zeeshan Maqsood</bowler>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>Mohammad Shahzad</batsman>
+          <bowler>Zeeshan Maqsood</bowler>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>Mohammad Shahzad</batsman>
+          <bowler>Zeeshan Maqsood</bowler>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>Javed Ahmadi</batsman>
+          <bowler>RJ Ranpura</bowler>
+          <non_striker>Mohammad Shahzad</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>Mohammad Shahzad</batsman>
+          <bowler>RJ Ranpura</bowler>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Sultan Ahmed</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Mohammad Shahzad</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>Asghar Stanikzai</batsman>
+          <bowler>RJ Ranpura</bowler>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>Asghar Stanikzai</batsman>
+          <bowler>RJ Ranpura</bowler>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>Asghar Stanikzai</batsman>
+          <bowler>RJ Ranpura</bowler>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>Asghar Stanikzai</batsman>
+          <bowler>RJ Ranpura</bowler>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>Asghar Stanikzai</batsman>
+          <bowler>Mohammad Nadeem</bowler>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>Javed Ahmadi</batsman>
+          <bowler>Mohammad Nadeem</bowler>
+          <non_striker>Asghar Stanikzai</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>Asghar Stanikzai</batsman>
+          <bowler>Mohammad Nadeem</bowler>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>Javed Ahmadi</batsman>
+          <bowler>Mohammad Nadeem</bowler>
+          <non_striker>Asghar Stanikzai</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>Asghar Stanikzai</batsman>
+          <bowler>Mohammad Nadeem</bowler>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>Javed Ahmadi</batsman>
+          <bowler>Mohammad Nadeem</bowler>
+          <non_striker>Asghar Stanikzai</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>Javed Ahmadi</batsman>
+          <bowler>Mehran Khan</bowler>
+          <non_striker>Asghar Stanikzai</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>Asghar Stanikzai</batsman>
+          <bowler>Mehran Khan</bowler>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>Javed Ahmadi</batsman>
+          <bowler>Mehran Khan</bowler>
+          <non_striker>Asghar Stanikzai</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>Javed Ahmadi</batsman>
+          <bowler>Mehran Khan</bowler>
+          <non_striker>Asghar Stanikzai</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>Javed Ahmadi</batsman>
+          <bowler>Mehran Khan</bowler>
+          <non_striker>Asghar Stanikzai</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>Javed Ahmadi</batsman>
+          <bowler>Mehran Khan</bowler>
+          <non_striker>Asghar Stanikzai</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>Asghar Stanikzai</batsman>
+          <bowler>Mohammad Nadeem</bowler>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>Javed Ahmadi</batsman>
+          <bowler>Mohammad Nadeem</bowler>
+          <non_striker>Asghar Stanikzai</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>Asghar Stanikzai</batsman>
+          <bowler>Mohammad Nadeem</bowler>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>Asghar Stanikzai</batsman>
+          <bowler>Mohammad Nadeem</bowler>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>Javed Ahmadi</batsman>
+          <bowler>Mohammad Nadeem</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>Asghar Stanikzai</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>Asghar Stanikzai</batsman>
+          <bowler>Mohammad Nadeem</bowler>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>Asghar Stanikzai</batsman>
+          <bowler>Mehran Khan</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>Javed Ahmadi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>Javed Ahmadi</batsman>
+          <bowler>Mehran Khan</bowler>
+          <non_striker>Asghar Stanikzai</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>Javed Ahmadi</batsman>
+          <bowler>Mehran Khan</bowler>
+          <non_striker>Asghar Stanikzai</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Sultan Ahmed</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Javed Ahmadi</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>Samiullah Shenwari</batsman>
+          <bowler>Mehran Khan</bowler>
+          <non_striker>Asghar Stanikzai</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>Asghar Stanikzai</batsman>
+          <bowler>Mehran Khan</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>Samiullah Shenwari</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>Samiullah Shenwari</batsman>
+          <bowler>Mehran Khan</bowler>
+          <non_striker>Asghar Stanikzai</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>Samiullah Shenwari</batsman>
+          <bowler>Mohammad Nadeem</bowler>
+          <non_striker>Asghar Stanikzai</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>Asghar Stanikzai</batsman>
+          <bowler>Mohammad Nadeem</bowler>
+          <non_striker>Samiullah Shenwari</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>Asghar Stanikzai</batsman>
+          <bowler>Mohammad Nadeem</bowler>
+          <non_striker>Samiullah Shenwari</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>Asghar Stanikzai</batsman>
+          <bowler>Mohammad Nadeem</bowler>
+          <non_striker>Samiullah Shenwari</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>Samiullah Shenwari</batsman>
+          <bowler>Mohammad Nadeem</bowler>
+          <non_striker>Asghar Stanikzai</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>Asghar Stanikzai</batsman>
+          <bowler>Mohammad Nadeem</bowler>
+          <non_striker>Samiullah Shenwari</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>Samiullah Shenwari</batsman>
+          <bowler>Mehran Khan</bowler>
+          <non_striker>Asghar Stanikzai</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>Asghar Stanikzai</batsman>
+          <bowler>Mehran Khan</bowler>
+          <non_striker>Samiullah Shenwari</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Sultan Ahmed</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Asghar Stanikzai</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>Samiullah Shenwari</batsman>
+          <bowler>Mehran Khan</bowler>
+          <non_striker>Mohammad Nabi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>Mohammad Nabi</batsman>
+          <bowler>Mehran Khan</bowler>
+          <non_striker>Samiullah Shenwari</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>Mohammad Nabi</batsman>
+          <bowler>Mehran Khan</bowler>
+          <non_striker>Samiullah Shenwari</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>Mohammad Nabi</batsman>
+          <bowler>Mehran Khan</bowler>
+          <non_striker>Samiullah Shenwari</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>Mohammad Nabi</batsman>
+          <bowler>Mohammad Nadeem</bowler>
+          <non_striker>Samiullah Shenwari</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>Mohammad Nabi</batsman>
+          <bowler>Mohammad Nadeem</bowler>
+          <non_striker>Samiullah Shenwari</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>Mohammad Nabi</batsman>
+          <bowler>Mohammad Nadeem</bowler>
+          <non_striker>Samiullah Shenwari</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>Mohammad Nabi</batsman>
+          <bowler>Mohammad Nadeem</bowler>
+          <non_striker>Samiullah Shenwari</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>Mohammad Nabi</batsman>
+          <bowler>Mohammad Nadeem</bowler>
+          <non_striker>Samiullah Shenwari</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>Samiullah Shenwari</batsman>
+          <bowler>Mohammad Nadeem</bowler>
+          <non_striker>Mohammad Nabi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>Samiullah Shenwari</batsman>
+          <bowler>Zeeshan Maqsood</bowler>
+          <non_striker>Mohammad Nabi</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>Samiullah Shenwari</batsman>
+          <bowler>Zeeshan Maqsood</bowler>
+          <non_striker>Mohammad Nabi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>Samiullah Shenwari</batsman>
+          <bowler>Zeeshan Maqsood</bowler>
+          <non_striker>Mohammad Nabi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>Samiullah Shenwari</batsman>
+          <bowler>Zeeshan Maqsood</bowler>
+          <non_striker>Mohammad Nabi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>Mohammad Nabi</batsman>
+          <bowler>Zeeshan Maqsood</bowler>
+          <non_striker>Samiullah Shenwari</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>Samiullah Shenwari</batsman>
+          <bowler>Zeeshan Maqsood</bowler>
+          <non_striker>Mohammad Nabi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Mehran Khan</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Samiullah Shenwari</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>Najibullah Zadran</batsman>
+          <bowler>Mehran Khan</bowler>
+          <non_striker>Mohammad Nabi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>Mohammad Nabi</batsman>
+          <bowler>Mehran Khan</bowler>
+          <non_striker>Najibullah Zadran</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>Mohammad Nabi</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>Shafiqullah</batsman>
+          <bowler>Mehran Khan</bowler>
+          <non_striker>Najibullah Zadran</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Sultan Ahmed</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Shafiqullah</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>Gulbadin Naib</batsman>
+          <bowler>Mehran Khan</bowler>
+          <non_striker>Najibullah Zadran</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>Najibullah Zadran</batsman>
+          <bowler>Mehran Khan</bowler>
+          <non_striker>Gulbadin Naib</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>Gulbadin Naib</batsman>
+          <bowler>Mehran Khan</bowler>
+          <non_striker>Najibullah Zadran</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>Najibullah Zadran</batsman>
+          <bowler>M Ansari</bowler>
+          <non_striker>Gulbadin Naib</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>Najibullah Zadran</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>Mirwais Ashraf</batsman>
+          <bowler>M Ansari</bowler>
+          <non_striker>Gulbadin Naib</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>Mirwais Ashraf</batsman>
+          <bowler>M Ansari</bowler>
+          <non_striker>Gulbadin Naib</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>Mirwais Ashraf</batsman>
+          <bowler>M Ansari</bowler>
+          <non_striker>Gulbadin Naib</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>Mirwais Ashraf</batsman>
+          <bowler>M Ansari</bowler>
+          <non_striker>Gulbadin Naib</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>Mirwais Ashraf</batsman>
+          <bowler>M Ansari</bowler>
+          <non_striker>Gulbadin Naib</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>Mirwais Ashraf</batsman>
+          <bowler>RJ Ranpura</bowler>
+          <non_striker>Gulbadin Naib</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>Gulbadin Naib</batsman>
+          <bowler>RJ Ranpura</bowler>
+          <non_striker>Mirwais Ashraf</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>Gulbadin Naib</batsman>
+          <bowler>RJ Ranpura</bowler>
+          <non_striker>Mirwais Ashraf</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>Gulbadin Naib</batsman>
+          <bowler>RJ Ranpura</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>Mirwais Ashraf</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>Mirwais Ashraf</batsman>
+          <bowler>RJ Ranpura</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>Gulbadin Naib</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>Gulbadin Naib</batsman>
+          <bowler>RJ Ranpura</bowler>
+          <non_striker>Mirwais Ashraf</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>Mirwais Ashraf</batsman>
+          <bowler>Zeeshan Maqsood</bowler>
+          <non_striker>Gulbadin Naib</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Zeeshan Siddiqui</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Mirwais Ashraf</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>Gulbadin Naib</batsman>
+          <bowler>Zeeshan Maqsood</bowler>
+          <non_striker>Aftab Alam</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>Aftab Alam</batsman>
+          <bowler>Zeeshan Maqsood</bowler>
+          <non_striker>Gulbadin Naib</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>RJ Ranpura</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Aftab Alam</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>Gulbadin Naib</batsman>
+          <bowler>Zeeshan Maqsood</bowler>
+          <non_striker>Shapoor Zadran</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>Gulbadin Naib</batsman>
+          <bowler>Zeeshan Maqsood</bowler>
+          <non_striker>Shapoor Zadran</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Mehran Khan</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Gulbadin Naib</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>
