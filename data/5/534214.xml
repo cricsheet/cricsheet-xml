@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.8</data_version>
+    <created>2013-02-24</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Belfast</city>
+    <dates>
+      <date>2012-06-23</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>ODI</match_type>
+    <outcome>
+      <result>no result</result>
+    </outcome>
+    <overs>50</overs>
+    <teams>
+      <team>Ireland</team>
+      <team>Australia</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Australia</winner>
+    </toss>
+    <umpires>
+      <umpire>M Hawthorne</umpire>
+      <umpire>RA Kettleborough</umpire>
+    </umpires>
+    <venue>Civil Service Cricket Club, Stormont</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Ireland</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>WTS Porterfield</batsman>
+          <bowler>B Lee</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>WTS Porterfield</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>EC Joyce</batsman>
+          <bowler>B Lee</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>EC Joyce</batsman>
+          <bowler>B Lee</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>EC Joyce</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>B Lee</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>B Lee</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>B Lee</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>BW Hilfenhaus</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>BW Hilfenhaus</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>BW Hilfenhaus</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>BW Hilfenhaus</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>BW Hilfenhaus</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>BW Hilfenhaus</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>BW Hilfenhaus</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>B Lee</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>B Lee</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>B Lee</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>B Lee</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>B Lee</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>B Lee</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>BW Hilfenhaus</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>BW Hilfenhaus</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>BW Hilfenhaus</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>BW Hilfenhaus</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>BW Hilfenhaus</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>BW Hilfenhaus</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>B Lee</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>B Lee</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>B Lee</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>B Lee</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>B Lee</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>B Lee</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>PJ Cummins</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>PJ Cummins</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>PJ Cummins</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>PJ Cummins</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>PJ Cummins</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>PJ Cummins</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>BW Hilfenhaus</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>BW Hilfenhaus</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>BW Hilfenhaus</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>BW Hilfenhaus</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>BW Hilfenhaus</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>BW Hilfenhaus</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>PJ Cummins</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>PJ Cummins</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>PJ Cummins</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>PJ Cummins</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>PJ Cummins</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>PJ Cummins</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>BW Hilfenhaus</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>BW Hilfenhaus</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>BW Hilfenhaus</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>BW Hilfenhaus</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>BW Hilfenhaus</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>BW Hilfenhaus</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>PJ Cummins</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>PJ Cummins</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>PJ Cummins</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>PJ Cummins</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>MJ Clarke</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>PR Stirling</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>GC Wilson</batsman>
+          <bowler>PJ Cummins</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>GC Wilson</batsman>
+          <bowler>PJ Cummins</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>BW Hilfenhaus</bowler>
+          <non_striker>GC Wilson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>BW Hilfenhaus</bowler>
+          <non_striker>GC Wilson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>GC Wilson</batsman>
+          <bowler>BW Hilfenhaus</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>GC Wilson</batsman>
+          <bowler>BW Hilfenhaus</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

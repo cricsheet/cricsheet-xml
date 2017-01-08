@@ -1,0 +1,4832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.8</data_version>
+    <created>2011-03-02</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Colombo</city>
+    <dates>
+      <date>2011-03-01</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>ODI</match_type>
+    <outcome>
+      <by>
+        <wickets>9</wickets>
+      </by>
+      <winner>Sri Lanka</winner>
+    </outcome>
+    <overs>50</overs>
+    <player_of_match>
+      <player_of_match>SL Malinga</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Sri Lanka</team>
+      <team>Kenya</team>
+    </teams>
+    <toss>
+      <decision>bat</decision>
+      <winner>Kenya</winner>
+    </toss>
+    <umpires>
+      <umpire>AL Hill</umpire>
+      <umpire>SK Tarapore</umpire>
+    </umpires>
+    <venue>R Premadasa Stadium</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Kenya</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>MA Ouma</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>SR Waters</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>MA Ouma</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>SR Waters</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>MA Ouma</batsman>
+          <bowler>SL Malinga</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>SR Waters</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>1</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>SR Waters</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>MA Ouma</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>MA Ouma</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>SR Waters</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>MA Ouma</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>SR Waters</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <batsman>MA Ouma</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>SR Waters</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>SR Waters</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>MA Ouma</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>MA Ouma</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>SR Waters</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>MA Ouma</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>SR Waters</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>SR Waters</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>SR Waters</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>SR Waters</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>SR Waters</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>SR Waters</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>SL Malinga</bowler>
+          <extras>
+            <noballs>2</noballs>
+          </extras>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>7</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <extras>
+            <legbyes>2</legbyes>
+          </extras>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>1</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>2</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>3</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>4</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>5</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>6</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>1</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>2</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>3</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>4</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>5</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>6</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>1</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>2</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>3</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>4</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>5</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>6</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>1</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>2</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>3</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>4</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>5</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>6</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>1</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>2</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>3</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>4</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>5</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>6</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>1</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>LPC Silva</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>2</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>LPC Silva</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>3</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>LPC Silva</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>4</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>LPC Silva</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>5</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>LPC Silva</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>6</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>LPC Silva</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>7</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>LPC Silva</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>1</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>2</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>3</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>4</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>5</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>6</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>1</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>LPC Silva</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>2</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>LPC Silva</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>3</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>LPC Silva</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>4</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>LPC Silva</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>5</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>LPC Silva</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>6</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>LPC Silva</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>1</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>2</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>3</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>4</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>5</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>6</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>1</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>LPC Silva</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>2</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>LPC Silva</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>3</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>LPC Silva</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>4</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>LPC Silva</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>5</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>LPC Silva</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>6</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>LPC Silva</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>1</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>2</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>3</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>4</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>5</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>6</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>1</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>2</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>3</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>CO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>4</ball>
+          <batsman>CO Obuya</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>CO Obuya</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>5</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>SL Malinga</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>6</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>7</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>1</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>SO Tikolo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>2</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>SO Tikolo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>3</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>4</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>5</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>SO Tikolo</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>6</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>SO Tikolo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>1</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>2</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>3</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>4</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>SL Malinga</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>5</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>6</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>7</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>SO Tikolo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>1</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>SO Tikolo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>2</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>AD Mathews</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>3</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>4</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>5</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>SO Tikolo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>6</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>SO Tikolo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>7</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>SO Tikolo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>1</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>2</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>3</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>4</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>5</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>6</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>SO Tikolo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>1</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>SO Tikolo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>2</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>TM Dilshan</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>SO Tikolo</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>3</ball>
+          <batsman>T Mishra</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>4</ball>
+          <batsman>T Mishra</batsman>
+          <bowler>AD Mathews</bowler>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>5</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>T Mishra</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>6</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>AD Mathews</bowler>
+          <non_striker>T Mishra</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>1</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>T Mishra</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>2</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>T Mishra</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>3</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>T Mishra</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>4</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>T Mishra</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>5</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>T Mishra</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>6</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>T Mishra</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>1</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>T Mishra</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>2</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>T Mishra</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>3</ball>
+          <batsman>T Mishra</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>4</ball>
+          <batsman>T Mishra</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>5</ball>
+          <batsman>T Mishra</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>6</ball>
+          <batsman>T Mishra</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>1</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>T Mishra</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>2</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>T Mishra</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>3</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>T Mishra</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>4</ball>
+          <batsman>T Mishra</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>5</ball>
+          <batsman>T Mishra</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>6</ball>
+          <batsman>T Mishra</batsman>
+          <bowler>KMDN Kulasekara</bowler>
+          <non_striker>DO Obuya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>1</ball>
+          <batsman>DO Obuya</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>T Mishra</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>TT Samaraweera</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>DO Obuya</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>2</ball>
+          <batsman>JK Kamande</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>T Mishra</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>3</ball>
+          <batsman>JK Kamande</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>T Mishra</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>4</ball>
+          <batsman>T Mishra</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>JK Kamande</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>5</ball>
+          <batsman>T Mishra</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>JK Kamande</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>6</ball>
+          <batsman>T Mishra</batsman>
+          <bowler>M Muralitharan</bowler>
+          <non_striker>JK Kamande</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>41</over>
+          <ball>1</ball>
+          <batsman>JK Kamande</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>T Mishra</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>LPC Silva</fielder>
+              </fielders>
+              <kind>run out</kind>
+              <player_out>JK Kamande</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>41</over>
+          <ball>2</ball>
+          <batsman>NN Odhiambo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>T Mishra</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>41</over>
+          <ball>3</ball>
+          <batsman>NN Odhiambo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>T Mishra</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>41</over>
+          <ball>4</ball>
+          <batsman>NN Odhiambo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>T Mishra</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>41</over>
+          <ball>5</ball>
+          <batsman>NN Odhiambo</batsman>
+          <bowler>SL Malinga</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>T Mishra</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>41</over>
+          <ball>6</ball>
+          <batsman>T Mishra</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>NN Odhiambo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>T Mishra</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>1</ball>
+          <batsman>NN Odhiambo</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>PJ Ongondo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>2</ball>
+          <batsman>NN Odhiambo</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>PJ Ongondo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>3</ball>
+          <batsman>NN Odhiambo</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>PJ Ongondo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>4</ball>
+          <batsman>NN Odhiambo</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>PJ Ongondo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>5</ball>
+          <batsman>NN Odhiambo</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>PJ Ongondo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>6</ball>
+          <batsman>NN Odhiambo</batsman>
+          <bowler>BAW Mendis</bowler>
+          <non_striker>PJ Ongondo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>43</over>
+          <ball>1</ball>
+          <batsman>PJ Ongondo</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>NN Odhiambo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>PJ Ongondo</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>43</over>
+          <ball>2</ball>
+          <batsman>SO Ngoche</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>NN Odhiambo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>SO Ngoche</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>43</over>
+          <ball>3</ball>
+          <batsman>E Otieno</batsman>
+          <bowler>SL Malinga</bowler>
+          <extras>
+            <wides>5</wides>
+          </extras>
+          <non_striker>NN Odhiambo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>5</extras>
+            <total>5</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>43</over>
+          <ball>4</ball>
+          <batsman>E Otieno</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>NN Odhiambo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>43</over>
+          <ball>5</ball>
+          <batsman>E Otieno</batsman>
+          <bowler>SL Malinga</bowler>
+          <non_striker>NN Odhiambo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>E Otieno</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Sri Lanka</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>TM Dilshan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>TM Dilshan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <extras>
+            <wides>2</wides>
+          </extras>
+          <non_striker>TM Dilshan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>TM Dilshan</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>TM Dilshan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>TM Dilshan</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>TM Dilshan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>TM Dilshan</batsman>
+          <bowler>NN Odhiambo</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>NN Odhiambo</bowler>
+          <non_striker>TM Dilshan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>NN Odhiambo</bowler>
+          <non_striker>TM Dilshan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>TM Dilshan</batsman>
+          <bowler>NN Odhiambo</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>TM Dilshan</batsman>
+          <bowler>NN Odhiambo</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>TM Dilshan</batsman>
+          <bowler>NN Odhiambo</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>TM Dilshan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>TM Dilshan</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>TM Dilshan</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>TM Dilshan</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>TM Dilshan</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>TM Dilshan</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>TM Dilshan</batsman>
+          <bowler>NN Odhiambo</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>TM Dilshan</batsman>
+          <bowler>NN Odhiambo</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>TM Dilshan</batsman>
+          <bowler>NN Odhiambo</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>TM Dilshan</batsman>
+          <bowler>NN Odhiambo</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>TM Dilshan</batsman>
+          <bowler>NN Odhiambo</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>TM Dilshan</batsman>
+          <bowler>NN Odhiambo</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>TM Dilshan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>TM Dilshan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>TM Dilshan</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>TM Dilshan</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>TM Dilshan</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>TM Dilshan</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>SO Ngoche</bowler>
+          <non_striker>TM Dilshan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>SO Ngoche</bowler>
+          <non_striker>TM Dilshan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>TM Dilshan</batsman>
+          <bowler>SO Ngoche</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>TM Dilshan</batsman>
+          <bowler>SO Ngoche</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>TM Dilshan</batsman>
+          <bowler>SO Ngoche</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>TM Dilshan</batsman>
+          <bowler>SO Ngoche</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>JK Kamande</bowler>
+          <non_striker>TM Dilshan</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>JK Kamande</bowler>
+          <non_striker>TM Dilshan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>JK Kamande</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>TM Dilshan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>JK Kamande</bowler>
+          <non_striker>TM Dilshan</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>JK Kamande</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>TM Dilshan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>JK Kamande</bowler>
+          <non_striker>TM Dilshan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>7</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>JK Kamande</bowler>
+          <non_striker>TM Dilshan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>8</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>JK Kamande</bowler>
+          <non_striker>TM Dilshan</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>TM Dilshan</batsman>
+          <bowler>SO Ngoche</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>TM Dilshan</batsman>
+          <bowler>SO Ngoche</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>SO Ngoche</bowler>
+          <non_striker>TM Dilshan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>TM Dilshan</batsman>
+          <bowler>SO Ngoche</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>TM Dilshan</batsman>
+          <bowler>SO Ngoche</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>TM Dilshan</batsman>
+          <bowler>SO Ngoche</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>TM Dilshan</batsman>
+          <bowler>E Otieno</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>TM Dilshan</batsman>
+          <bowler>E Otieno</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>MA Ouma</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>TM Dilshan</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>E Otieno</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>E Otieno</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>E Otieno</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>E Otieno</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>7</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>E Otieno</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>NN Odhiambo</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>NN Odhiambo</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>NN Odhiambo</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>NN Odhiambo</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>NN Odhiambo</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>NN Odhiambo</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>E Otieno</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>E Otieno</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>E Otieno</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>E Otieno</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>E Otieno</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>E Otieno</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>NN Odhiambo</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>NN Odhiambo</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>NN Odhiambo</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>NN Odhiambo</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>NN Odhiambo</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>NN Odhiambo</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>E Otieno</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>E Otieno</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>E Otieno</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>E Otieno</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>E Otieno</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>E Otieno</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>NN Odhiambo</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>NN Odhiambo</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>NN Odhiambo</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>NN Odhiambo</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>NN Odhiambo</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>NN Odhiambo</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>E Otieno</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>E Otieno</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>E Otieno</bowler>
+          <extras>
+            <wides>2</wides>
+          </extras>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>E Otieno</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>E Otieno</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>E Otieno</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>7</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>E Otieno</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>SO Ngoche</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>SO Ngoche</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>SO Ngoche</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>SO Ngoche</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>SO Ngoche</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>SO Ngoche</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>CO Obuya</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>CO Obuya</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>CO Obuya</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>CO Obuya</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>CO Obuya</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>CO Obuya</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>7</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>CO Obuya</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>SO Ngoche</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>SO Ngoche</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>SO Ngoche</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>SO Ngoche</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>SO Ngoche</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>SO Ngoche</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>CO Obuya</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>CO Obuya</bowler>
+          <non_striker>WU Tharanga</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>CO Obuya</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>WU Tharanga</batsman>
+          <bowler>CO Obuya</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

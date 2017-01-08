@@ -1,0 +1,2921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.8</data_version>
+    <created>2012-12-30</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Belfast</city>
+    <dates>
+      <date>2008-08-04</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>T20</match_type>
+    <outcome>
+      <by>
+        <wickets>4</wickets>
+      </by>
+      <winner>Ireland</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>AC Botha</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Ireland</team>
+      <team>Kenya</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Ireland</winner>
+    </toss>
+    <umpires>
+      <umpire>DB Hair</umpire>
+      <umpire>Sarika Prasad</umpire>
+    </umpires>
+    <venue>Civil Service Cricket Club, Stormont</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Kenya</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>MA Ouma</batsman>
+          <bowler>PC Connell</bowler>
+          <non_striker>KO Otieno</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>MA Ouma</batsman>
+          <bowler>PC Connell</bowler>
+          <non_striker>KO Otieno</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>MA Ouma</batsman>
+          <bowler>PC Connell</bowler>
+          <non_striker>KO Otieno</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>MA Ouma</batsman>
+          <bowler>PC Connell</bowler>
+          <non_striker>KO Otieno</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>MA Ouma</batsman>
+          <bowler>PC Connell</bowler>
+          <non_striker>KO Otieno</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>AR Cusack</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>MA Ouma</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>KO Otieno</batsman>
+          <bowler>PC Connell</bowler>
+          <non_striker>NN Odhiambo</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>NN Odhiambo</batsman>
+          <bowler>KJ O'Brien</bowler>
+          <non_striker>KO Otieno</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>NN Odhiambo</batsman>
+          <bowler>KJ O'Brien</bowler>
+          <non_striker>KO Otieno</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>KO Otieno</batsman>
+          <bowler>KJ O'Brien</bowler>
+          <non_striker>NN Odhiambo</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>KO Otieno</batsman>
+          <bowler>KJ O'Brien</bowler>
+          <non_striker>NN Odhiambo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>KO Otieno</batsman>
+          <bowler>KJ O'Brien</bowler>
+          <non_striker>NN Odhiambo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>NN Odhiambo</batsman>
+          <bowler>KJ O'Brien</bowler>
+          <non_striker>KO Otieno</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>NN Odhiambo</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>KO Otieno</batsman>
+          <bowler>PC Connell</bowler>
+          <non_striker>SO Tikolo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>PC Connell</bowler>
+          <non_striker>KO Otieno</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>PC Connell</bowler>
+          <non_striker>KO Otieno</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>PC Connell</bowler>
+          <non_striker>KO Otieno</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>PC Connell</bowler>
+          <non_striker>KO Otieno</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>PC Connell</bowler>
+          <non_striker>KO Otieno</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>KO Otieno</batsman>
+          <bowler>KJ O'Brien</bowler>
+          <non_striker>SO Tikolo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>KO Otieno</batsman>
+          <bowler>KJ O'Brien</bowler>
+          <non_striker>SO Tikolo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>KO Otieno</batsman>
+          <bowler>KJ O'Brien</bowler>
+          <non_striker>SO Tikolo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>KO Otieno</batsman>
+          <bowler>KJ O'Brien</bowler>
+          <non_striker>SO Tikolo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>KJ O'Brien</bowler>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <non_striker>KO Otieno</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>KO Otieno</batsman>
+          <bowler>KJ O'Brien</bowler>
+          <non_striker>SO Tikolo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>PC Connell</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>KO Otieno</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>AA Obanda</batsman>
+          <bowler>PC Connell</bowler>
+          <non_striker>SO Tikolo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>AA Obanda</batsman>
+          <bowler>PC Connell</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>SO Tikolo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>PC Connell</bowler>
+          <non_striker>AA Obanda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>PC Connell</bowler>
+          <non_striker>AA Obanda</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>AA Obanda</batsman>
+          <bowler>PC Connell</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>SO Tikolo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>PC Connell</bowler>
+          <non_striker>AA Obanda</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>KJ O'Brien</bowler>
+          <non_striker>AA Obanda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>KJ O'Brien</bowler>
+          <non_striker>AA Obanda</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>AA Obanda</batsman>
+          <bowler>KJ O'Brien</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>SO Tikolo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>KJ O'Brien</bowler>
+          <non_striker>AA Obanda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>KJ O'Brien</bowler>
+          <non_striker>AA Obanda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>KJ O'Brien</bowler>
+          <non_striker>AA Obanda</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>PC Connell</bowler>
+          <non_striker>AA Obanda</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>PC Connell</bowler>
+          <non_striker>AA Obanda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>PC Connell</bowler>
+          <non_striker>AA Obanda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>PC Connell</bowler>
+          <non_striker>AA Obanda</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>AA Obanda</batsman>
+          <bowler>PC Connell</bowler>
+          <non_striker>SO Tikolo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>WK McCallan</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>AA Obanda</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>PC Connell</bowler>
+          <non_striker>TM Odoyo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>TM Odoyo</batsman>
+          <bowler>KJ O'Brien</bowler>
+          <non_striker>SO Tikolo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>TM Odoyo</batsman>
+          <bowler>KJ O'Brien</bowler>
+          <non_striker>SO Tikolo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>KJ O'Brien</bowler>
+          <non_striker>TM Odoyo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>TM Odoyo</batsman>
+          <bowler>KJ O'Brien</bowler>
+          <non_striker>SO Tikolo</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>TM Odoyo</batsman>
+          <bowler>KJ O'Brien</bowler>
+          <non_striker>SO Tikolo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>KJ O'Brien</bowler>
+          <non_striker>TM Odoyo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>AR Cusack</bowler>
+          <non_striker>TM Odoyo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>AR Cusack</bowler>
+          <non_striker>TM Odoyo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>AR Cusack</bowler>
+          <non_striker>TM Odoyo</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>AR Cusack</bowler>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <non_striker>TM Odoyo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>TM Odoyo</batsman>
+          <bowler>AR Cusack</bowler>
+          <non_striker>SO Tikolo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>TM Odoyo</batsman>
+          <bowler>AR Cusack</bowler>
+          <non_striker>SO Tikolo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>SO Tikolo</batsman>
+          <bowler>AC Botha</bowler>
+          <non_striker>TM Odoyo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>SO Tikolo</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>RG Aga</batsman>
+          <bowler>AC Botha</bowler>
+          <extras>
+            <wides>5</wides>
+          </extras>
+          <non_striker>TM Odoyo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>5</extras>
+            <total>5</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>RG Aga</batsman>
+          <bowler>AC Botha</bowler>
+          <non_striker>TM Odoyo</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>RG Aga</batsman>
+          <bowler>AC Botha</bowler>
+          <non_striker>TM Odoyo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>RG Aga</batsman>
+          <bowler>AC Botha</bowler>
+          <non_striker>TM Odoyo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>RG Aga</batsman>
+          <bowler>AC Botha</bowler>
+          <non_striker>TM Odoyo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>7</ball>
+          <batsman>TM Odoyo</batsman>
+          <bowler>AC Botha</bowler>
+          <non_striker>RG Aga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>RG Aga</batsman>
+          <bowler>AR Cusack</bowler>
+          <non_striker>TM Odoyo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>RG Aga</batsman>
+          <bowler>AR Cusack</bowler>
+          <non_striker>TM Odoyo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>RG Aga</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>JK Kamande</batsman>
+          <bowler>AR Cusack</bowler>
+          <non_striker>TM Odoyo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>JK Kamande</batsman>
+          <bowler>AR Cusack</bowler>
+          <non_striker>TM Odoyo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>JK Kamande</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>AO Suji</batsman>
+          <bowler>AR Cusack</bowler>
+          <non_striker>TM Odoyo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>AO Suji</batsman>
+          <bowler>AR Cusack</bowler>
+          <non_striker>TM Odoyo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>TM Odoyo</batsman>
+          <bowler>AC Botha</bowler>
+          <non_striker>AO Suji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>TM Odoyo</batsman>
+          <bowler>AC Botha</bowler>
+          <non_striker>AO Suji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>TM Odoyo</batsman>
+          <bowler>AC Botha</bowler>
+          <non_striker>AO Suji</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>TM Odoyo</batsman>
+          <bowler>AC Botha</bowler>
+          <non_striker>AO Suji</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>AO Suji</batsman>
+          <bowler>AC Botha</bowler>
+          <non_striker>TM Odoyo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>AO Suji</batsman>
+          <bowler>AC Botha</bowler>
+          <non_striker>TM Odoyo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>AO Suji</batsman>
+          <bowler>DT Johnston</bowler>
+          <non_striker>TM Odoyo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>AO Suji</batsman>
+          <bowler>DT Johnston</bowler>
+          <non_striker>TM Odoyo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>TM Odoyo</batsman>
+          <bowler>DT Johnston</bowler>
+          <non_striker>AO Suji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>TM Odoyo</batsman>
+          <bowler>DT Johnston</bowler>
+          <non_striker>AO Suji</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>AO Suji</batsman>
+          <bowler>DT Johnston</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>TM Odoyo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>AO Suji</batsman>
+          <bowler>DT Johnston</bowler>
+          <non_striker>TM Odoyo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>7</ball>
+          <batsman>TM Odoyo</batsman>
+          <bowler>DT Johnston</bowler>
+          <non_striker>AO Suji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>AO Suji</batsman>
+          <bowler>AC Botha</bowler>
+          <non_striker>TM Odoyo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>AO Suji</batsman>
+          <bowler>AC Botha</bowler>
+          <non_striker>TM Odoyo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>TM Odoyo</batsman>
+          <bowler>AC Botha</bowler>
+          <non_striker>AO Suji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>TM Odoyo</batsman>
+          <bowler>AC Botha</bowler>
+          <non_striker>AO Suji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>TM Odoyo</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>PJ Ongondo</batsman>
+          <bowler>AC Botha</bowler>
+          <non_striker>AO Suji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>PJ Ongondo</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>HA Varaiya</batsman>
+          <bowler>AC Botha</bowler>
+          <non_striker>AO Suji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>AO Suji</batsman>
+          <bowler>AR Cusack</bowler>
+          <non_striker>HA Varaiya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>AO Suji</batsman>
+          <bowler>AR Cusack</bowler>
+          <non_striker>HA Varaiya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>AO Suji</batsman>
+          <bowler>AR Cusack</bowler>
+          <non_striker>HA Varaiya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>HA Varaiya</batsman>
+          <bowler>AR Cusack</bowler>
+          <non_striker>AO Suji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>HA Varaiya</batsman>
+          <bowler>AR Cusack</bowler>
+          <non_striker>AO Suji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>HA Varaiya</batsman>
+          <bowler>AR Cusack</bowler>
+          <non_striker>AO Suji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>AO Suji</batsman>
+          <bowler>AC Botha</bowler>
+          <non_striker>HA Varaiya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>AO Suji</batsman>
+          <bowler>AC Botha</bowler>
+          <non_striker>HA Varaiya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>HA Varaiya</batsman>
+          <bowler>AC Botha</bowler>
+          <non_striker>AO Suji</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>HA Varaiya</batsman>
+          <bowler>AC Botha</bowler>
+          <non_striker>AO Suji</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>HA Varaiya</batsman>
+          <bowler>AC Botha</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>AO Suji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>AO Suji</batsman>
+          <bowler>AC Botha</bowler>
+          <non_striker>HA Varaiya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>HA Varaiya</batsman>
+          <bowler>DT Johnston</bowler>
+          <non_striker>AO Suji</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>AO Suji</batsman>
+          <bowler>DT Johnston</bowler>
+          <non_striker>HA Varaiya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>AO Suji</batsman>
+          <bowler>DT Johnston</bowler>
+          <non_striker>HA Varaiya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>HA Varaiya</batsman>
+          <bowler>DT Johnston</bowler>
+          <non_striker>AO Suji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>HA Varaiya</batsman>
+          <bowler>DT Johnston</bowler>
+          <non_striker>AO Suji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>HA Varaiya</batsman>
+          <bowler>DT Johnston</bowler>
+          <non_striker>AO Suji</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>HA Varaiya</batsman>
+          <bowler>WK McCallan</bowler>
+          <non_striker>AO Suji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>HA Varaiya</batsman>
+          <bowler>WK McCallan</bowler>
+          <non_striker>AO Suji</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>WTS Porterfield</fielder>
+              </fielders>
+              <kind>run out</kind>
+              <player_out>AO Suji</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Ireland</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>WTS Porterfield</batsman>
+          <bowler>TM Odoyo</bowler>
+          <non_striker>GC Wilson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>WTS Porterfield</batsman>
+          <bowler>TM Odoyo</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>GC Wilson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>WTS Porterfield</batsman>
+          <bowler>TM Odoyo</bowler>
+          <non_striker>GC Wilson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>WTS Porterfield</batsman>
+          <bowler>TM Odoyo</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>GC Wilson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>WTS Porterfield</batsman>
+          <bowler>TM Odoyo</bowler>
+          <non_striker>GC Wilson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>WTS Porterfield</batsman>
+          <bowler>TM Odoyo</bowler>
+          <non_striker>GC Wilson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <batsman>WTS Porterfield</batsman>
+          <bowler>TM Odoyo</bowler>
+          <non_striker>GC Wilson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>8</ball>
+          <batsman>WTS Porterfield</batsman>
+          <bowler>TM Odoyo</bowler>
+          <non_striker>GC Wilson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>GC Wilson</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>WTS Porterfield</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>GC Wilson</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>WTS Porterfield</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>GC Wilson</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>WTS Porterfield</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>GC Wilson</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>WTS Porterfield</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>GC Wilson</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>WTS Porterfield</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>GC Wilson</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>WTS Porterfield</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>WTS Porterfield</batsman>
+          <bowler>TM Odoyo</bowler>
+          <non_striker>GC Wilson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>SO Tikolo</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>WTS Porterfield</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>TM Odoyo</bowler>
+          <non_striker>GC Wilson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>TM Odoyo</bowler>
+          <non_striker>GC Wilson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>GC Wilson</batsman>
+          <bowler>TM Odoyo</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>GC Wilson</batsman>
+          <bowler>TM Odoyo</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>GC Wilson</batsman>
+          <bowler>TM Odoyo</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>AO Suji</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>GC Wilson</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>AC Botha</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>TM Odoyo</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>TM Odoyo</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>TM Odoyo</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>TM Odoyo</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>TM Odoyo</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>TM Odoyo</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>AC Botha</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>AC Botha</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>AC Botha</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>AC Botha</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>AC Botha</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>RG Aga</bowler>
+          <non_striker>AC Botha</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>RG Aga</bowler>
+          <non_striker>AC Botha</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>RG Aga</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>RG Aga</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>RG Aga</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>RG Aga</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>AC Botha</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>7</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>PJ Ongondo</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>RG Aga</bowler>
+          <non_striker>AC Botha</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>RG Aga</bowler>
+          <non_striker>AC Botha</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>RG Aga</bowler>
+          <non_striker>AC Botha</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>RG Aga</bowler>
+          <non_striker>AC Botha</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>RG Aga</bowler>
+          <non_striker>AC Botha</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>RG Aga</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>AC Botha</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>AO Suji</bowler>
+          <extras>
+            <wides>5</wides>
+          </extras>
+          <non_striker>AC Botha</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>5</extras>
+            <total>5</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>AO Suji</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>AC Botha</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>AO Suji</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>AO Suji</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>AO Suji</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>AO Suji</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>7</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>AO Suji</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>RG Aga</bowler>
+          <non_striker>AC Botha</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>RG Aga</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>RG Aga</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>RG Aga</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>RG Aga</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>RG Aga</bowler>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>JK Kamande</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>JK Kamande</bowler>
+          <non_striker>AC Botha</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>JK Kamande</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>AC Botha</batsman>
+          <bowler>JK Kamande</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>AC Botha</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>AR White</batsman>
+          <bowler>JK Kamande</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>JK Kamande</bowler>
+          <non_striker>AR White</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>AR White</batsman>
+          <bowler>RG Aga</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>AR White</batsman>
+          <bowler>RG Aga</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>HA Varaiya</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>AR White</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>AR Cusack</batsman>
+          <bowler>RG Aga</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>AR Cusack</batsman>
+          <bowler>RG Aga</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>AA Obanda</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>AR Cusack</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>RG Aga</bowler>
+          <non_striker>KJ O'Brien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>KJ O'Brien</batsman>
+          <bowler>RG Aga</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>JK Kamande</bowler>
+          <non_striker>KJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>JK Kamande</bowler>
+          <non_striker>KJ O'Brien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>KJ O'Brien</batsman>
+          <bowler>JK Kamande</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>JK Kamande</bowler>
+          <non_striker>KJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>JK Kamande</bowler>
+          <non_striker>KJ O'Brien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>KJ O'Brien</batsman>
+          <bowler>JK Kamande</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>KJ O'Brien</batsman>
+          <bowler>AO Suji</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>KJ O'Brien</batsman>
+          <bowler>AO Suji</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>KJ O'Brien</batsman>
+          <bowler>AO Suji</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>KJ O'Brien</batsman>
+          <bowler>AO Suji</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>KJ O'Brien</batsman>
+          <bowler>AO Suji</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>KJ O'Brien</batsman>
+          <bowler>AO Suji</bowler>
+          <non_striker>NJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>JK Kamande</bowler>
+          <non_striker>KJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>JK Kamande</bowler>
+          <non_striker>KJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>JK Kamande</bowler>
+          <non_striker>KJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>NJ O'Brien</batsman>
+          <bowler>JK Kamande</bowler>
+          <non_striker>KJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>SO Tikolo</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>NJ O'Brien</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>DT Johnston</batsman>
+          <bowler>JK Kamande</bowler>
+          <non_striker>KJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>DT Johnston</batsman>
+          <bowler>JK Kamande</bowler>
+          <non_striker>KJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>KJ O'Brien</batsman>
+          <bowler>AO Suji</bowler>
+          <non_striker>DT Johnston</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>DT Johnston</batsman>
+          <bowler>AO Suji</bowler>
+          <non_striker>KJ O'Brien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>KJ O'Brien</batsman>
+          <bowler>AO Suji</bowler>
+          <non_striker>DT Johnston</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>KJ O'Brien</batsman>
+          <bowler>AO Suji</bowler>
+          <non_striker>DT Johnston</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>KJ O'Brien</batsman>
+          <bowler>AO Suji</bowler>
+          <non_striker>DT Johnston</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>KJ O'Brien</batsman>
+          <bowler>AO Suji</bowler>
+          <non_striker>DT Johnston</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>KJ O'Brien</batsman>
+          <bowler>JK Kamande</bowler>
+          <non_striker>DT Johnston</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>DT Johnston</batsman>
+          <bowler>JK Kamande</bowler>
+          <non_striker>KJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>DT Johnston</batsman>
+          <bowler>JK Kamande</bowler>
+          <non_striker>KJ O'Brien</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>DT Johnston</batsman>
+          <bowler>JK Kamande</bowler>
+          <non_striker>KJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>DT Johnston</batsman>
+          <bowler>JK Kamande</bowler>
+          <non_striker>KJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>DT Johnston</batsman>
+          <bowler>JK Kamande</bowler>
+          <non_striker>KJ O'Brien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>DT Johnston</batsman>
+          <bowler>TM Odoyo</bowler>
+          <non_striker>KJ O'Brien</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>DT Johnston</batsman>
+          <bowler>TM Odoyo</bowler>
+          <non_striker>KJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>DT Johnston</batsman>
+          <bowler>TM Odoyo</bowler>
+          <non_striker>KJ O'Brien</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>DT Johnston</batsman>
+          <bowler>TM Odoyo</bowler>
+          <non_striker>KJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>DT Johnston</batsman>
+          <bowler>TM Odoyo</bowler>
+          <non_striker>KJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>DT Johnston</batsman>
+          <bowler>TM Odoyo</bowler>
+          <non_striker>KJ O'Brien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>KJ O'Brien</batsman>
+          <bowler>AO Suji</bowler>
+          <non_striker>DT Johnston</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>
