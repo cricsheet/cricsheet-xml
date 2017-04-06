@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2012-08-28</created>
-    <revision>1</revision>
+    <revision>3</revision>
   </meta>
   <info>
     <city>Hyderabad</city>
@@ -4094,6 +4094,15 @@
           <batsman>CA Pujara</batsman>
           <bowler>JEC Franklin</bowler>
           <non_striker>V Kohli</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>JEC Franklin</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

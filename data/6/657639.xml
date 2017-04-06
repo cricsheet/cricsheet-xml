@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2014-01-05</created>
-    <revision>2</revision>
+    <revision>3</revision>
   </meta>
   <info>
     <dates>
@@ -1313,6 +1313,15 @@
           <batsman>Mohammad Hafeez</batsman>
           <bowler>NLTC Perera</bowler>
           <non_striker>Ahmed Shehzad</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>NLTC Perera</in>
+                <reason>unknown</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -1433,6 +1442,15 @@
           <batsman>Ahmed Shehzad</batsman>
           <bowler>FDM Karunaratne</bowler>
           <non_striker>Mohammad Hafeez</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>FDM Karunaratne</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

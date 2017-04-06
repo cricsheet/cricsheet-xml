@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2014-12-21</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Centurion</city>
@@ -5015,6 +5015,15 @@
           <batsman>HM Amla</batsman>
           <bowler>JE Taylor</bowler>
           <non_striker>AB de Villiers</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>JE Taylor</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -14837,6 +14846,15 @@
           <batsman>DS Smith</batsman>
           <bowler>M Morkel</bowler>
           <non_striker>KC Brathwaite</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>M Morkel</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

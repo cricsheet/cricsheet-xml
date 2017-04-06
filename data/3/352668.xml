@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2013-03-03</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Barbados</city>
@@ -1933,6 +1933,15 @@
           <batsman>S Chanderpaul</batsman>
           <bowler>OA Shah</bowler>
           <non_striker>D Ramdin</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>OA Shah</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>
@@ -3349,6 +3358,16 @@
           <batsman>DJ Bravo</batsman>
           <bowler>JM Anderson</bowler>
           <non_striker>FH Edwards</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>FH Edwards</in>
+                <out>NO Miller</out>
+                <reason>injury</reason>
+                <role>batter</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

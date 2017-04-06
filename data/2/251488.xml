@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2013-02-20</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Auckland</city>
@@ -1137,6 +1137,15 @@
           <batsman>LPC Silva</batsman>
           <bowler>NJ Astle</bowler>
           <non_striker>SL Malinga</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>NJ Astle</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>

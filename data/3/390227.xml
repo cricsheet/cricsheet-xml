@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2013-03-03</created>
-    <revision>2</revision>
+    <revision>3</revision>
   </meta>
   <info>
     <city>Benoni</city>
@@ -1041,6 +1041,16 @@
           <batsman>A Bagai</batsman>
           <bowler>JAR Blain</bowler>
           <non_striker>IS Billcliff</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>A Bagai</in>
+                <out>JM Davison</out>
+                <reason>injury</reason>
+                <role>batter</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

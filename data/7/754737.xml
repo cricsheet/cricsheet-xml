@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2014-12-13</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <dates>
@@ -3268,6 +3268,16 @@
           <batsman>SPD Smith</batsman>
           <bowler>I Sharma</bowler>
           <non_striker>DA Warner</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>SPD Smith</in>
+                <out>MJ Clarke</out>
+                <reason>injury</reason>
+                <role>batter</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

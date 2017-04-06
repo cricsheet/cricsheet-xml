@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2016-06-26</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <dates>
@@ -21,6 +21,12 @@
     <player_of_match>
       <player_of_match>RP Singh</player_of_match>
     </player_of_match>
+    <supersubs>
+      <supersub>
+        <team>Pakistan</team>
+        <player>Imran Farhat</player>
+      </supersub>
+    </supersubs>
     <teams>
       <team>Pakistan</team>
       <team>India</team>
@@ -2125,18 +2131,21 @@
           <batsman>Mohammad Yousuf</batsman>
           <bowler>AB Agarkar</bowler>
           <non_striker>Inzamam-ul-Haq</non_striker>
+          <replacements>
+            <match>
+              <match>
+                <in>Imran Farhat</in>
+                <out>Yasir Arafat</out>
+                <reason>supersub</reason>
+                <team>Pakistan</team>
+              </match>
+            </match>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
             <total>0</total>
           </runs>
-          <supersub>
-            <supersub>
-              <in>Imran Farhat</in>
-              <out>Yasir Arafat</out>
-              <team>Pakistan</team>
-            </supersub>
-          </supersub>
           <wickets>
             <wicket>
               <fielders>

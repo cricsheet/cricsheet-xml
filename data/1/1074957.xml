@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2017-01-18</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Abu Dhabi</city>
@@ -1527,6 +1527,15 @@
           <batsman>CS MacLeod</batsman>
           <bowler>Ehsan Nawaz</bowler>
           <non_striker>RD Berrington</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>Ehsan Nawaz</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>4</batsman>
             <extras>0</extras>

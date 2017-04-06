@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2016-02-25</created>
-    <revision>1</revision>
+    <revision>3</revision>
   </meta>
   <info>
     <city>Mirpur</city>
@@ -1218,7 +1218,7 @@
         <delivery>
           <over>15</over>
           <ball>3</ball>
-          <batsman>DSNFG Jayasuriya</batsman>
+          <batsman>GSNFG Jayasuriya</batsman>
           <bowler>Mohammad Naveed</bowler>
           <non_striker>AD Mathews</non_striker>
           <runs>
@@ -1232,7 +1232,7 @@
           <ball>4</ball>
           <batsman>AD Mathews</batsman>
           <bowler>Mohammad Naveed</bowler>
-          <non_striker>DSNFG Jayasuriya</non_striker>
+          <non_striker>GSNFG Jayasuriya</non_striker>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>
@@ -1242,7 +1242,7 @@
         <delivery>
           <over>15</over>
           <ball>5</ball>
-          <batsman>DSNFG Jayasuriya</batsman>
+          <batsman>GSNFG Jayasuriya</batsman>
           <bowler>Mohammad Naveed</bowler>
           <extras>
             <wides>1</wides>
@@ -1257,7 +1257,7 @@
         <delivery>
           <over>15</over>
           <ball>6</ball>
-          <batsman>DSNFG Jayasuriya</batsman>
+          <batsman>GSNFG Jayasuriya</batsman>
           <bowler>Mohammad Naveed</bowler>
           <non_striker>AD Mathews</non_striker>
           <runs>
@@ -1269,7 +1269,7 @@
         <delivery>
           <over>15</over>
           <ball>7</ball>
-          <batsman>DSNFG Jayasuriya</batsman>
+          <batsman>GSNFG Jayasuriya</batsman>
           <bowler>Mohammad Naveed</bowler>
           <non_striker>AD Mathews</non_striker>
           <runs>
@@ -1283,7 +1283,7 @@
           <ball>1</ball>
           <batsman>AD Mathews</batsman>
           <bowler>Rohan Mustafa</bowler>
-          <non_striker>DSNFG Jayasuriya</non_striker>
+          <non_striker>GSNFG Jayasuriya</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -1301,7 +1301,7 @@
           <ball>2</ball>
           <batsman>CK Kapugedera</batsman>
           <bowler>Rohan Mustafa</bowler>
-          <non_striker>DSNFG Jayasuriya</non_striker>
+          <non_striker>GSNFG Jayasuriya</non_striker>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>
@@ -1311,7 +1311,7 @@
         <delivery>
           <over>16</over>
           <ball>3</ball>
-          <batsman>DSNFG Jayasuriya</batsman>
+          <batsman>GSNFG Jayasuriya</batsman>
           <bowler>Rohan Mustafa</bowler>
           <non_striker>CK Kapugedera</non_striker>
           <runs>
@@ -1323,7 +1323,7 @@
         <delivery>
           <over>16</over>
           <ball>4</ball>
-          <batsman>DSNFG Jayasuriya</batsman>
+          <batsman>GSNFG Jayasuriya</batsman>
           <bowler>Rohan Mustafa</bowler>
           <non_striker>CK Kapugedera</non_striker>
           <runs>
@@ -1337,7 +1337,7 @@
           <ball>5</ball>
           <batsman>CK Kapugedera</batsman>
           <bowler>Rohan Mustafa</bowler>
-          <non_striker>DSNFG Jayasuriya</non_striker>
+          <non_striker>GSNFG Jayasuriya</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -1349,7 +1349,7 @@
           <ball>6</ball>
           <batsman>CK Kapugedera</batsman>
           <bowler>Rohan Mustafa</bowler>
-          <non_striker>DSNFG Jayasuriya</non_striker>
+          <non_striker>GSNFG Jayasuriya</non_striker>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>
@@ -1361,7 +1361,7 @@
           <ball>1</ball>
           <batsman>CK Kapugedera</batsman>
           <bowler>Mohammad Naveed</bowler>
-          <non_striker>DSNFG Jayasuriya</non_striker>
+          <non_striker>GSNFG Jayasuriya</non_striker>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>
@@ -1371,7 +1371,7 @@
         <delivery>
           <over>17</over>
           <ball>2</ball>
-          <batsman>DSNFG Jayasuriya</batsman>
+          <batsman>GSNFG Jayasuriya</batsman>
           <bowler>Mohammad Naveed</bowler>
           <non_striker>CK Kapugedera</non_striker>
           <runs>
@@ -1383,7 +1383,7 @@
         <delivery>
           <over>17</over>
           <ball>3</ball>
-          <batsman>DSNFG Jayasuriya</batsman>
+          <batsman>GSNFG Jayasuriya</batsman>
           <bowler>Mohammad Naveed</bowler>
           <non_striker>CK Kapugedera</non_striker>
           <runs>
@@ -1394,7 +1394,7 @@
           <wickets>
             <wicket>
               <kind>bowled</kind>
-              <player_out>DSNFG Jayasuriya</player_out>
+              <player_out>GSNFG Jayasuriya</player_out>
             </wicket>
           </wickets>
         </delivery>
@@ -3228,6 +3228,15 @@
           <batsman>Ahmed Raza</batsman>
           <bowler>AD Mathews</bowler>
           <non_striker>Qadeer Ahmed</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>AD Mathews</in>
+                <reason>excluded - high full pitched balls</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>

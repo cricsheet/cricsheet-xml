@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2016-08-20</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>London</city>
@@ -22004,6 +22004,15 @@
           <batsman>JM Anderson</batsman>
           <bowler>Mohammad Amir</bowler>
           <non_striker>ST Finn</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>Mohammad Amir</in>
+                <reason>excluded - high full pitched balls</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -22550,6 +22559,15 @@
           <batsman>Sami Aslam</batsman>
           <bowler>MM Ali</bowler>
           <non_striker>Azhar Ali</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>MM Ali</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

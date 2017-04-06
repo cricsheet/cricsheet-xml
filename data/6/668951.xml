@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2013-10-25</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Mirpur</city>
@@ -7278,6 +7278,16 @@
           <batsman>BB McCullum</batsman>
           <bowler>Rubel Hossain</bowler>
           <non_striker>LRPL Taylor</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>BB McCullum</in>
+                <out>KS Williamson</out>
+                <reason>injury</reason>
+                <role>batter</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

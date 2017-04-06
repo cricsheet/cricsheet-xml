@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2016-06-27</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Christchurch</city>
@@ -22,6 +22,16 @@
     <player_of_match>
       <player_of_match>WU Tharanga</player_of_match>
     </player_of_match>
+    <supersubs>
+      <supersub>
+        <team>New Zealand</team>
+        <player>NJ Astle</player>
+      </supersub>
+      <supersub>
+        <team>Sri Lanka</team>
+        <player>J Mubarak</player>
+      </supersub>
+    </supersubs>
     <teams>
       <team>New Zealand</team>
       <team>Sri Lanka</team>
@@ -3887,18 +3897,21 @@
           <batsman>L Vincent</batsman>
           <bowler>WPUJC Vaas</bowler>
           <non_striker>JM How</non_striker>
+          <replacements>
+            <match>
+              <match>
+                <in>J Mubarak</in>
+                <out>DA Gunawardene</out>
+                <reason>supersub</reason>
+                <team>Sri Lanka</team>
+              </match>
+            </match>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
             <total>0</total>
           </runs>
-          <supersub>
-            <supersub>
-              <in>J Mubarak</in>
-              <out>DA Gunawardene</out>
-              <team>Sri Lanka</team>
-            </supersub>
-          </supersub>
         </delivery>
         <delivery>
           <over>0</over>
@@ -4542,18 +4555,21 @@
           <batsman>JM How</batsman>
           <bowler>WPUJC Vaas</bowler>
           <non_striker>L Vincent</non_striker>
+          <replacements>
+            <match>
+              <match>
+                <in>NJ Astle</in>
+                <out>KD Mills</out>
+                <reason>supersub</reason>
+                <team>New Zealand</team>
+              </match>
+            </match>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
             <total>0</total>
           </runs>
-          <supersub>
-            <supersub>
-              <in>NJ Astle</in>
-              <out>KD Mills</out>
-              <team>New Zealand</team>
-            </supersub>
-          </supersub>
           <wickets>
             <wicket>
               <fielders>

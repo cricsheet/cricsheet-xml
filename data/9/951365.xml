@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2016-03-28</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Nagpur</city>
@@ -2034,6 +2034,16 @@
           <batsman>MN Samuels</batsman>
           <bowler>Rashid Khan</bowler>
           <non_striker>D Ramdin</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>D Ramdin</in>
+                <out>ADS Fletcher</out>
+                <reason>injury</reason>
+                <role>batter</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>4</batsman>
             <extras>0</extras>
@@ -2853,6 +2863,15 @@
           <batsman>DJG Sammy</batsman>
           <bowler>Gulbadin Naib</bowler>
           <non_striker>AD Russell</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>Gulbadin Naib</in>
+                <reason>excluded - high full pitched balls</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

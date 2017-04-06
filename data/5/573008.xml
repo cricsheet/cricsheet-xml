@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2012-12-24</created>
-    <revision>1</revision>
+    <revision>3</revision>
   </meta>
   <info>
     <dates>
@@ -1261,6 +1261,15 @@
           <batsman>MJ Clarke</batsman>
           <bowler>RK Kleinveldt</bowler>
           <non_striker>DA Warner</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>RK Kleinveldt</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -4699,6 +4708,15 @@
           <batsman>MEK Hussey</batsman>
           <bowler>RK Kleinveldt</bowler>
           <non_striker>MJ Clarke</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>RK Kleinveldt</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -14230,6 +14248,15 @@
           <batsman>F du Plessis</batsman>
           <bowler>PM Siddle</bowler>
           <non_striker>RK Kleinveldt</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>PM Siddle</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2014-03-02</created>
-    <revision>1</revision>
+    <revision>3</revision>
   </meta>
   <info>
     <city>Fatullah</city>
@@ -845,6 +845,15 @@
           <batsman>Karim Sadiq</batsman>
           <bowler>Nasir Hossain</bowler>
           <non_striker>Najibullah Zadran</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>Nasir Hossain</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -5233,7 +5242,7 @@
           <over>19</over>
           <ball>1</ball>
           <batsman>Mominul Haque</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Nasir Hossain</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -5245,7 +5254,7 @@
           <over>19</over>
           <ball>2</ball>
           <batsman>Nasir Hossain</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Mominul Haque</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -5257,7 +5266,7 @@
           <over>19</over>
           <ball>3</ball>
           <batsman>Nasir Hossain</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Mominul Haque</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -5269,7 +5278,7 @@
           <over>19</over>
           <ball>4</ball>
           <batsman>Nasir Hossain</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Mominul Haque</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -5281,7 +5290,7 @@
           <over>19</over>
           <ball>5</ball>
           <batsman>Nasir Hossain</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Mominul Haque</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -5293,7 +5302,7 @@
           <over>19</over>
           <ball>6</ball>
           <batsman>Nasir Hossain</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Mominul Haque</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -5377,7 +5386,7 @@
           <over>21</over>
           <ball>1</ball>
           <batsman>Mominul Haque</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Nasir Hossain</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -5389,7 +5398,7 @@
           <over>21</over>
           <ball>2</ball>
           <batsman>Nasir Hossain</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Mominul Haque</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -5401,7 +5410,7 @@
           <over>21</over>
           <ball>3</ball>
           <batsman>Nasir Hossain</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Mominul Haque</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -5413,7 +5422,7 @@
           <over>21</over>
           <ball>4</ball>
           <batsman>Nasir Hossain</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Mominul Haque</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -5425,7 +5434,7 @@
           <over>21</over>
           <ball>5</ball>
           <batsman>Mominul Haque</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Nasir Hossain</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -5437,7 +5446,7 @@
           <over>21</over>
           <ball>6</ball>
           <batsman>Mominul Haque</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Nasir Hossain</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -5521,7 +5530,7 @@
           <over>23</over>
           <ball>1</ball>
           <batsman>Mominul Haque</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Nasir Hossain</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -5533,7 +5542,7 @@
           <over>23</over>
           <ball>2</ball>
           <batsman>Nasir Hossain</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Mominul Haque</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -5545,7 +5554,7 @@
           <over>23</over>
           <ball>3</ball>
           <batsman>Mominul Haque</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Nasir Hossain</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -5557,7 +5566,7 @@
           <over>23</over>
           <ball>4</ball>
           <batsman>Mominul Haque</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Nasir Hossain</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -5569,7 +5578,7 @@
           <over>23</over>
           <ball>5</ball>
           <batsman>Nasir Hossain</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Mominul Haque</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -5581,7 +5590,7 @@
           <over>23</over>
           <ball>6</ball>
           <batsman>Nasir Hossain</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Mominul Haque</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -5671,7 +5680,7 @@
           <over>25</over>
           <ball>1</ball>
           <batsman>Nasir Hossain</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Naeem Islam</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -5683,7 +5692,7 @@
           <over>25</over>
           <ball>2</ball>
           <batsman>Naeem Islam</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Nasir Hossain</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -5695,7 +5704,7 @@
           <over>25</over>
           <ball>3</ball>
           <batsman>Nasir Hossain</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Naeem Islam</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -5707,7 +5716,7 @@
           <over>25</over>
           <ball>4</ball>
           <batsman>Nasir Hossain</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Naeem Islam</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -5719,7 +5728,7 @@
           <over>25</over>
           <ball>5</ball>
           <batsman>Naeem Islam</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Nasir Hossain</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -5731,7 +5740,7 @@
           <over>25</over>
           <ball>6</ball>
           <batsman>Naeem Islam</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Nasir Hossain</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -5815,7 +5824,7 @@
           <over>27</over>
           <ball>1</ball>
           <batsman>Nasir Hossain</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Naeem Islam</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -5827,7 +5836,7 @@
           <over>27</over>
           <ball>2</ball>
           <batsman>Nasir Hossain</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Naeem Islam</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -5839,7 +5848,7 @@
           <over>27</over>
           <ball>3</ball>
           <batsman>Naeem Islam</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Nasir Hossain</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -5851,7 +5860,7 @@
           <over>27</over>
           <ball>4</ball>
           <batsman>Naeem Islam</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Nasir Hossain</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -5863,7 +5872,7 @@
           <over>27</over>
           <ball>5</ball>
           <batsman>Nasir Hossain</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Naeem Islam</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -5875,7 +5884,7 @@
           <over>27</over>
           <ball>6</ball>
           <batsman>Naeem Islam</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Nasir Hossain</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -5959,7 +5968,7 @@
           <over>29</over>
           <ball>1</ball>
           <batsman>Naeem Islam</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Nasir Hossain</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -5971,7 +5980,7 @@
           <over>29</over>
           <ball>2</ball>
           <batsman>Nasir Hossain</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Naeem Islam</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -5983,7 +5992,7 @@
           <over>29</over>
           <ball>3</ball>
           <batsman>Naeem Islam</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Nasir Hossain</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -5995,7 +6004,7 @@
           <over>29</over>
           <ball>4</ball>
           <batsman>Nasir Hossain</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Naeem Islam</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -6007,7 +6016,7 @@
           <over>29</over>
           <ball>5</ball>
           <batsman>Naeem Islam</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Nasir Hossain</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -6019,7 +6028,7 @@
           <over>29</over>
           <ball>6</ball>
           <batsman>Naeem Islam</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Nasir Hossain</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -6322,7 +6331,7 @@
           <over>34</over>
           <ball>1</ball>
           <batsman>Naeem Islam</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Nasir Hossain</non_striker>
           <runs>
             <batsman>2</batsman>
@@ -6334,7 +6343,7 @@
           <over>34</over>
           <ball>2</ball>
           <batsman>Naeem Islam</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Nasir Hossain</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -6346,7 +6355,7 @@
           <over>34</over>
           <ball>3</ball>
           <batsman>Nasir Hossain</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Naeem Islam</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -6358,7 +6367,7 @@
           <over>34</over>
           <ball>4</ball>
           <batsman>Naeem Islam</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Nasir Hossain</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -6370,7 +6379,7 @@
           <over>34</over>
           <ball>5</ball>
           <batsman>Naeem Islam</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Nasir Hossain</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -6382,7 +6391,7 @@
           <over>34</over>
           <ball>6</ball>
           <batsman>Naeem Islam</batsman>
-          <bowler>Hamza Hotak</bowler>
+          <bowler>Amir Hamza</bowler>
           <non_striker>Nasir Hossain</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -7053,6 +7062,15 @@
           <batsman>Ziaur Rahman</batsman>
           <bowler>Mohammad Nabi</bowler>
           <non_striker>Rubel Hossain</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>Mohammad Nabi</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

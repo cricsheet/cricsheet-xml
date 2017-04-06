@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2015-02-28</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Dunedin</city>
@@ -5280,6 +5280,15 @@
           <batsman>AD Mathews</batsman>
           <bowler>Asghar Stanikzai</bowler>
           <non_striker>DPMD Jayawardene</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>Asghar Stanikzai</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

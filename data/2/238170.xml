@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2016-06-25</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <dates>
@@ -21,6 +21,12 @@
     <player_of_match>
       <player_of_match>KC Sangakkara</player_of_match>
     </player_of_match>
+    <supersubs>
+      <supersub>
+        <team>Bangladesh</team>
+        <player>Manjural Islam Rana</player>
+      </supersub>
+    </supersubs>
     <teams>
       <team>Bangladesh</team>
       <team>Sri Lanka</team>
@@ -2275,18 +2281,21 @@
           <batsman>KS Lokuarachchi</batsman>
           <bowler>Manjural Islam Rana</bowler>
           <non_striker>KC Sangakkara</non_striker>
+          <replacements>
+            <match>
+              <match>
+                <in>Manjural Islam Rana</in>
+                <out>Tapash Baisya</out>
+                <reason>supersub</reason>
+                <team>Bangladesh</team>
+              </match>
+            </match>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
             <total>0</total>
           </runs>
-          <supersub>
-            <supersub>
-              <in>Manjural Islam Rana</in>
-              <out>Tapash Baisya</out>
-              <team>Bangladesh</team>
-            </supersub>
-          </supersub>
         </delivery>
         <delivery>
           <over>30</over>

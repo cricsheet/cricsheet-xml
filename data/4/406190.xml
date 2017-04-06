@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2009-12-09</created>
-    <revision>1</revision>
+    <revision>3</revision>
   </meta>
   <info>
     <dates>
@@ -1910,6 +1910,16 @@
           <batsman>S Chanderpaul</batsman>
           <bowler>NM Hauritz</bowler>
           <non_striker>DJ Bravo</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>DJ Bravo</in>
+                <out>BP Nash</out>
+                <reason>injury</reason>
+                <role>batter</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

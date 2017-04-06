@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2016-11-13</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Rajkot</city>
@@ -4418,6 +4418,15 @@
           <batsman>JE Root</batsman>
           <bowler>UT Yadav</bowler>
           <non_striker>MM Ali</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>UT Yadav</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

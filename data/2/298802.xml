@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2014-06-19</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Cape Town</city>
@@ -7621,6 +7621,15 @@
           <batsman>ND McKenzie</batsman>
           <bowler>MN Samuels</bowler>
           <non_striker>GC Smith</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>MN Samuels</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -19277,6 +19286,16 @@
           <batsman>DJ Bravo</batsman>
           <bowler>A Nel</bowler>
           <non_striker>S Chanderpaul</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>DJ Bravo</in>
+                <out>CH Gayle</out>
+                <reason>injury</reason>
+                <role>batter</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

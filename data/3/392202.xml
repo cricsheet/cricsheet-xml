@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2011-05-02</created>
-    <revision>1</revision>
+    <revision>3</revision>
   </meta>
   <info>
     <city>Centurion</city>
@@ -1390,6 +1390,16 @@
           <batsman>MS Dhoni</batsman>
           <bowler>AD Mascarenhas</bowler>
           <non_striker>SK Raina</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>AD Mascarenhas</in>
+                <out>Kamran Khan</out>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>2</batsman>
             <extras>0</extras>

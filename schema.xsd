@@ -68,6 +68,20 @@
                   </xs:sequence>
                 </xs:complexType>
               </xs:element>
+              <xs:element name="supersubs" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="supersub" minOccurs="1" maxOccurs="2">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="team"/>
+                          <xs:element type="xs:string" name="player"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
               <xs:element name="teams">
                 <xs:complexType>
                   <xs:sequence>
@@ -102,6 +116,14 @@
                   <xs:sequence>
                     <xs:element type="xs:int" name="inningsNumber"/>
                     <xs:element type="xs:string" name="team"/>
+                    <xs:element name="penalty_runs" minOccurs="0">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:int" name="pre" minOccurs="0"/>
+                          <xs:element type="xs:int" name="post" minOccurs="0"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
                     <xs:element name="deliveries">
                       <xs:complexType>
                         <xs:sequence>
@@ -124,6 +146,44 @@
                                   </xs:complexType>
                                 </xs:element>
                                 <xs:element type="xs:string" name="non_striker"/>
+                                <xs:element name="replacements" minOccurs="0">
+                                  <xs:complexType>
+                                    <xs:sequence>
+                                      <xs:element name="match" minOccurs="0">
+                                        <xs:complexType>
+                                          <xs:sequence>
+                                            <xs:element name="match" minOccurs="1" maxOccurs="unbounded">
+                                              <xs:complexType>
+                                                <xs:sequence>
+                                                  <xs:element type="xs:string" name="in"/>
+                                                  <xs:element type="xs:string" name="out"/>
+                                                  <xs:element type="xs:string" name="reason"/>
+                                                  <xs:element type="xs:string" name="team"/>
+                                                </xs:sequence>
+                                              </xs:complexType>
+                                            </xs:element>
+                                          </xs:sequence>
+                                        </xs:complexType>
+                                      </xs:element>
+                                      <xs:element name="role" minOccurs="0">
+                                        <xs:complexType>
+                                          <xs:sequence>
+                                            <xs:element name="role" minOccurs="1" maxOccurs="unbounded">
+                                              <xs:complexType>
+                                                <xs:sequence>
+                                                  <xs:element type="xs:string" name="in"/>
+                                                  <xs:element type="xs:string" name="out" minOccurs="0" maxOccurs="1"/>
+                                                  <xs:element type="xs:string" name="reason"/>
+                                                  <xs:element type="xs:string" name="role"/>
+                                                </xs:sequence>
+                                              </xs:complexType>
+                                            </xs:element>
+                                          </xs:sequence>
+                                        </xs:complexType>
+                                      </xs:element>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
                                 <xs:element name="runs">
                                   <xs:complexType>
                                     <xs:sequence>
@@ -131,21 +191,6 @@
                                       <xs:element type="xs:int" name="extras"/>
                                       <xs:element type="xs:boolean" name="non_boundary" minOccurs="0"/>
                                       <xs:element type="xs:int" name="total"/>
-                                    </xs:sequence>
-                                  </xs:complexType>
-                                </xs:element>
-                                <xs:element name="supersub" minOccurs="0">
-                                  <xs:complexType>
-                                    <xs:sequence>
-                                      <xs:element name="supersub" minOccurs="1" maxOccurs="2">
-                                        <xs:complexType>
-                                          <xs:sequence>
-                                            <xs:element type="xs:string" name="in"/>
-                                            <xs:element type="xs:string" name="out"/>
-                                            <xs:element type="xs:string" name="team"/>
-                                          </xs:sequence>
-                                        </xs:complexType>
-                                      </xs:element>
                                     </xs:sequence>
                                   </xs:complexType>
                                 </xs:element>

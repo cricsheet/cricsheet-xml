@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2013-02-17</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Hamilton</city>
@@ -19,6 +19,9 @@
       <winner>New Zealand</winner>
     </outcome>
     <overs>50</overs>
+    <player_of_match>
+      <player_of_match>BB McCullum</player_of_match>
+    </player_of_match>
     <teams>
       <team>New Zealand</team>
       <team>England</team>
@@ -3713,6 +3716,15 @@
           <batsman>JM Anderson</batsman>
           <bowler>KS Williamson</bowler>
           <non_striker>GP Swann</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>KS Williamson</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -4241,6 +4253,16 @@
           <batsman>LRPL Taylor</batsman>
           <bowler>JM Anderson</bowler>
           <non_striker>KS Williamson</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>LRPL Taylor</in>
+                <out>MJ Guptill</out>
+                <reason>injury</reason>
+                <role>batter</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>

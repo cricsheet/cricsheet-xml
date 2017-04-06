@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2013-10-31</created>
-    <revision>2</revision>
+    <revision>3</revision>
   </meta>
   <info>
     <dates>
@@ -4625,6 +4625,15 @@
           <batsman>GC Smith</batsman>
           <bowler>Saeed Ajmal</bowler>
           <non_striker>D Elgar</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>Saeed Ajmal</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -13577,6 +13586,15 @@
           <batsman>F du Plessis</batsman>
           <bowler>Junaid Khan</bowler>
           <non_striker>VD Philander</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>Junaid Khan</in>
+                <reason>excluded - running on the pitch</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

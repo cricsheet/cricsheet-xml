@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2015-01-19</created>
-    <revision>1</revision>
+    <revision>3</revision>
   </meta>
   <info>
     <city>Windhoek</city>
@@ -118,7 +118,7 @@
           <over>1</over>
           <ball>1</ball>
           <batsman>SJ Myburgh</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>BN Cooper</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -130,7 +130,7 @@
           <over>1</over>
           <ball>2</ball>
           <batsman>SJ Myburgh</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>BN Cooper</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -142,7 +142,7 @@
           <over>1</over>
           <ball>3</ball>
           <batsman>SJ Myburgh</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>BN Cooper</non_striker>
           <runs>
             <batsman>3</batsman>
@@ -154,7 +154,7 @@
           <over>1</over>
           <ball>4</ball>
           <batsman>BN Cooper</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>SJ Myburgh</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -166,7 +166,7 @@
           <over>1</over>
           <ball>5</ball>
           <batsman>BN Cooper</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <extras>
             <legbyes>1</legbyes>
           </extras>
@@ -181,7 +181,7 @@
           <over>1</over>
           <ball>6</ball>
           <batsman>SJ Myburgh</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>BN Cooper</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -268,7 +268,7 @@
           <over>3</over>
           <ball>1</ball>
           <batsman>SJ Myburgh</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <extras>
             <legbyes>1</legbyes>
           </extras>
@@ -283,7 +283,7 @@
           <over>3</over>
           <ball>2</ball>
           <batsman>BN Cooper</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>SJ Myburgh</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -295,7 +295,7 @@
           <over>3</over>
           <ball>3</ball>
           <batsman>BN Cooper</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>SJ Myburgh</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -316,7 +316,7 @@
           <over>3</over>
           <ball>4</ball>
           <batsman>SJ Myburgh</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>ES Szwarczynski</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -328,7 +328,7 @@
           <over>3</over>
           <ball>5</ball>
           <batsman>SJ Myburgh</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>ES Szwarczynski</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -340,7 +340,7 @@
           <over>3</over>
           <ball>6</ball>
           <batsman>SJ Myburgh</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>ES Szwarczynski</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -424,7 +424,7 @@
           <over>5</over>
           <ball>1</ball>
           <batsman>ES Szwarczynski</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>SJ Myburgh</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -436,7 +436,7 @@
           <over>5</over>
           <ball>2</ball>
           <batsman>ES Szwarczynski</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>SJ Myburgh</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -448,7 +448,7 @@
           <over>5</over>
           <ball>3</ball>
           <batsman>ES Szwarczynski</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>SJ Myburgh</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -460,8 +460,18 @@
           <over>5</over>
           <ball>4</ball>
           <batsman>ES Szwarczynski</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>MJG Rippon</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>MJG Rippon</in>
+                <out>SJ Myburgh</out>
+                <reason>injury</reason>
+                <role>batter</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -472,7 +482,7 @@
           <over>5</over>
           <ball>5</ball>
           <batsman>ES Szwarczynski</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>MJG Rippon</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -484,7 +494,7 @@
           <over>5</over>
           <ball>6</ball>
           <batsman>ES Szwarczynski</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>MJG Rippon</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -568,7 +578,7 @@
           <over>7</over>
           <ball>1</ball>
           <batsman>MJG Rippon</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>ES Szwarczynski</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -580,7 +590,7 @@
           <over>7</over>
           <ball>2</ball>
           <batsman>MJG Rippon</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>ES Szwarczynski</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -592,7 +602,7 @@
           <over>7</over>
           <ball>3</ball>
           <batsman>MJG Rippon</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>ES Szwarczynski</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -604,7 +614,7 @@
           <over>7</over>
           <ball>4</ball>
           <batsman>MJG Rippon</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>ES Szwarczynski</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -616,7 +626,7 @@
           <over>7</over>
           <ball>5</ball>
           <batsman>MJG Rippon</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>ES Szwarczynski</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -628,7 +638,7 @@
           <over>7</over>
           <ball>6</ball>
           <batsman>MJG Rippon</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>ES Szwarczynski</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -721,7 +731,7 @@
           <over>9</over>
           <ball>1</ball>
           <batsman>MJG Rippon</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>W Barresi</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -733,7 +743,7 @@
           <over>9</over>
           <ball>2</ball>
           <batsman>MJG Rippon</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>W Barresi</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -745,7 +755,7 @@
           <over>9</over>
           <ball>3</ball>
           <batsman>MJG Rippon</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <extras>
             <wides>1</wides>
           </extras>
@@ -760,7 +770,7 @@
           <over>9</over>
           <ball>4</ball>
           <batsman>MJG Rippon</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>W Barresi</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -772,7 +782,7 @@
           <over>9</over>
           <ball>5</ball>
           <batsman>MJG Rippon</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>W Barresi</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -784,7 +794,7 @@
           <over>9</over>
           <ball>6</ball>
           <batsman>W Barresi</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>MJG Rippon</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -796,7 +806,7 @@
           <over>9</over>
           <ball>7</ball>
           <batsman>W Barresi</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <extras>
             <wides>1</wides>
           </extras>
@@ -811,7 +821,7 @@
           <over>9</over>
           <ball>8</ball>
           <batsman>W Barresi</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>MJG Rippon</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -895,7 +905,7 @@
           <over>11</over>
           <ball>1</ball>
           <batsman>MJG Rippon</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>W Barresi</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -907,7 +917,7 @@
           <over>11</over>
           <ball>2</ball>
           <batsman>MJG Rippon</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>W Barresi</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -919,7 +929,7 @@
           <over>11</over>
           <ball>3</ball>
           <batsman>MJG Rippon</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>W Barresi</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -931,7 +941,7 @@
           <over>11</over>
           <ball>4</ball>
           <batsman>MJG Rippon</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>W Barresi</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -943,7 +953,7 @@
           <over>11</over>
           <ball>5</ball>
           <batsman>MJG Rippon</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>W Barresi</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -955,7 +965,7 @@
           <over>11</over>
           <ball>6</ball>
           <batsman>MJG Rippon</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>W Barresi</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -1048,7 +1058,7 @@
           <over>13</over>
           <ball>1</ball>
           <batsman>MJG Rippon</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>PW Borren</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -1060,7 +1070,7 @@
           <over>13</over>
           <ball>2</ball>
           <batsman>MJG Rippon</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <extras>
             <wides>1</wides>
           </extras>
@@ -1075,7 +1085,7 @@
           <over>13</over>
           <ball>3</ball>
           <batsman>MJG Rippon</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>PW Borren</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -1087,7 +1097,7 @@
           <over>13</over>
           <ball>4</ball>
           <batsman>PW Borren</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>MJG Rippon</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -1099,7 +1109,7 @@
           <over>13</over>
           <ball>5</ball>
           <batsman>MJG Rippon</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>PW Borren</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -1111,7 +1121,7 @@
           <over>13</over>
           <ball>6</ball>
           <batsman>MJG Rippon</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>PW Borren</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -1123,7 +1133,7 @@
           <over>13</over>
           <ball>7</ball>
           <batsman>MJG Rippon</batsman>
-          <bowler>KC Karan</bowler>
+          <bowler>Karan KC</bowler>
           <non_striker>PW Borren</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -3401,7 +3411,7 @@
           <ball>1</ball>
           <batsman>MJG Rippon</batsman>
           <bowler>B Regmi</bowler>
-          <non_striker>MAA Jamil</non_striker>
+          <non_striker>Ahsan Malik</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -3413,7 +3423,7 @@
           <ball>2</ball>
           <batsman>MJG Rippon</batsman>
           <bowler>B Regmi</bowler>
-          <non_striker>MAA Jamil</non_striker>
+          <non_striker>Ahsan Malik</non_striker>
           <runs>
             <batsman>2</batsman>
             <extras>0</extras>
@@ -3425,7 +3435,7 @@
           <ball>3</ball>
           <batsman>MJG Rippon</batsman>
           <bowler>B Regmi</bowler>
-          <non_striker>MAA Jamil</non_striker>
+          <non_striker>Ahsan Malik</non_striker>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>
@@ -3435,7 +3445,7 @@
         <delivery>
           <over>45</over>
           <ball>4</ball>
-          <batsman>MAA Jamil</batsman>
+          <batsman>Ahsan Malik</batsman>
           <bowler>B Regmi</bowler>
           <non_striker>MJG Rippon</non_striker>
           <runs>
@@ -3447,7 +3457,7 @@
         <delivery>
           <over>45</over>
           <ball>5</ball>
-          <batsman>MAA Jamil</batsman>
+          <batsman>Ahsan Malik</batsman>
           <bowler>B Regmi</bowler>
           <non_striker>MJG Rippon</non_striker>
           <runs>
@@ -3461,7 +3471,7 @@
           <ball>6</ball>
           <batsman>MJG Rippon</batsman>
           <bowler>B Regmi</bowler>
-          <non_striker>MAA Jamil</non_striker>
+          <non_striker>Ahsan Malik</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -3471,7 +3481,7 @@
         <delivery>
           <over>46</over>
           <ball>1</ball>
-          <batsman>MAA Jamil</batsman>
+          <batsman>Ahsan Malik</batsman>
           <bowler>SP Gauchan</bowler>
           <non_striker>MJG Rippon</non_striker>
           <runs>
@@ -3483,7 +3493,7 @@
         <delivery>
           <over>46</over>
           <ball>2</ball>
-          <batsman>MAA Jamil</batsman>
+          <batsman>Ahsan Malik</batsman>
           <bowler>SP Gauchan</bowler>
           <non_striker>MJG Rippon</non_striker>
           <runs>
@@ -3497,7 +3507,7 @@
           <ball>3</ball>
           <batsman>MJG Rippon</batsman>
           <bowler>SP Gauchan</bowler>
-          <non_striker>MAA Jamil</non_striker>
+          <non_striker>Ahsan Malik</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -3509,7 +3519,7 @@
           <ball>4</ball>
           <batsman>MJG Rippon</batsman>
           <bowler>SP Gauchan</bowler>
-          <non_striker>MAA Jamil</non_striker>
+          <non_striker>Ahsan Malik</non_striker>
           <runs>
             <batsman>2</batsman>
             <extras>0</extras>
@@ -3521,7 +3531,7 @@
           <ball>5</ball>
           <batsman>MJG Rippon</batsman>
           <bowler>SP Gauchan</bowler>
-          <non_striker>MAA Jamil</non_striker>
+          <non_striker>Ahsan Malik</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -3533,7 +3543,7 @@
           <ball>6</ball>
           <batsman>MJG Rippon</batsman>
           <bowler>SP Gauchan</bowler>
-          <non_striker>MAA Jamil</non_striker>
+          <non_striker>Ahsan Malik</non_striker>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>
@@ -3545,7 +3555,7 @@
           <ball>1</ball>
           <batsman>MJG Rippon</batsman>
           <bowler>Sompal Kami</bowler>
-          <non_striker>MAA Jamil</non_striker>
+          <non_striker>Ahsan Malik</non_striker>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>
@@ -3555,7 +3565,7 @@
         <delivery>
           <over>47</over>
           <ball>2</ball>
-          <batsman>MAA Jamil</batsman>
+          <batsman>Ahsan Malik</batsman>
           <bowler>Sompal Kami</bowler>
           <non_striker>MJG Rippon</non_striker>
           <runs>
@@ -3569,7 +3579,7 @@
           <ball>3</ball>
           <batsman>MJG Rippon</batsman>
           <bowler>Sompal Kami</bowler>
-          <non_striker>MAA Jamil</non_striker>
+          <non_striker>Ahsan Malik</non_striker>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>
@@ -3579,7 +3589,7 @@
         <delivery>
           <over>47</over>
           <ball>4</ball>
-          <batsman>MAA Jamil</batsman>
+          <batsman>Ahsan Malik</batsman>
           <bowler>Sompal Kami</bowler>
           <non_striker>MJG Rippon</non_striker>
           <runs>
@@ -3591,7 +3601,7 @@
         <delivery>
           <over>47</over>
           <ball>5</ball>
-          <batsman>MAA Jamil</batsman>
+          <batsman>Ahsan Malik</batsman>
           <bowler>Sompal Kami</bowler>
           <non_striker>MJG Rippon</non_striker>
           <runs>
@@ -3603,7 +3613,7 @@
         <delivery>
           <over>47</over>
           <ball>6</ball>
-          <batsman>MAA Jamil</batsman>
+          <batsman>Ahsan Malik</batsman>
           <bowler>Sompal Kami</bowler>
           <non_striker>MJG Rippon</non_striker>
           <runs>
@@ -3617,7 +3627,7 @@
           <ball>1</ball>
           <batsman>MJG Rippon</batsman>
           <bowler>SP Gauchan</bowler>
-          <non_striker>MAA Jamil</non_striker>
+          <non_striker>Ahsan Malik</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -3636,7 +3646,7 @@
         <delivery>
           <over>48</over>
           <ball>2</ball>
-          <batsman>MAA Jamil</batsman>
+          <batsman>Ahsan Malik</batsman>
           <bowler>SP Gauchan</bowler>
           <non_striker>PA van Meekeren</non_striker>
           <runs>
@@ -3648,7 +3658,7 @@
         <delivery>
           <over>48</over>
           <ball>3</ball>
-          <batsman>MAA Jamil</batsman>
+          <batsman>Ahsan Malik</batsman>
           <bowler>SP Gauchan</bowler>
           <non_striker>PA van Meekeren</non_striker>
           <runs>
@@ -3662,7 +3672,7 @@
           <ball>4</ball>
           <batsman>PA van Meekeren</batsman>
           <bowler>SP Gauchan</bowler>
-          <non_striker>MAA Jamil</non_striker>
+          <non_striker>Ahsan Malik</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -3674,7 +3684,7 @@
           <ball>5</ball>
           <batsman>PA van Meekeren</batsman>
           <bowler>SP Gauchan</bowler>
-          <non_striker>MAA Jamil</non_striker>
+          <non_striker>Ahsan Malik</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -3686,7 +3696,7 @@
                 <fielder>G Malla</fielder>
               </fielders>
               <kind>run out</kind>
-              <player_out>MAA Jamil</player_out>
+              <player_out>Ahsan Malik</player_out>
             </wicket>
           </wickets>
         </delivery>
@@ -4906,7 +4916,7 @@
           <over>14</over>
           <ball>1</ball>
           <batsman>P Khadka</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>SP Khakurel</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -4918,7 +4928,7 @@
           <over>14</over>
           <ball>2</ball>
           <batsman>P Khadka</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>SP Khakurel</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -4930,7 +4940,7 @@
           <over>14</over>
           <ball>3</ball>
           <batsman>SP Khakurel</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>P Khadka</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -4942,7 +4952,7 @@
           <over>14</over>
           <ball>4</ball>
           <batsman>SP Khakurel</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>P Khadka</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -4954,7 +4964,7 @@
           <over>14</over>
           <ball>5</ball>
           <batsman>P Khadka</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>SP Khakurel</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -4966,7 +4976,7 @@
           <over>14</over>
           <ball>6</ball>
           <batsman>P Khadka</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>SP Khakurel</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -5056,7 +5066,7 @@
           <over>16</over>
           <ball>1</ball>
           <batsman>B Bhandari</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>P Khadka</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -5068,7 +5078,7 @@
           <over>16</over>
           <ball>2</ball>
           <batsman>B Bhandari</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>P Khadka</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -5080,7 +5090,7 @@
           <over>16</over>
           <ball>3</ball>
           <batsman>B Bhandari</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>P Khadka</non_striker>
           <runs>
             <batsman>6</batsman>
@@ -5092,7 +5102,7 @@
           <over>16</over>
           <ball>4</ball>
           <batsman>B Bhandari</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>P Khadka</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -5104,7 +5114,7 @@
           <over>16</over>
           <ball>5</ball>
           <batsman>P Khadka</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>B Bhandari</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -5116,7 +5126,7 @@
           <over>16</over>
           <ball>6</ball>
           <batsman>P Khadka</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>B Bhandari</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -6271,7 +6281,7 @@
           <over>32</over>
           <ball>1</ball>
           <batsman>S Vesawkar</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>Sagar Pun</non_striker>
           <runs>
             <batsman>3</batsman>
@@ -6283,7 +6293,7 @@
           <over>32</over>
           <ball>2</ball>
           <batsman>Sagar Pun</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>S Vesawkar</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -6295,7 +6305,7 @@
           <over>32</over>
           <ball>3</ball>
           <batsman>Sagar Pun</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>S Vesawkar</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -6307,7 +6317,7 @@
           <over>32</over>
           <ball>4</ball>
           <batsman>Sagar Pun</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>S Vesawkar</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -6319,7 +6329,7 @@
           <over>32</over>
           <ball>5</ball>
           <batsman>Sagar Pun</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>S Vesawkar</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -6331,7 +6341,7 @@
           <over>32</over>
           <ball>6</ball>
           <batsman>S Vesawkar</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>Sagar Pun</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -6415,7 +6425,7 @@
           <over>34</over>
           <ball>1</ball>
           <batsman>Sagar Pun</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>S Vesawkar</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -6427,7 +6437,7 @@
           <over>34</over>
           <ball>2</ball>
           <batsman>Sagar Pun</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>S Vesawkar</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -6439,7 +6449,7 @@
           <over>34</over>
           <ball>3</ball>
           <batsman>Sagar Pun</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>S Vesawkar</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -6451,7 +6461,7 @@
           <over>34</over>
           <ball>4</ball>
           <batsman>S Vesawkar</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>Sagar Pun</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -6463,7 +6473,7 @@
           <over>34</over>
           <ball>5</ball>
           <batsman>S Vesawkar</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>Sagar Pun</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -6475,7 +6485,7 @@
           <over>34</over>
           <ball>6</ball>
           <batsman>Sagar Pun</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>S Vesawkar</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -6559,7 +6569,7 @@
           <over>36</over>
           <ball>1</ball>
           <batsman>Sagar Pun</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>S Vesawkar</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -6577,7 +6587,7 @@
           <over>36</over>
           <ball>2</ball>
           <batsman>B Regmi</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>S Vesawkar</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -6589,7 +6599,7 @@
           <over>36</over>
           <ball>3</ball>
           <batsman>B Regmi</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>S Vesawkar</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -6601,7 +6611,7 @@
           <over>36</over>
           <ball>4</ball>
           <batsman>B Regmi</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>S Vesawkar</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -6613,7 +6623,7 @@
           <over>36</over>
           <ball>5</ball>
           <batsman>B Regmi</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>S Vesawkar</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -6625,7 +6635,7 @@
           <over>36</over>
           <ball>6</ball>
           <batsman>B Regmi</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>S Vesawkar</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -6709,7 +6719,7 @@
           <over>38</over>
           <ball>1</ball>
           <batsman>B Regmi</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>S Vesawkar</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -6721,7 +6731,7 @@
           <over>38</over>
           <ball>2</ball>
           <batsman>B Regmi</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>S Vesawkar</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -6733,7 +6743,7 @@
           <over>38</over>
           <ball>3</ball>
           <batsman>B Regmi</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>S Vesawkar</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -6745,7 +6755,7 @@
           <over>38</over>
           <ball>4</ball>
           <batsman>B Regmi</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>S Vesawkar</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -6757,7 +6767,7 @@
           <over>38</over>
           <ball>5</ball>
           <batsman>B Regmi</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>S Vesawkar</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -6769,7 +6779,7 @@
           <over>38</over>
           <ball>6</ball>
           <batsman>B Regmi</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>S Vesawkar</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -6862,7 +6872,7 @@
           <over>40</over>
           <ball>1</ball>
           <batsman>S Vesawkar</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>Sompal Kami</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -6874,7 +6884,7 @@
           <over>40</over>
           <ball>2</ball>
           <batsman>S Vesawkar</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>Sompal Kami</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -6886,7 +6896,7 @@
           <over>40</over>
           <ball>3</ball>
           <batsman>S Vesawkar</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>Sompal Kami</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -6898,7 +6908,7 @@
           <over>40</over>
           <ball>4</ball>
           <batsman>S Vesawkar</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <extras>
             <wides>1</wides>
           </extras>
@@ -6913,7 +6923,7 @@
           <over>40</over>
           <ball>5</ball>
           <batsman>S Vesawkar</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>Sompal Kami</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -6925,7 +6935,7 @@
           <over>40</over>
           <ball>6</ball>
           <batsman>Sompal Kami</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <extras>
             <legbyes>1</legbyes>
           </extras>
@@ -6940,7 +6950,7 @@
           <over>40</over>
           <ball>7</ball>
           <batsman>S Vesawkar</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>Sompal Kami</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -7390,7 +7400,7 @@
           <over>47</over>
           <ball>1</ball>
           <batsman>Sompal Kami</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>S Vesawkar</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -7411,7 +7421,7 @@
           <over>47</over>
           <ball>2</ball>
           <batsman>S Vesawkar</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>SP Gauchan</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -7423,7 +7433,7 @@
           <over>47</over>
           <ball>3</ball>
           <batsman>S Vesawkar</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>SP Gauchan</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -7435,7 +7445,7 @@
           <over>47</over>
           <ball>4</ball>
           <batsman>S Vesawkar</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>SP Gauchan</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -7447,7 +7457,7 @@
           <over>47</over>
           <ball>5</ball>
           <batsman>S Vesawkar</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>SP Gauchan</non_striker>
           <runs>
             <batsman>2</batsman>
@@ -7459,7 +7469,7 @@
           <over>47</over>
           <ball>6</ball>
           <batsman>S Vesawkar</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>SP Gauchan</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -7543,7 +7553,7 @@
           <over>49</over>
           <ball>1</ball>
           <batsman>S Vesawkar</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>SP Gauchan</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -7555,7 +7565,7 @@
           <over>49</over>
           <ball>2</ball>
           <batsman>SP Gauchan</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <extras>
             <legbyes>1</legbyes>
           </extras>
@@ -7570,7 +7580,7 @@
           <over>49</over>
           <ball>3</ball>
           <batsman>S Vesawkar</batsman>
-          <bowler>MAA Jamil</bowler>
+          <bowler>Ahsan Malik</bowler>
           <non_striker>SP Gauchan</non_striker>
           <runs>
             <batsman>1</batsman>

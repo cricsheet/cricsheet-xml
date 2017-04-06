@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2016-06-27</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Wellington</city>
@@ -22,6 +22,16 @@
     <player_of_match>
       <player_of_match>JS Patel</player_of_match>
     </player_of_match>
+    <supersubs>
+      <supersub>
+        <team>New Zealand</team>
+        <player>JS Patel</player>
+      </supersub>
+      <supersub>
+        <team>Sri Lanka</team>
+        <player>HMCM Bandara</player>
+      </supersub>
+    </supersubs>
     <teams>
       <team>New Zealand</team>
       <team>Sri Lanka</team>
@@ -4472,18 +4482,21 @@
           <batsman>KC Sangakkara</batsman>
           <bowler>CL Cairns</bowler>
           <non_striker>J Mubarak</non_striker>
+          <replacements>
+            <match>
+              <match>
+                <in>JS Patel</in>
+                <out>PG Fulton</out>
+                <reason>supersub</reason>
+                <team>New Zealand</team>
+              </match>
+            </match>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
             <total>0</total>
           </runs>
-          <supersub>
-            <supersub>
-              <in>JS Patel</in>
-              <out>PG Fulton</out>
-              <team>New Zealand</team>
-            </supersub>
-          </supersub>
         </delivery>
         <delivery>
           <over>8</over>
@@ -6903,18 +6916,21 @@
           <batsman>WPUJC Vaas</batsman>
           <bowler>SB Styris</bowler>
           <non_striker>RP Arnold</non_striker>
+          <replacements>
+            <match>
+              <match>
+                <in>HMCM Bandara</in>
+                <out>M Muralitharan</out>
+                <reason>supersub</reason>
+                <team>Sri Lanka</team>
+              </match>
+            </match>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
             <total>0</total>
           </runs>
-          <supersub>
-            <supersub>
-              <in>HMCM Bandara</in>
-              <out>M Muralitharan</out>
-              <team>Sri Lanka</team>
-            </supersub>
-          </supersub>
           <wickets>
             <wicket>
               <fielders>

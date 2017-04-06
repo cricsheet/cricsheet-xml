@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2011-09-12</created>
-    <revision>1</revision>
+    <revision>3</revision>
   </meta>
   <info>
     <city>London</city>
@@ -3793,6 +3793,15 @@
           <batsman>SK Raina</batsman>
           <bowler>ST Finn</bowler>
           <non_striker>MS Dhoni</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>ST Finn</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>2</batsman>
             <extras>0</extras>

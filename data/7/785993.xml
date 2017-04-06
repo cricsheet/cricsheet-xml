@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2014-11-06</created>
-    <revision>1</revision>
+    <revision>3</revision>
   </meta>
   <info>
     <city>Kuala Lumpur</city>
@@ -3584,7 +3584,7 @@
           <wickets>
             <wicket>
               <fielders>
-                <fielder>HK Bagenda</fielder>
+                <fielder>HB Kayondo</fielder>
               </fielders>
               <kind>caught</kind>
               <player_out>G Malla</player_out>
@@ -4341,9 +4341,19 @@
         <delivery>
           <over>7</over>
           <ball>2</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>P Khadka</bowler>
           <non_striker>AS Kyobe</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>HB Kayondo</in>
+                <out>RG Mukasa</out>
+                <reason>injury</reason>
+                <role>batter</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -4353,7 +4363,7 @@
         <delivery>
           <over>7</over>
           <ball>3</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>P Khadka</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -4365,7 +4375,7 @@
         <delivery>
           <over>7</over>
           <ball>4</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>P Khadka</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -4377,7 +4387,7 @@
         <delivery>
           <over>7</over>
           <ball>5</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>P Khadka</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -4389,7 +4399,7 @@
         <delivery>
           <over>7</over>
           <ball>6</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>P Khadka</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -4403,7 +4413,7 @@
           <ball>1</ball>
           <batsman>AS Kyobe</batsman>
           <bowler>Sompal Kami</bowler>
-          <non_striker>HK Bagenda</non_striker>
+          <non_striker>HB Kayondo</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -4415,7 +4425,7 @@
           <ball>2</ball>
           <batsman>AS Kyobe</batsman>
           <bowler>Sompal Kami</bowler>
-          <non_striker>HK Bagenda</non_striker>
+          <non_striker>HB Kayondo</non_striker>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>
@@ -4425,7 +4435,7 @@
         <delivery>
           <over>8</over>
           <ball>3</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>Sompal Kami</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -4439,7 +4449,7 @@
           <ball>4</ball>
           <batsman>AS Kyobe</batsman>
           <bowler>Sompal Kami</bowler>
-          <non_striker>HK Bagenda</non_striker>
+          <non_striker>HB Kayondo</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -4451,7 +4461,7 @@
           <ball>5</ball>
           <batsman>AS Kyobe</batsman>
           <bowler>Sompal Kami</bowler>
-          <non_striker>HK Bagenda</non_striker>
+          <non_striker>HB Kayondo</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -4463,7 +4473,7 @@
           <ball>6</ball>
           <batsman>AS Kyobe</batsman>
           <bowler>Sompal Kami</bowler>
-          <non_striker>HK Bagenda</non_striker>
+          <non_striker>HB Kayondo</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -4473,7 +4483,7 @@
         <delivery>
           <over>9</over>
           <ball>1</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>P Khadka</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -4485,7 +4495,7 @@
         <delivery>
           <over>9</over>
           <ball>2</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>P Khadka</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -4497,7 +4507,7 @@
         <delivery>
           <over>9</over>
           <ball>3</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>P Khadka</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -4509,7 +4519,7 @@
         <delivery>
           <over>9</over>
           <ball>4</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>P Khadka</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -4521,7 +4531,7 @@
         <delivery>
           <over>9</over>
           <ball>5</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>P Khadka</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -4533,7 +4543,7 @@
         <delivery>
           <over>9</over>
           <ball>6</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>P Khadka</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -4547,7 +4557,7 @@
           <ball>1</ball>
           <batsman>AS Kyobe</batsman>
           <bowler>B Regmi</bowler>
-          <non_striker>HK Bagenda</non_striker>
+          <non_striker>HB Kayondo</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -4559,7 +4569,7 @@
           <ball>2</ball>
           <batsman>AS Kyobe</batsman>
           <bowler>B Regmi</bowler>
-          <non_striker>HK Bagenda</non_striker>
+          <non_striker>HB Kayondo</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -4571,7 +4581,7 @@
           <ball>3</ball>
           <batsman>AS Kyobe</batsman>
           <bowler>B Regmi</bowler>
-          <non_striker>HK Bagenda</non_striker>
+          <non_striker>HB Kayondo</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -4583,7 +4593,7 @@
           <ball>4</ball>
           <batsman>AS Kyobe</batsman>
           <bowler>B Regmi</bowler>
-          <non_striker>HK Bagenda</non_striker>
+          <non_striker>HB Kayondo</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -4595,7 +4605,7 @@
           <ball>5</ball>
           <batsman>AS Kyobe</batsman>
           <bowler>B Regmi</bowler>
-          <non_striker>HK Bagenda</non_striker>
+          <non_striker>HB Kayondo</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -4607,7 +4617,7 @@
           <ball>6</ball>
           <batsman>AS Kyobe</batsman>
           <bowler>B Regmi</bowler>
-          <non_striker>HK Bagenda</non_striker>
+          <non_striker>HB Kayondo</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -4617,7 +4627,7 @@
         <delivery>
           <over>11</over>
           <ball>1</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>SP Gauchan</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -4629,7 +4639,7 @@
         <delivery>
           <over>11</over>
           <ball>2</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>SP Gauchan</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -4641,7 +4651,7 @@
         <delivery>
           <over>11</over>
           <ball>3</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>SP Gauchan</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -4653,7 +4663,7 @@
         <delivery>
           <over>11</over>
           <ball>4</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>SP Gauchan</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -4665,7 +4675,7 @@
         <delivery>
           <over>11</over>
           <ball>5</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>SP Gauchan</bowler>
           <extras>
             <byes>1</byes>
@@ -4682,7 +4692,7 @@
           <ball>6</ball>
           <batsman>AS Kyobe</batsman>
           <bowler>SP Gauchan</bowler>
-          <non_striker>HK Bagenda</non_striker>
+          <non_striker>HB Kayondo</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -4692,7 +4702,7 @@
         <delivery>
           <over>12</over>
           <ball>1</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>B Regmi</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -4704,7 +4714,7 @@
         <delivery>
           <over>12</over>
           <ball>2</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>B Regmi</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -4716,7 +4726,7 @@
         <delivery>
           <over>12</over>
           <ball>3</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>B Regmi</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -4728,7 +4738,7 @@
         <delivery>
           <over>12</over>
           <ball>4</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>B Regmi</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -4742,7 +4752,7 @@
           <ball>5</ball>
           <batsman>AS Kyobe</batsman>
           <bowler>B Regmi</bowler>
-          <non_striker>HK Bagenda</non_striker>
+          <non_striker>HB Kayondo</non_striker>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>
@@ -4752,7 +4762,7 @@
         <delivery>
           <over>12</over>
           <ball>6</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>B Regmi</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -4766,7 +4776,7 @@
           <ball>1</ball>
           <batsman>AS Kyobe</batsman>
           <bowler>SP Gauchan</bowler>
-          <non_striker>HK Bagenda</non_striker>
+          <non_striker>HB Kayondo</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -4778,7 +4788,7 @@
           <ball>2</ball>
           <batsman>AS Kyobe</batsman>
           <bowler>SP Gauchan</bowler>
-          <non_striker>HK Bagenda</non_striker>
+          <non_striker>HB Kayondo</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -4790,7 +4800,7 @@
           <ball>3</ball>
           <batsman>AS Kyobe</batsman>
           <bowler>SP Gauchan</bowler>
-          <non_striker>HK Bagenda</non_striker>
+          <non_striker>HB Kayondo</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -4802,7 +4812,7 @@
           <ball>4</ball>
           <batsman>AS Kyobe</batsman>
           <bowler>SP Gauchan</bowler>
-          <non_striker>HK Bagenda</non_striker>
+          <non_striker>HB Kayondo</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -4814,7 +4824,7 @@
           <ball>5</ball>
           <batsman>AS Kyobe</batsman>
           <bowler>SP Gauchan</bowler>
-          <non_striker>HK Bagenda</non_striker>
+          <non_striker>HB Kayondo</non_striker>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>
@@ -4824,7 +4834,7 @@
         <delivery>
           <over>13</over>
           <ball>6</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>SP Gauchan</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -4836,7 +4846,7 @@
         <delivery>
           <over>14</over>
           <ball>1</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>B Regmi</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -4848,7 +4858,7 @@
         <delivery>
           <over>14</over>
           <ball>2</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>B Regmi</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -4860,7 +4870,7 @@
         <delivery>
           <over>14</over>
           <ball>3</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>B Regmi</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -4872,7 +4882,7 @@
         <delivery>
           <over>14</over>
           <ball>4</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>B Regmi</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -4884,7 +4894,7 @@
         <delivery>
           <over>14</over>
           <ball>5</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>B Regmi</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -4896,7 +4906,7 @@
         <delivery>
           <over>14</over>
           <ball>6</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>B Regmi</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -4908,7 +4918,7 @@
         <delivery>
           <over>15</over>
           <ball>1</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>SP Gauchan</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -4920,7 +4930,7 @@
         <delivery>
           <over>15</over>
           <ball>2</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>SP Gauchan</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -4932,7 +4942,7 @@
         <delivery>
           <over>15</over>
           <ball>3</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>SP Gauchan</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -4946,7 +4956,7 @@
           <ball>4</ball>
           <batsman>AS Kyobe</batsman>
           <bowler>SP Gauchan</bowler>
-          <non_striker>HK Bagenda</non_striker>
+          <non_striker>HB Kayondo</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -4958,7 +4968,7 @@
           <ball>5</ball>
           <batsman>AS Kyobe</batsman>
           <bowler>SP Gauchan</bowler>
-          <non_striker>HK Bagenda</non_striker>
+          <non_striker>HB Kayondo</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -4970,7 +4980,7 @@
           <ball>6</ball>
           <batsman>AS Kyobe</batsman>
           <bowler>SP Gauchan</bowler>
-          <non_striker>HK Bagenda</non_striker>
+          <non_striker>HB Kayondo</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -4980,7 +4990,7 @@
         <delivery>
           <over>16</over>
           <ball>1</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>B Regmi</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -4994,7 +5004,7 @@
           <ball>2</ball>
           <batsman>AS Kyobe</batsman>
           <bowler>B Regmi</bowler>
-          <non_striker>HK Bagenda</non_striker>
+          <non_striker>HB Kayondo</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -5006,7 +5016,7 @@
           <ball>3</ball>
           <batsman>AS Kyobe</batsman>
           <bowler>B Regmi</bowler>
-          <non_striker>HK Bagenda</non_striker>
+          <non_striker>HB Kayondo</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -5018,7 +5028,7 @@
           <ball>4</ball>
           <batsman>AS Kyobe</batsman>
           <bowler>B Regmi</bowler>
-          <non_striker>HK Bagenda</non_striker>
+          <non_striker>HB Kayondo</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -5030,7 +5040,7 @@
           <ball>5</ball>
           <batsman>AS Kyobe</batsman>
           <bowler>B Regmi</bowler>
-          <non_striker>HK Bagenda</non_striker>
+          <non_striker>HB Kayondo</non_striker>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>
@@ -5040,7 +5050,7 @@
         <delivery>
           <over>16</over>
           <ball>6</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>B Regmi</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -5052,7 +5062,7 @@
         <delivery>
           <over>17</over>
           <ball>1</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>SP Gauchan</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -5064,7 +5074,7 @@
         <delivery>
           <over>17</over>
           <ball>2</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>SP Gauchan</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -5076,7 +5086,7 @@
         <delivery>
           <over>17</over>
           <ball>3</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>SP Gauchan</bowler>
           <non_striker>AS Kyobe</non_striker>
           <runs>
@@ -5090,7 +5100,7 @@
           <ball>4</ball>
           <batsman>AS Kyobe</batsman>
           <bowler>SP Gauchan</bowler>
-          <non_striker>HK Bagenda</non_striker>
+          <non_striker>HB Kayondo</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -5102,7 +5112,7 @@
           <ball>5</ball>
           <batsman>AS Kyobe</batsman>
           <bowler>SP Gauchan</bowler>
-          <non_striker>HK Bagenda</non_striker>
+          <non_striker>HB Kayondo</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -5114,7 +5124,7 @@
           <ball>6</ball>
           <batsman>AS Kyobe</batsman>
           <bowler>SP Gauchan</bowler>
-          <non_striker>HK Bagenda</non_striker>
+          <non_striker>HB Kayondo</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -5133,7 +5143,7 @@
         <delivery>
           <over>18</over>
           <ball>1</ball>
-          <batsman>HK Bagenda</batsman>
+          <batsman>HB Kayondo</batsman>
           <bowler>B Regmi</bowler>
           <non_striker>PM Selowa</non_striker>
           <runs>
@@ -5147,7 +5157,7 @@
                 <fielder>G Malla</fielder>
               </fielders>
               <kind>caught</kind>
-              <player_out>HK Bagenda</player_out>
+              <player_out>HB Kayondo</player_out>
             </wicket>
           </wickets>
         </delivery>

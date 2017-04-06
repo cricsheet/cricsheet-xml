@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2016-06-23</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <dates>
@@ -21,6 +21,16 @@
     <player_of_match>
       <player_of_match>DL Vettori</player_of_match>
     </player_of_match>
+    <supersubs>
+      <supersub>
+        <team>New Zealand</team>
+        <player>JS Patel</player>
+      </supersub>
+      <supersub>
+        <team>West Indies</team>
+        <player>RN Lewis</player>
+      </supersub>
+    </supersubs>
     <teams>
       <team>New Zealand</team>
       <team>West Indies</team>
@@ -3319,18 +3329,21 @@
           <batsman>WW Hinds</batsman>
           <bowler>NJ Astle</bowler>
           <non_striker>DR Smith</non_striker>
+          <replacements>
+            <match>
+              <match>
+                <in>JS Patel</in>
+                <out>MJ Mason</out>
+                <reason>supersub</reason>
+                <team>New Zealand</team>
+              </match>
+            </match>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
             <total>0</total>
           </runs>
-          <supersub>
-            <supersub>
-              <in>JS Patel</in>
-              <out>MJ Mason</out>
-              <team>New Zealand</team>
-            </supersub>
-          </supersub>
         </delivery>
         <delivery>
           <over>44</over>
@@ -5782,18 +5795,21 @@
           <batsman>PG Fulton</batsman>
           <bowler>DR Smith</bowler>
           <non_striker>BB McCullum</non_striker>
+          <replacements>
+            <match>
+              <match>
+                <in>RN Lewis</in>
+                <out>RR Sarwan</out>
+                <reason>supersub</reason>
+                <team>West Indies</team>
+              </match>
+            </match>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
             <total>0</total>
           </runs>
-          <supersub>
-            <supersub>
-              <in>RN Lewis</in>
-              <out>RR Sarwan</out>
-              <team>West Indies</team>
-            </supersub>
-          </supersub>
         </delivery>
         <delivery>
           <over>25</over>

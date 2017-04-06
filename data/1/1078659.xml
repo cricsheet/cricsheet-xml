@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2017-01-28</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Abu Dhabi</city>
@@ -2595,6 +2595,16 @@
           <batsman>SM Sharif</batsman>
           <bowler>Tanveer Ahmed</bowler>
           <non_striker>CD Wallace</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>SM Sharif</in>
+                <out>CD de Lange</out>
+                <reason>injury</reason>
+                <role>batter</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

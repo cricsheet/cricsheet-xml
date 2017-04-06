@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2015-09-26</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Antigua</city>
@@ -909,6 +909,15 @@
           <batsman>Habibul Bashar</batsman>
           <bowler>A Symonds</bowler>
           <non_striker>Shakib Al Hasan</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>A Symonds</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>2</batsman>
             <extras>0</extras>
@@ -2214,6 +2223,15 @@
           <batsman>AC Gilchrist</batsman>
           <bowler>Aftab Ahmed</bowler>
           <non_striker>ML Hayden</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>Aftab Ahmed</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>

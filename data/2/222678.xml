@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2013-02-22</created>
-    <revision>2</revision>
+    <revision>3</revision>
   </meta>
   <info>
     <city>Johannesburg</city>
@@ -22,6 +22,16 @@
     <player_of_match>
       <player_of_match>JS Patel</player_of_match>
     </player_of_match>
+    <supersubs>
+      <supersub>
+        <team>New Zealand</team>
+        <player>JAH Marshall</player>
+      </supersub>
+      <supersub>
+        <team>South Africa</team>
+        <player>N Boje</player>
+      </supersub>
+    </supersubs>
     <teams>
       <team>South Africa</team>
       <team>New Zealand</team>
@@ -1580,18 +1590,21 @@
           <batsman>SP Fleming</batsman>
           <bowler>SM Pollock</bowler>
           <non_striker>NJ Astle</non_striker>
+          <replacements>
+            <match>
+              <match>
+                <in>JAH Marshall</in>
+                <out>JS Patel</out>
+                <reason>supersub</reason>
+                <team>New Zealand</team>
+              </match>
+            </match>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
             <total>0</total>
           </runs>
-          <supersub>
-            <supersub>
-              <in>JAH Marshall</in>
-              <out>JS Patel</out>
-              <team>New Zealand</team>
-            </supersub>
-          </supersub>
         </delivery>
         <delivery>
           <over>0</over>
@@ -1962,18 +1975,21 @@
           <batsman>NJ Astle</batsman>
           <bowler>A Nel</bowler>
           <non_striker>SP Fleming</non_striker>
+          <replacements>
+            <match>
+              <match>
+                <in>N Boje</in>
+                <out>JM Kemp</out>
+                <reason>supersub</reason>
+                <team>South Africa</team>
+              </match>
+            </match>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
             <total>0</total>
           </runs>
-          <supersub>
-            <supersub>
-              <in>N Boje</in>
-              <out>JM Kemp</out>
-              <team>South Africa</team>
-            </supersub>
-          </supersub>
           <wickets>
             <wicket>
               <kind>bowled</kind>

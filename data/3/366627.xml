@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2013-03-04</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Christchurch</city>
@@ -7204,6 +7204,15 @@
           <batsman>TG Southee</batsman>
           <bowler>YK Pathan</bowler>
           <non_striker>KD Mills</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>YK Pathan</in>
+                <reason>excluded - high full pitched balls</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2010-03-27</created>
-    <revision>1</revision>
+    <revision>3</revision>
   </meta>
   <info>
     <city>Auckland</city>
@@ -3240,6 +3240,15 @@
           <batsman>MEK Hussey</batsman>
           <bowler>SB Styris</bowler>
           <non_striker>JR Hopes</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>SB Styris</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

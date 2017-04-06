@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2013-05-18</created>
-    <revision>1</revision>
+    <revision>3</revision>
   </meta>
   <info>
     <city>Dharamsala</city>
@@ -486,6 +486,15 @@
           <batsman>SE Marsh</batsman>
           <bowler>RG Sharma</bowler>
           <non_striker>Azhar Mahmood</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>RG Sharma</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>
@@ -1844,7 +1853,7 @@
           <over>3</over>
           <ball>1</ball>
           <batsman>AT Rayudu</batsman>
-          <bowler>Sandeep Sharma (1)</bowler>
+          <bowler>Sandeep Sharma</bowler>
           <non_striker>AP Tare</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -1856,7 +1865,7 @@
           <over>3</over>
           <ball>2</ball>
           <batsman>AP Tare</batsman>
-          <bowler>Sandeep Sharma (1)</bowler>
+          <bowler>Sandeep Sharma</bowler>
           <non_striker>AT Rayudu</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -1868,7 +1877,7 @@
           <over>3</over>
           <ball>3</ball>
           <batsman>AT Rayudu</batsman>
-          <bowler>Sandeep Sharma (1)</bowler>
+          <bowler>Sandeep Sharma</bowler>
           <non_striker>AP Tare</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -1880,7 +1889,7 @@
           <over>3</over>
           <ball>4</ball>
           <batsman>AP Tare</batsman>
-          <bowler>Sandeep Sharma (1)</bowler>
+          <bowler>Sandeep Sharma</bowler>
           <non_striker>AT Rayudu</non_striker>
           <runs>
             <batsman>6</batsman>
@@ -1892,7 +1901,7 @@
           <over>3</over>
           <ball>5</ball>
           <batsman>AP Tare</batsman>
-          <bowler>Sandeep Sharma (1)</bowler>
+          <bowler>Sandeep Sharma</bowler>
           <non_striker>AT Rayudu</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -1910,7 +1919,7 @@
           <over>3</over>
           <ball>6</ball>
           <batsman>RG Sharma</batsman>
-          <bowler>Sandeep Sharma (1)</bowler>
+          <bowler>Sandeep Sharma</bowler>
           <non_striker>AT Rayudu</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -2012,7 +2021,7 @@
           <over>5</over>
           <ball>1</ball>
           <batsman>AT Rayudu</batsman>
-          <bowler>Sandeep Sharma (1)</bowler>
+          <bowler>Sandeep Sharma</bowler>
           <non_striker>RG Sharma</non_striker>
           <runs>
             <batsman>4</batsman>
@@ -2024,7 +2033,7 @@
           <over>5</over>
           <ball>2</ball>
           <batsman>AT Rayudu</batsman>
-          <bowler>Sandeep Sharma (1)</bowler>
+          <bowler>Sandeep Sharma</bowler>
           <non_striker>RG Sharma</non_striker>
           <runs>
             <batsman>4</batsman>
@@ -2036,7 +2045,7 @@
           <over>5</over>
           <ball>3</ball>
           <batsman>AT Rayudu</batsman>
-          <bowler>Sandeep Sharma (1)</bowler>
+          <bowler>Sandeep Sharma</bowler>
           <non_striker>RG Sharma</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -2048,7 +2057,7 @@
           <over>5</over>
           <ball>4</ball>
           <batsman>RG Sharma</batsman>
-          <bowler>Sandeep Sharma (1)</bowler>
+          <bowler>Sandeep Sharma</bowler>
           <non_striker>AT Rayudu</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -2060,7 +2069,7 @@
           <over>5</over>
           <ball>5</ball>
           <batsman>RG Sharma</batsman>
-          <bowler>Sandeep Sharma (1)</bowler>
+          <bowler>Sandeep Sharma</bowler>
           <non_striker>AT Rayudu</non_striker>
           <runs>
             <batsman>4</batsman>
@@ -2072,7 +2081,7 @@
           <over>5</over>
           <ball>6</ball>
           <batsman>RG Sharma</batsman>
-          <bowler>Sandeep Sharma (1)</bowler>
+          <bowler>Sandeep Sharma</bowler>
           <non_striker>AT Rayudu</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -2768,7 +2777,7 @@
           <over>15</over>
           <ball>1</ball>
           <batsman>R Dhawan</batsman>
-          <bowler>Sandeep Sharma (1)</bowler>
+          <bowler>Sandeep Sharma</bowler>
           <non_striker>KA Pollard</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -2780,7 +2789,7 @@
           <over>15</over>
           <ball>2</ball>
           <batsman>KA Pollard</batsman>
-          <bowler>Sandeep Sharma (1)</bowler>
+          <bowler>Sandeep Sharma</bowler>
           <non_striker>R Dhawan</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -2792,7 +2801,7 @@
           <over>15</over>
           <ball>3</ball>
           <batsman>R Dhawan</batsman>
-          <bowler>Sandeep Sharma (1)</bowler>
+          <bowler>Sandeep Sharma</bowler>
           <extras>
             <legbyes>4</legbyes>
           </extras>
@@ -2807,7 +2816,7 @@
           <over>15</over>
           <ball>4</ball>
           <batsman>R Dhawan</batsman>
-          <bowler>Sandeep Sharma (1)</bowler>
+          <bowler>Sandeep Sharma</bowler>
           <non_striker>KA Pollard</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -2819,7 +2828,7 @@
           <over>15</over>
           <ball>5</ball>
           <batsman>KA Pollard</batsman>
-          <bowler>Sandeep Sharma (1)</bowler>
+          <bowler>Sandeep Sharma</bowler>
           <extras>
             <noballs>1</noballs>
           </extras>
@@ -2834,7 +2843,7 @@
           <over>15</over>
           <ball>6</ball>
           <batsman>KA Pollard</batsman>
-          <bowler>Sandeep Sharma (1)</bowler>
+          <bowler>Sandeep Sharma</bowler>
           <non_striker>R Dhawan</non_striker>
           <runs>
             <batsman>2</batsman>
@@ -2846,7 +2855,7 @@
           <over>15</over>
           <ball>7</ball>
           <batsman>KA Pollard</batsman>
-          <bowler>Sandeep Sharma (1)</bowler>
+          <bowler>Sandeep Sharma</bowler>
           <non_striker>R Dhawan</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -2945,7 +2954,7 @@
           <over>17</over>
           <ball>1</ball>
           <batsman>NM Coulter-Nile</batsman>
-          <bowler>Sandeep Sharma (1)</bowler>
+          <bowler>Sandeep Sharma</bowler>
           <non_striker>Harbhajan Singh</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -2957,7 +2966,7 @@
           <over>17</over>
           <ball>2</ball>
           <batsman>NM Coulter-Nile</batsman>
-          <bowler>Sandeep Sharma (1)</bowler>
+          <bowler>Sandeep Sharma</bowler>
           <non_striker>Harbhajan Singh</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -2969,7 +2978,7 @@
           <over>17</over>
           <ball>3</ball>
           <batsman>Harbhajan Singh</batsman>
-          <bowler>Sandeep Sharma (1)</bowler>
+          <bowler>Sandeep Sharma</bowler>
           <non_striker>NM Coulter-Nile</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -2981,7 +2990,7 @@
           <over>17</over>
           <ball>4</ball>
           <batsman>NM Coulter-Nile</batsman>
-          <bowler>Sandeep Sharma (1)</bowler>
+          <bowler>Sandeep Sharma</bowler>
           <non_striker>Harbhajan Singh</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -2993,7 +3002,7 @@
           <over>17</over>
           <ball>5</ball>
           <batsman>Harbhajan Singh</batsman>
-          <bowler>Sandeep Sharma (1)</bowler>
+          <bowler>Sandeep Sharma</bowler>
           <non_striker>NM Coulter-Nile</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -3005,7 +3014,7 @@
           <over>17</over>
           <ball>6</ball>
           <batsman>NM Coulter-Nile</batsman>
-          <bowler>Sandeep Sharma (1)</bowler>
+          <bowler>Sandeep Sharma</bowler>
           <non_striker>Harbhajan Singh</non_striker>
           <runs>
             <batsman>6</batsman>

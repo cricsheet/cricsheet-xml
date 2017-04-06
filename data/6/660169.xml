@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2014-01-02</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Dubai</city>
@@ -32,8 +32,8 @@
       <winner>Kenya</winner>
     </toss>
     <umpires>
-      <umpire>Sharfuddoula</umpire>
       <umpire>AT Holdstock</umpire>
+      <umpire>Sharfuddoula</umpire>
     </umpires>
     <venue>ICC Academy Ground No 2</venue>
   </info>
@@ -438,6 +438,16 @@
           <batsman>DL Hemp</batsman>
           <bowler>HA Varaiya</bowler>
           <non_striker>DC Stovell</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>DL Hemp</in>
+                <out>LOB Cann</out>
+                <reason>injury</reason>
+                <role>batter</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>
@@ -2119,7 +2129,7 @@
           <over>8</over>
           <ball>1</ball>
           <batsman>SO Tikolo</batsman>
-          <bowler>J Robinson</bowler>
+          <bowler>RJ Robinson</bowler>
           <non_striker>CO Obuya</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -2131,7 +2141,7 @@
           <over>8</over>
           <ball>2</ball>
           <batsman>SO Tikolo</batsman>
-          <bowler>J Robinson</bowler>
+          <bowler>RJ Robinson</bowler>
           <non_striker>CO Obuya</non_striker>
           <runs>
             <batsman>4</batsman>
@@ -2143,7 +2153,7 @@
           <over>8</over>
           <ball>3</ball>
           <batsman>SO Tikolo</batsman>
-          <bowler>J Robinson</bowler>
+          <bowler>RJ Robinson</bowler>
           <non_striker>CO Obuya</non_striker>
           <runs>
             <batsman>2</batsman>
@@ -2155,7 +2165,7 @@
           <over>8</over>
           <ball>4</ball>
           <batsman>SO Tikolo</batsman>
-          <bowler>J Robinson</bowler>
+          <bowler>RJ Robinson</bowler>
           <non_striker>CO Obuya</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -2167,7 +2177,7 @@
           <over>8</over>
           <ball>5</ball>
           <batsman>CO Obuya</batsman>
-          <bowler>J Robinson</bowler>
+          <bowler>RJ Robinson</bowler>
           <non_striker>SO Tikolo</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -2179,7 +2189,7 @@
           <over>8</over>
           <ball>6</ball>
           <batsman>CO Obuya</batsman>
-          <bowler>J Robinson</bowler>
+          <bowler>RJ Robinson</bowler>
           <non_striker>SO Tikolo</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -2263,7 +2273,7 @@
           <over>10</over>
           <ball>1</ball>
           <batsman>CO Obuya</batsman>
-          <bowler>J Robinson</bowler>
+          <bowler>RJ Robinson</bowler>
           <non_striker>SO Tikolo</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -2284,7 +2294,7 @@
           <over>10</over>
           <ball>2</ball>
           <batsman>SO Tikolo</batsman>
-          <bowler>J Robinson</bowler>
+          <bowler>RJ Robinson</bowler>
           <non_striker>TM Odoyo</non_striker>
           <runs>
             <batsman>2</batsman>
@@ -2296,7 +2306,7 @@
           <over>10</over>
           <ball>3</ball>
           <batsman>SO Tikolo</batsman>
-          <bowler>J Robinson</bowler>
+          <bowler>RJ Robinson</bowler>
           <non_striker>TM Odoyo</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -2308,7 +2318,7 @@
           <over>10</over>
           <ball>4</ball>
           <batsman>TM Odoyo</batsman>
-          <bowler>J Robinson</bowler>
+          <bowler>RJ Robinson</bowler>
           <non_striker>SO Tikolo</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -2320,7 +2330,7 @@
           <over>10</over>
           <ball>5</ball>
           <batsman>TM Odoyo</batsman>
-          <bowler>J Robinson</bowler>
+          <bowler>RJ Robinson</bowler>
           <non_striker>SO Tikolo</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -2332,7 +2342,7 @@
           <over>10</over>
           <ball>6</ball>
           <batsman>SO Tikolo</batsman>
-          <bowler>J Robinson</bowler>
+          <bowler>RJ Robinson</bowler>
           <non_striker>TM Odoyo</non_striker>
           <runs>
             <batsman>1</batsman>

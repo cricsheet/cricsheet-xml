@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2016-03-25</created>
     <revision>2</revision>
   </meta>
@@ -1584,6 +1584,15 @@
           <batsman>L Lee</batsman>
           <bowler>IMHC Joyce</bowler>
           <non_striker>CL Tryon</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>IMHC Joyce</in>
+                <reason>unknown</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>

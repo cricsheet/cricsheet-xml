@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2014-06-17</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Trinidad</city>
@@ -4936,6 +4936,15 @@
           <batsman>LPC Silva</batsman>
           <bowler>DJ Bravo</bowler>
           <non_striker>MKDI Amerasinghe</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>DJ Bravo</in>
+                <reason>excluded - high full pitched balls</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
-    <created>2013-02-04</created>
-    <revision>2</revision>
+    <data_version>0.9</data_version>
+    <created>2011-09-05</created>
+    <revision>4</revision>
   </meta>
   <info>
     <city>Trinidad</city>
@@ -3548,6 +3548,16 @@
           <batsman>KP Pietersen</batsman>
           <bowler>BP Nash</bowler>
           <non_striker>AJ Strauss</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>KP Pietersen</in>
+                <out>OA Shah</out>
+                <reason>injury</reason>
+                <role>batter</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -15704,6 +15714,16 @@
           <batsman>LMP Simmons</batsman>
           <bowler>SCJ Broad</bowler>
           <non_striker>S Chanderpaul</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>S Chanderpaul</in>
+                <out>CH Gayle</out>
+                <reason>injury</reason>
+                <role>batter</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2013-05-23</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Dublin</city>
@@ -789,6 +789,16 @@
           <batsman>Mohammad Hafeez</batsman>
           <bowler>TJ Murtagh</bowler>
           <non_striker>Imran Farhat</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>Mohammad Hafeez</in>
+                <out>Nasir Jamshed</out>
+                <reason>injury</reason>
+                <role>batter</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

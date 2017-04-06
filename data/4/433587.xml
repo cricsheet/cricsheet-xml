@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2011-04-25</created>
-    <revision>1</revision>
+    <revision>3</revision>
   </meta>
   <info>
     <city>Mumbai</city>
@@ -3825,6 +3825,15 @@
             <wides>1</wides>
           </extras>
           <non_striker>KS Williamson</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>HS Baidwan</in>
+                <reason>excluded - high full pitched balls</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>1</extras>
@@ -4209,6 +4218,15 @@
           <batsman>A Bagai</batsman>
           <bowler>JD Ryder</bowler>
           <non_striker>H Patel</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>JD Ryder</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>4</batsman>
             <extras>0</extras>
@@ -6840,6 +6858,16 @@
           <batsman>JM Davison</batsman>
           <bowler>JDP Oram</bowler>
           <non_striker>WD Balaji Rao</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>WD Balaji Rao</in>
+                <out>AS Hansra</out>
+                <reason>injury</reason>
+                <role>batter</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>

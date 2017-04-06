@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2015-10-11</created>
-    <revision>2</revision>
+    <revision>3</revision>
   </meta>
   <info>
     <city>Kanpur</city>
@@ -2393,6 +2393,15 @@
           <batsman>F du Plessis</batsman>
           <bowler>V Kohli</bowler>
           <non_striker>AB de Villiers</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>V Kohli</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>
