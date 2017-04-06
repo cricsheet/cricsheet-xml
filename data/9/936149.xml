@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2017-01-08</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Cape Town</city>
@@ -5227,6 +5227,15 @@
           <batsman>Q de Kock</batsman>
           <bowler>HMRKB Herath</bowler>
           <non_striker>D Elgar</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>HMRKB Herath</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>

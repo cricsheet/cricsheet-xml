@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2014-10-25</created>
-    <revision>2</revision>
+    <revision>3</revision>
   </meta>
   <info>
     <city>Colombo</city>
@@ -19,6 +19,9 @@
       <winner>South Africa</winner>
     </outcome>
     <overs>20</overs>
+    <player_of_match>
+      <player_of_match>D van Niekerk</player_of_match>
+    </player_of_match>
     <teams>
       <team>Sri Lanka</team>
       <team>South Africa</team>
@@ -920,7 +923,7 @@
           <ball>7</ball>
           <batsman>LE Kaushalya</batsman>
           <bowler>Y Fourie</bowler>
-          <non_striker>HM Samuddika</non_striker>
+          <non_striker>HAM Samuddika</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -930,7 +933,7 @@
         <delivery>
           <over>11</over>
           <ball>1</ball>
-          <batsman>HM Samuddika</batsman>
+          <batsman>HAM Samuddika</batsman>
           <bowler>D van Niekerk</bowler>
           <non_striker>LE Kaushalya</non_striker>
           <runs>
@@ -944,7 +947,7 @@
           <ball>2</ball>
           <batsman>LE Kaushalya</batsman>
           <bowler>D van Niekerk</bowler>
-          <non_striker>HM Samuddika</non_striker>
+          <non_striker>HAM Samuddika</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -956,7 +959,7 @@
           <ball>3</ball>
           <batsman>LE Kaushalya</batsman>
           <bowler>D van Niekerk</bowler>
-          <non_striker>HM Samuddika</non_striker>
+          <non_striker>HAM Samuddika</non_striker>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>
@@ -966,7 +969,7 @@
         <delivery>
           <over>11</over>
           <ball>4</ball>
-          <batsman>HM Samuddika</batsman>
+          <batsman>HAM Samuddika</batsman>
           <bowler>D van Niekerk</bowler>
           <non_striker>LE Kaushalya</non_striker>
           <runs>
@@ -988,7 +991,7 @@
         <delivery>
           <over>11</over>
           <ball>5</ball>
-          <batsman>HM Samuddika</batsman>
+          <batsman>HAM Samuddika</batsman>
           <bowler>D van Niekerk</bowler>
           <non_striker>NND de Silva</non_striker>
           <runs>
@@ -1002,7 +1005,7 @@
           <ball>6</ball>
           <batsman>NND de Silva</batsman>
           <bowler>D van Niekerk</bowler>
-          <non_striker>HM Samuddika</non_striker>
+          <non_striker>HAM Samuddika</non_striker>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>
@@ -1014,7 +1017,7 @@
           <ball>1</ball>
           <batsman>NND de Silva</batsman>
           <bowler>Y Fourie</bowler>
-          <non_striker>HM Samuddika</non_striker>
+          <non_striker>HAM Samuddika</non_striker>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -1026,7 +1029,7 @@
           <ball>2</ball>
           <batsman>NND de Silva</batsman>
           <bowler>Y Fourie</bowler>
-          <non_striker>HM Samuddika</non_striker>
+          <non_striker>HAM Samuddika</non_striker>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>
@@ -1036,7 +1039,7 @@
         <delivery>
           <over>12</over>
           <ball>3</ball>
-          <batsman>HM Samuddika</batsman>
+          <batsman>HAM Samuddika</batsman>
           <bowler>Y Fourie</bowler>
           <non_striker>NND de Silva</non_striker>
           <runs>
@@ -1051,7 +1054,7 @@
                 <fielder>A Steyn</fielder>
               </fielders>
               <kind>run out</kind>
-              <player_out>HM Samuddika</player_out>
+              <player_out>HAM Samuddika</player_out>
             </wicket>
           </wickets>
         </delivery>
@@ -1260,7 +1263,7 @@
           <over>1</over>
           <ball>1</ball>
           <batsman>D van Niekerk</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>T Chetty</non_striker>
           <runs>
             <batsman>4</batsman>
@@ -1272,7 +1275,7 @@
           <over>1</over>
           <ball>2</ball>
           <batsman>D van Niekerk</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>T Chetty</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -1284,7 +1287,7 @@
           <over>1</over>
           <ball>3</ball>
           <batsman>T Chetty</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>D van Niekerk</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -1296,7 +1299,7 @@
           <over>1</over>
           <ball>4</ball>
           <batsman>D van Niekerk</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>T Chetty</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -1308,7 +1311,7 @@
           <over>1</over>
           <ball>5</ball>
           <batsman>D van Niekerk</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>T Chetty</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -1320,7 +1323,7 @@
           <over>1</over>
           <ball>6</ball>
           <batsman>D van Niekerk</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>T Chetty</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -1413,7 +1416,7 @@
           <over>3</over>
           <ball>1</ball>
           <batsman>D van Niekerk</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>L Lee</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -1425,7 +1428,7 @@
           <over>3</over>
           <ball>2</ball>
           <batsman>D van Niekerk</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>L Lee</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -1437,7 +1440,7 @@
           <over>3</over>
           <ball>3</ball>
           <batsman>D van Niekerk</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>L Lee</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -1449,7 +1452,7 @@
           <over>3</over>
           <ball>4</ball>
           <batsman>D van Niekerk</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>L Lee</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -1461,7 +1464,7 @@
           <over>3</over>
           <ball>5</ball>
           <batsman>L Lee</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>D van Niekerk</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -1473,7 +1476,7 @@
           <over>3</over>
           <ball>6</ball>
           <batsman>L Lee</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>D van Niekerk</non_striker>
           <runs>
             <batsman>4</batsman>
@@ -2025,7 +2028,7 @@
           <over>11</over>
           <ball>1</ball>
           <batsman>L Lee</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>D van Niekerk</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -2046,7 +2049,7 @@
           <over>11</over>
           <ball>2</ball>
           <batsman>D van Niekerk</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>M du Preez</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -2058,7 +2061,7 @@
           <over>11</over>
           <ball>3</ball>
           <batsman>D van Niekerk</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>M du Preez</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -2070,7 +2073,7 @@
           <over>11</over>
           <ball>4</ball>
           <batsman>M du Preez</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>D van Niekerk</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -2082,7 +2085,7 @@
           <over>11</over>
           <ball>5</ball>
           <batsman>D van Niekerk</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>M du Preez</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -2094,7 +2097,7 @@
           <over>11</over>
           <ball>6</ball>
           <batsman>D van Niekerk</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>M du Preez</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -2202,7 +2205,7 @@
           <over>13</over>
           <ball>1</ball>
           <batsman>M Kapp</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>M du Preez</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -2214,7 +2217,7 @@
           <over>13</over>
           <ball>2</ball>
           <batsman>M du Preez</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>M Kapp</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -2226,7 +2229,7 @@
           <over>13</over>
           <ball>3</ball>
           <batsman>M Kapp</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>M du Preez</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -2238,7 +2241,7 @@
           <over>13</over>
           <ball>4</ball>
           <batsman>M du Preez</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>M Kapp</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -2250,7 +2253,7 @@
           <over>13</over>
           <ball>5</ball>
           <batsman>M du Preez</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>M Kapp</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -2262,7 +2265,7 @@
           <over>13</over>
           <ball>6</ball>
           <batsman>M du Preez</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>M Kapp</non_striker>
           <runs>
             <batsman>1</batsman>

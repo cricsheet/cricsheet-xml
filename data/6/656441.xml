@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2015-03-01</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Wellington</city>
@@ -3696,6 +3696,15 @@
           <batsman>CR Woakes</batsman>
           <bowler>NLTC Perera</bowler>
           <non_striker>JC Buttler</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>NLTC Perera</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>4</batsman>
             <extras>0</extras>
@@ -3786,6 +3795,15 @@
           <batsman>JC Buttler</batsman>
           <bowler>TM Dilshan</bowler>
           <non_striker>CR Woakes</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>TM Dilshan</in>
+                <reason>excluded - high full pitched balls</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>2</batsman>
             <extras>0</extras>

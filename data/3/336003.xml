@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2011-05-06</created>
-    <revision>1</revision>
+    <revision>3</revision>
   </meta>
   <info>
     <city>Chandigarh</city>
@@ -522,6 +522,16 @@
           <batsman>SE Marsh</batsman>
           <bowler>Mohammad Hafeez</bowler>
           <non_striker>Yuvraj Singh</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>Yuvraj Singh</in>
+                <out>KC Sangakkara</out>
+                <reason>injury</reason>
+                <role>batter</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>

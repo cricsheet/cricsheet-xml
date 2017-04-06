@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2016-06-25</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Bogra</city>
@@ -22,6 +22,12 @@
     <player_of_match>
       <player_of_match>Aftab Ahmed</player_of_match>
     </player_of_match>
+    <supersubs>
+      <supersub>
+        <team>Bangladesh</team>
+        <player>Rajin Saleh</player>
+      </supersub>
+    </supersubs>
     <teams>
       <team>Bangladesh</team>
       <team>Sri Lanka</team>
@@ -4379,18 +4385,21 @@
           <batsman>Shahriar Nafees</batsman>
           <bowler>CRD Fernando</bowler>
           <non_striker>Javed Omar</non_striker>
+          <replacements>
+            <match>
+              <match>
+                <in>Rajin Saleh</in>
+                <out>Nazmul Hossain</out>
+                <reason>supersub</reason>
+                <team>Bangladesh</team>
+              </match>
+            </match>
+          </replacements>
           <runs>
             <batsman>4</batsman>
             <extras>0</extras>
             <total>4</total>
           </runs>
-          <supersub>
-            <supersub>
-              <in>Rajin Saleh</in>
-              <out>Nazmul Hossain</out>
-              <team>Bangladesh</team>
-            </supersub>
-          </supersub>
         </delivery>
         <delivery>
           <over>7</over>

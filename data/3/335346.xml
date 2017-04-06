@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2015-08-24</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Lahore</city>
@@ -6499,6 +6499,15 @@
           <batsman>Mohammad Tauqir</batsman>
           <bowler>Dolar Mahmud</bowler>
           <non_striker>Khurram Khan</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>Dolar Mahmud</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>4</batsman>
             <extras>0</extras>

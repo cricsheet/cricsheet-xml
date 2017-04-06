@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2014-06-20</created>
-    <revision>2</revision>
+    <revision>3</revision>
   </meta>
   <info>
     <city>Colombo</city>
@@ -11236,6 +11236,15 @@
           <batsman>KC Sangakkara</batsman>
           <bowler>Harbhajan Singh</bowler>
           <non_striker>TT Samaraweera</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>Harbhajan Singh</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

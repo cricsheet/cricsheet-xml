@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2014-09-04</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <dates>
@@ -3175,6 +3175,16 @@
           <batsman>JP Faulkner</batsman>
           <bowler>P Utseya</bowler>
           <non_striker>BJ Haddin</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>JP Faulkner</in>
+                <out>MJ Clarke</out>
+                <reason>injury</reason>
+                <role>batter</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

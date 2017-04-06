@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2014-02-03</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Mirpur</city>
@@ -4601,6 +4601,15 @@
           <batsman>Robiul Islam</batsman>
           <bowler>RMS Eranga</bowler>
           <non_striker>Al-Amin Hossain</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>RMS Eranga</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

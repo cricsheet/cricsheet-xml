@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2016-06-26</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Perth</city>
@@ -23,6 +23,16 @@
     <player_of_match>
       <player_of_match>GC Smith</player_of_match>
     </player_of_match>
+    <supersubs>
+      <supersub>
+        <team>South Africa</team>
+        <player>J Botha</player>
+      </supersub>
+      <supersub>
+        <team>Sri Lanka</team>
+        <player>HMCM Bandara</player>
+      </supersub>
+    </supersubs>
     <teams>
       <team>South Africa</team>
       <team>Sri Lanka</team>
@@ -2953,18 +2963,21 @@
           <batsman>KMDN Kulasekara</batsman>
           <bowler>SM Pollock</bowler>
           <non_striker>TM Dilshan</non_striker>
+          <replacements>
+            <match>
+              <match>
+                <in>HMCM Bandara</in>
+                <out>CRD Fernando</out>
+                <reason>supersub</reason>
+                <team>Sri Lanka</team>
+              </match>
+            </match>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
             <total>0</total>
           </runs>
-          <supersub>
-            <supersub>
-              <in>HMCM Bandara</in>
-              <out>CRD Fernando</out>
-              <team>Sri Lanka</team>
-            </supersub>
-          </supersub>
           <wickets>
             <wicket>
               <fielders>
@@ -3491,18 +3504,21 @@
           <batsman>TM Dilshan</batsman>
           <bowler>JJ van der Wath</bowler>
           <non_striker>HMCM Bandara</non_striker>
+          <replacements>
+            <match>
+              <match>
+                <in>J Botha</in>
+                <out>CK Langeveldt</out>
+                <reason>supersub</reason>
+                <team>South Africa</team>
+              </match>
+            </match>
+          </replacements>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>
             <total>1</total>
           </runs>
-          <supersub>
-            <supersub>
-              <in>J Botha</in>
-              <out>CK Langeveldt</out>
-              <team>South Africa</team>
-            </supersub>
-          </supersub>
           <wickets>
             <wicket>
               <fielders>

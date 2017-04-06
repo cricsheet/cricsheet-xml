@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2013-02-20</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Johannesburg</city>
@@ -827,6 +827,15 @@
           <batsman>JM Kemp</batsman>
           <bowler>SR Tendulkar</bowler>
           <non_striker>JA Morkel</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>SR Tendulkar</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>4</batsman>
             <extras>0</extras>

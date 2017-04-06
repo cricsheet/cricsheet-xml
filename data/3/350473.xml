@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
-    <created>2013-01-31</created>
-    <revision>2</revision>
+    <data_version>0.9</data_version>
+    <created>2011-09-04</created>
+    <revision>4</revision>
   </meta>
   <info>
     <city>Durban</city>
@@ -9878,6 +9878,16 @@
           <batsman>MV Boucher</batsman>
           <bowler>MG Johnson</bowler>
           <non_striker>JP Duminy</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>MV Boucher</in>
+                <out>JH Kallis</out>
+                <reason>injury</reason>
+                <role>batter</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2012-07-13</created>
-    <revision>1</revision>
+    <revision>3</revision>
   </meta>
   <info>
     <city>Chandigarh</city>
@@ -482,7 +482,17 @@
           <ball>5</ball>
           <batsman>SE Marsh</batsman>
           <bowler>JH Kallis</bowler>
-          <non_striker>AC Gilchrist</non_striker>
+          <non_striker>Mandeep Singh</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>Mandeep Singh</in>
+                <out>AC Gilchrist</out>
+                <reason>injury</reason>
+                <role>batter</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>

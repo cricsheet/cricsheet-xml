@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2015-05-23</created>
-    <revision>2</revision>
+    <revision>3</revision>
   </meta>
   <info>
     <city>Colombo</city>
@@ -20,6 +20,9 @@
       <winner>Sri Lanka</winner>
     </outcome>
     <overs>20</overs>
+    <player_of_match>
+      <player_of_match>SS Weerakkody</player_of_match>
+    </player_of_match>
     <teams>
       <team>Sri Lanka</team>
       <team>West Indies</team>
@@ -418,7 +421,7 @@
           <over>5</over>
           <ball>1</ball>
           <batsman>SR Taylor</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>B Cooper</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -430,7 +433,7 @@
           <over>5</over>
           <ball>2</ball>
           <batsman>B Cooper</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>SR Taylor</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -442,7 +445,7 @@
           <over>5</over>
           <ball>3</ball>
           <batsman>B Cooper</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>SR Taylor</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -454,7 +457,7 @@
           <over>5</over>
           <ball>4</ball>
           <batsman>B Cooper</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>SR Taylor</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -466,7 +469,7 @@
           <over>5</over>
           <ball>5</ball>
           <batsman>B Cooper</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>SR Taylor</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -478,7 +481,7 @@
           <over>5</over>
           <ball>6</ball>
           <batsman>B Cooper</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <extras>
             <wides>1</wides>
           </extras>
@@ -493,7 +496,7 @@
           <over>5</over>
           <ball>7</ball>
           <batsman>B Cooper</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>SR Taylor</non_striker>
           <runs>
             <batsman>4</batsman>
@@ -898,7 +901,7 @@
           <over>11</over>
           <ball>1</ball>
           <batsman>MR Aguilleira</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>SR Taylor</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -910,7 +913,7 @@
           <over>11</over>
           <ball>2</ball>
           <batsman>SR Taylor</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>MR Aguilleira</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -922,7 +925,7 @@
           <over>11</over>
           <ball>3</ball>
           <batsman>SR Taylor</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>MR Aguilleira</non_striker>
           <runs>
             <batsman>2</batsman>
@@ -934,7 +937,7 @@
           <over>11</over>
           <ball>4</ball>
           <batsman>SR Taylor</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>MR Aguilleira</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -946,7 +949,7 @@
           <over>11</over>
           <ball>5</ball>
           <batsman>MR Aguilleira</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>SR Taylor</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -958,7 +961,7 @@
           <over>11</over>
           <ball>6</ball>
           <batsman>SR Taylor</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>MR Aguilleira</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -1129,7 +1132,7 @@
           <over>14</over>
           <ball>1</ball>
           <batsman>MR Aguilleira</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>SR Taylor</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -1141,7 +1144,7 @@
           <over>14</over>
           <ball>2</ball>
           <batsman>MR Aguilleira</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>SR Taylor</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -1153,7 +1156,7 @@
           <over>14</over>
           <ball>3</ball>
           <batsman>SR Taylor</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>MR Aguilleira</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -1165,7 +1168,7 @@
           <over>14</over>
           <ball>4</ball>
           <batsman>MR Aguilleira</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>SR Taylor</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -1177,7 +1180,7 @@
           <over>14</over>
           <ball>5</ball>
           <batsman>MR Aguilleira</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>SR Taylor</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -1189,7 +1192,7 @@
           <over>14</over>
           <ball>6</ball>
           <batsman>SR Taylor</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>MR Aguilleira</non_striker>
           <runs>
             <batsman>2</batsman>
@@ -1426,7 +1429,7 @@
           <over>18</over>
           <ball>1</ball>
           <batsman>CA Henry</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>MR Aguilleira</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -1438,7 +1441,7 @@
           <over>18</over>
           <ball>2</ball>
           <batsman>MR Aguilleira</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>CA Henry</non_striker>
           <runs>
             <batsman>4</batsman>
@@ -1450,7 +1453,7 @@
           <over>18</over>
           <ball>3</ball>
           <batsman>MR Aguilleira</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>CA Henry</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -1462,7 +1465,7 @@
           <over>18</over>
           <ball>4</ball>
           <batsman>MR Aguilleira</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>CA Henry</non_striker>
           <runs>
             <batsman>1</batsman>
@@ -1474,7 +1477,7 @@
           <over>18</over>
           <ball>5</ball>
           <batsman>CA Henry</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>MR Aguilleira</non_striker>
           <runs>
             <batsman>0</batsman>
@@ -1486,7 +1489,7 @@
           <over>18</over>
           <ball>6</ball>
           <batsman>CA Henry</batsman>
-          <bowler>HM Samuddika</bowler>
+          <bowler>HAM Samuddika</bowler>
           <non_striker>MR Aguilleira</non_striker>
           <runs>
             <batsman>2</batsman>

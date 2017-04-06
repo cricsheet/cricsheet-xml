@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2014-01-04</created>
-    <revision>3</revision>
+    <revision>4</revision>
   </meta>
   <info>
     <city>Dunedin</city>
@@ -7337,6 +7337,15 @@
           <batsman>BJ Watling</batsman>
           <bowler>ST Gabriel</bowler>
           <non_striker>LRPL Taylor</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>ST Gabriel</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

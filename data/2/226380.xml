@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2016-06-26</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <dates>
@@ -21,6 +21,16 @@
     <player_of_match>
       <player_of_match>ST Jayasuriya</player_of_match>
     </player_of_match>
+    <supersubs>
+      <supersub>
+        <team>Australia</team>
+        <player>GB Hogg</player>
+      </supersub>
+      <supersub>
+        <team>Sri Lanka</team>
+        <player>HMCM Bandara</player>
+      </supersub>
+    </supersubs>
     <teams>
       <team>Australia</team>
       <team>Sri Lanka</team>
@@ -1480,18 +1490,21 @@
           <batsman>KC Sangakkara</batsman>
           <bowler>A Symonds</bowler>
           <non_striker>ST Jayasuriya</non_striker>
+          <replacements>
+            <match>
+              <match>
+                <in>GB Hogg</in>
+                <out>BR Dorey</out>
+                <reason>supersub</reason>
+                <team>Australia</team>
+              </match>
+            </match>
+          </replacements>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>
             <total>1</total>
           </runs>
-          <supersub>
-            <supersub>
-              <in>GB Hogg</in>
-              <out>BR Dorey</out>
-              <team>Australia</team>
-            </supersub>
-          </supersub>
         </delivery>
         <delivery>
           <over>19</over>
@@ -3791,18 +3804,21 @@
           <batsman>DR Martyn</batsman>
           <bowler>WPUJC Vaas</bowler>
           <non_striker>SM Katich</non_striker>
+          <replacements>
+            <match>
+              <match>
+                <in>HMCM Bandara</in>
+                <out>RP Arnold</out>
+                <reason>supersub</reason>
+                <team>Sri Lanka</team>
+              </match>
+            </match>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
             <total>0</total>
           </runs>
-          <supersub>
-            <supersub>
-              <in>HMCM Bandara</in>
-              <out>RP Arnold</out>
-              <team>Sri Lanka</team>
-            </supersub>
-          </supersub>
         </delivery>
         <delivery>
           <over>0</over>

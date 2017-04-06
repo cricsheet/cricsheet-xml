@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2015-09-17</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Chennai</city>
@@ -4420,6 +4420,15 @@
             <wides>2</wides>
           </extras>
           <non_striker>HH Dippenaar</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>DPMD Jayawardene</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>2</extras>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2016-06-26</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Melbourne</city>
@@ -22,6 +22,16 @@
     <player_of_match>
       <player_of_match>MEK Hussey</player_of_match>
     </player_of_match>
+    <supersubs>
+      <supersub>
+        <team>Australia</team>
+        <player>JR Hopes</player>
+      </supersub>
+      <supersub>
+        <team>South Africa</team>
+        <player>J Botha</player>
+      </supersub>
+    </supersubs>
     <teams>
       <team>Australia</team>
       <team>South Africa</team>
@@ -1937,18 +1947,21 @@
           <batsman>DR Martyn</batsman>
           <bowler>SM Pollock</bowler>
           <non_striker>RT Ponting</non_striker>
+          <replacements>
+            <match>
+              <match>
+                <in>J Botha</in>
+                <out>CK Langeveldt</out>
+                <reason>supersub</reason>
+                <team>South Africa</team>
+              </match>
+            </match>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
             <total>0</total>
           </runs>
-          <supersub>
-            <supersub>
-              <in>J Botha</in>
-              <out>CK Langeveldt</out>
-              <team>South Africa</team>
-            </supersub>
-          </supersub>
         </delivery>
         <delivery>
           <over>25</over>
@@ -4708,18 +4721,21 @@
           <batsman>JA Rudolph</batsman>
           <bowler>BR Dorey</bowler>
           <non_striker>HH Gibbs</non_striker>
+          <replacements>
+            <match>
+              <match>
+                <in>JR Hopes</in>
+                <out>DR Martyn</out>
+                <reason>supersub</reason>
+                <team>Australia</team>
+              </match>
+            </match>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
             <total>0</total>
           </runs>
-          <supersub>
-            <supersub>
-              <in>JR Hopes</in>
-              <out>DR Martyn</out>
-              <team>Australia</team>
-            </supersub>
-          </supersub>
         </delivery>
         <delivery>
           <over>12</over>

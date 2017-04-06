@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2011-11-21</created>
-    <revision>1</revision>
+    <revision>3</revision>
   </meta>
   <info>
     <city>Johannesburg</city>
@@ -1439,6 +1439,15 @@
           <batsman>HM Amla</batsman>
           <bowler>MG Johnson</bowler>
           <non_striker>JH Kallis</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>MG Johnson</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

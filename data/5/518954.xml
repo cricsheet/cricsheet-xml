@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2012-04-16</created>
-    <revision>1</revision>
+    <revision>3</revision>
   </meta>
   <info>
     <city>Sydney</city>
@@ -695,6 +695,15 @@
           <batsman>TR Birt</batsman>
           <bowler>RG Sharma</bowler>
           <non_striker>MS Wade</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>RG Sharma</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>

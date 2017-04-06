@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2016-08-03</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Voorburg</city>
@@ -2905,6 +2905,15 @@
           <batsman>PM Seelaar</batsman>
           <bowler>Asghar Stanikzai</bowler>
           <non_striker>PA van Meekeren</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>Asghar Stanikzai</in>
+                <reason>unknown</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2011-05-08</created>
-    <revision>1</revision>
+    <revision>3</revision>
   </meta>
   <info>
     <city>Mumbai</city>
@@ -3154,6 +3154,16 @@
           <batsman>M Morkel</batsman>
           <bowler>KA Pollard</bowler>
           <non_striker>AB Agarkar</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>KA Pollard</in>
+                <out>SL Malinga</out>
+                <reason>excluded - high full pitched balls</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>2</batsman>
             <extras>0</extras>

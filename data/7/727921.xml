@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2014-10-17</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <dates>
@@ -5735,6 +5735,15 @@
           <batsman>GJ Maxwell</batsman>
           <bowler>Ahmed Shehzad</bowler>
           <non_striker>GJ Bailey</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>Ahmed Shehzad</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>

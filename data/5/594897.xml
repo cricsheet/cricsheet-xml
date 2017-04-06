@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2014-06-08</created>
     <revision>2</revision>
   </meta>
@@ -6658,6 +6658,15 @@
           <batsman>H Kaur</batsman>
           <bowler>LA Marsh</bowler>
           <non_striker>J Goswami</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>LA Marsh</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>4</batsman>
             <extras>0</extras>

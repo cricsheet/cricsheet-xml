@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2015-02-21</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Canberra</city>
@@ -2463,6 +2463,15 @@
           <batsman>Mushfiqur Rahim</batsman>
           <bowler>Javed Ahmadi</bowler>
           <non_striker>Shakib Al Hasan</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>Javed Ahmadi</in>
+                <reason>excluded - running on the pitch</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>

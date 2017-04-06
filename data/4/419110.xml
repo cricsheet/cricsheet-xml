@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2011-04-29</created>
-    <revision>1</revision>
+    <revision>3</revision>
   </meta>
   <info>
     <city>Chennai</city>
@@ -1687,6 +1687,15 @@
           <batsman>RG Sharma</batsman>
           <bowler>JM Kemp</bowler>
           <non_striker>TL Suman</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>JM Kemp</in>
+                <reason>excluded - high full pitched balls</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>

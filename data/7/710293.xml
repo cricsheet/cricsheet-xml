@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2014-03-01</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Fatullah</city>
@@ -2993,6 +2993,15 @@
           <batsman>Mushfiqur Rahim</batsman>
           <bowler>V Kohli</bowler>
           <non_striker>Naeem Islam</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>V Kohli</in>
+                <reason>excluded - high full pitched balls</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>

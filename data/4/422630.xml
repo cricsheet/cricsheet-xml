@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2009-11-06</created>
-    <revision>1</revision>
+    <revision>3</revision>
   </meta>
   <info>
     <city>Chittagong</city>
@@ -3917,6 +3917,16 @@
           <batsman>Mohammad Ashraful</batsman>
           <bowler>RW Price</bowler>
           <non_striker>Junaid Siddique</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>Mohammad Ashraful</in>
+                <out>Tamim Iqbal</out>
+                <reason>injury</reason>
+                <role>batter</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

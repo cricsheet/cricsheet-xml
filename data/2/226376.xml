@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2016-06-26</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Melbourne</city>
@@ -22,6 +22,16 @@
     <player_of_match>
       <player_of_match>B Lee</player_of_match>
     </player_of_match>
+    <supersubs>
+      <supersub>
+        <team>Australia</team>
+        <player>GB Hogg</player>
+      </supersub>
+      <supersub>
+        <team>South Africa</team>
+        <player>JJ van der Wath</player>
+      </supersub>
+    </supersubs>
     <teams>
       <team>Australia</team>
       <team>South Africa</team>
@@ -1538,18 +1548,21 @@
           <batsman>PA Jaques</batsman>
           <bowler>GJP Kruger</bowler>
           <non_striker>MJ Clarke</non_striker>
+          <replacements>
+            <match>
+              <match>
+                <in>JJ van der Wath</in>
+                <out>DW Steyn</out>
+                <reason>supersub</reason>
+                <team>South Africa</team>
+              </match>
+            </match>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
             <total>0</total>
           </runs>
-          <supersub>
-            <supersub>
-              <in>JJ van der Wath</in>
-              <out>DW Steyn</out>
-              <team>South Africa</team>
-            </supersub>
-          </supersub>
         </delivery>
         <delivery>
           <over>18</over>
@@ -5394,18 +5407,21 @@
           <batsman>HH Dippenaar</batsman>
           <bowler>BR Dorey</bowler>
           <non_striker>HH Gibbs</non_striker>
+          <replacements>
+            <match>
+              <match>
+                <in>GB Hogg</in>
+                <out>PA Jaques</out>
+                <reason>supersub</reason>
+                <team>Australia</team>
+              </match>
+            </match>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
             <total>0</total>
           </runs>
-          <supersub>
-            <supersub>
-              <in>GB Hogg</in>
-              <out>PA Jaques</out>
-              <team>Australia</team>
-            </supersub>
-          </supersub>
         </delivery>
         <delivery>
           <over>20</over>

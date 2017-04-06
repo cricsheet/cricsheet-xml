@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2015-04-27</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Grenada</city>
@@ -27275,6 +27275,15 @@
           <batsman>GS Ballance</batsman>
           <bowler>MN Samuels</bowler>
           <non_striker>AN Cook</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>MN Samuels</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

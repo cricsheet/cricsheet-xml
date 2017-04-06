@@ -1,0 +1,3167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2017-04-02</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <competition>Big Bash League</competition>
+    <dates>
+      <date>2015-12-18</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>T20</match_type>
+    <outcome>
+      <by>
+        <runs>19</runs>
+      </by>
+      <winner>Adelaide Strikers</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>AI Ross</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Adelaide Strikers</team>
+      <team>Melbourne Stars</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Melbourne Stars</winner>
+    </toss>
+    <umpires>
+      <umpire>GA Abood</umpire>
+      <umpire>MW Graham-Smith</umpire>
+    </umpires>
+    <venue>Adelaide Oval</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Adelaide Strikers</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>CJ Simmons</batsman>
+          <bowler>MA Beer</bowler>
+          <non_striker>TP Ludeman</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>TP Ludeman</batsman>
+          <bowler>MA Beer</bowler>
+          <non_striker>CJ Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>CJ Simmons</batsman>
+          <bowler>MA Beer</bowler>
+          <non_striker>TP Ludeman</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>CJ Simmons</batsman>
+          <bowler>MA Beer</bowler>
+          <non_striker>TP Ludeman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>CJ Simmons</batsman>
+          <bowler>MA Beer</bowler>
+          <non_striker>TP Ludeman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>CJ Simmons</batsman>
+          <bowler>MA Beer</bowler>
+          <non_striker>TP Ludeman</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>TP Ludeman</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>CJ Simmons</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>TP Ludeman</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>CJ Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>TP Ludeman</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>CJ Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>TP Ludeman</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>CJ Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>TP Ludeman</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>CJ Simmons</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>CJ Simmons</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>TP Ludeman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>TP Ludeman</batsman>
+          <bowler>SM Boland</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>CJ Simmons</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>CJ Simmons</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>TP Ludeman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>JW Hastings</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>CJ Simmons</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>TP Ludeman</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>DPMD Jayawardene</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>TP Ludeman</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>DPMD Jayawardene</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>TP Ludeman</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>DPMD Jayawardene</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>TP Ludeman</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>DPMD Jayawardene</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>DPMD Jayawardene</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>TP Ludeman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>DPMD Jayawardene</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>TP Ludeman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>DPMD Jayawardene</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>TP Ludeman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>DPMD Jayawardene</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>TP Ludeman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>DPMD Jayawardene</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>TP Ludeman</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>TP Ludeman</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>DPMD Jayawardene</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>DPMD Jayawardene</batsman>
+          <bowler>MA Beer</bowler>
+          <non_striker>TP Ludeman</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>TP Ludeman</batsman>
+          <bowler>MA Beer</bowler>
+          <non_striker>DPMD Jayawardene</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>TP Ludeman</batsman>
+          <bowler>MA Beer</bowler>
+          <non_striker>DPMD Jayawardene</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>TP Ludeman</batsman>
+          <bowler>MA Beer</bowler>
+          <non_striker>DPMD Jayawardene</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>PSP Handscomb</fielder>
+              </fielders>
+              <kind>stumped</kind>
+              <player_out>TP Ludeman</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>TM Head</batsman>
+          <bowler>MA Beer</bowler>
+          <non_striker>DPMD Jayawardene</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>DPMD Jayawardene</batsman>
+          <bowler>MA Beer</bowler>
+          <non_striker>TM Head</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>DPMD Jayawardene</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>TM Head</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>PSP Handscomb</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>DPMD Jayawardene</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>TM Head</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>JP Faulkner</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>TM Head</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>TM Head</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>TM Head</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>TM Head</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>TM Head</batsman>
+          <bowler>A Zampa</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>A Zampa</bowler>
+          <non_striker>TM Head</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>TM Head</batsman>
+          <bowler>A Zampa</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>TM Head</batsman>
+          <bowler>A Zampa</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>TM Head</batsman>
+          <bowler>A Zampa</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>A Zampa</bowler>
+          <non_striker>TM Head</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>7</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>A Zampa</bowler>
+          <non_striker>TM Head</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>TM Head</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>TM Head</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>TM Head</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>TM Head</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>TM Head</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>TM Head</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>A Zampa</bowler>
+          <non_striker>TM Head</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>TM Head</batsman>
+          <bowler>A Zampa</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>TM Head</batsman>
+          <bowler>A Zampa</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>TM Head</batsman>
+          <bowler>A Zampa</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>A Zampa</bowler>
+          <non_striker>TM Head</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>TM Head</batsman>
+          <bowler>A Zampa</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>TM Head</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>JW Hastings</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>TM Head</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>TM Head</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>TM Head</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>PSP Handscomb</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>TM Head</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>A Zampa</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>A Zampa</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>A Zampa</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>A Zampa</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>A Zampa</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>A Zampa</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>MA Beer</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>MA Beer</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>MA Beer</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>MA Beer</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>MA Beer</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>MA Beer</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>A Zampa</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>A Zampa</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>A Zampa</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>A Zampa</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>A Zampa</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>A Zampa</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>MA Beer</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>MA Beer</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>MA Beer</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>MA Beer</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>MA Beer</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>MA Beer</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>7</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>MA Beer</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>8</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>MA Beer</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>JW Hastings</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>7</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>AI Ross</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>MG Neser</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>BJ Hodge</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>MG Neser</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>MG Neser</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>MG Neser</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>BJ Hodge</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Melbourne Stars</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>LJ Wright</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>LJ Wright</batsman>
+          <bowler>JM Holland</bowler>
+          <extras>
+            <byes>2</byes>
+          </extras>
+          <non_striker>MP Stoinis</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>LJ Wright</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>MP Stoinis</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>LJ Wright</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>MP Stoinis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>LJ Wright</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>LJ Wright</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>MP Stoinis</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>LJ Wright</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>LJ Wright</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>LJ Wright</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>MP Stoinis</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>LJ Wright</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>MP Stoinis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>LJ Wright</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>LJ Wright</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>MP Stoinis</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>LJ Wright</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>LJ Wright</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>LJ Wright</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>LJ Wright</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>LJ Wright</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>LJ Wright</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>LJ Wright</batsman>
+          <bowler>MG Neser</bowler>
+          <non_striker>MP Stoinis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>MG Neser</bowler>
+          <non_striker>LJ Wright</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>MG Neser</bowler>
+          <non_striker>LJ Wright</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>MG Neser</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>LJ Wright</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>MG Neser</bowler>
+          <non_striker>LJ Wright</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>MG Neser</bowler>
+          <non_striker>LJ Wright</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>7</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>MG Neser</bowler>
+          <non_striker>LJ Wright</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>LJ Wright</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>MP Stoinis</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>LJ Wright</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>MP Stoinis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>LJ Wright</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>LJ Wright</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>MP Stoinis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>LJ Wright</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>LJ Wright</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>B Laughlin</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>LJ Wright</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>B Laughlin</bowler>
+          <non_striker>LJ Wright</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>B Laughlin</bowler>
+          <non_striker>LJ Wright</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>B Laughlin</bowler>
+          <non_striker>LJ Wright</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>B Laughlin</bowler>
+          <non_striker>LJ Wright</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>B Laughlin</bowler>
+          <non_striker>LJ Wright</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>7</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>B Laughlin</bowler>
+          <non_striker>LJ Wright</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>LJ Wright</batsman>
+          <bowler>AU Rashid</bowler>
+          <non_striker>MP Stoinis</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>hit wicket</kind>
+              <player_out>LJ Wright</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>AU Rashid</bowler>
+          <extras>
+            <wides>4</wides>
+          </extras>
+          <non_striker>MP Stoinis</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>4</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>AU Rashid</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>AU Rashid</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>AU Rashid</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>AU Rashid</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>7</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>AU Rashid</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>MP Stoinis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>MP Stoinis</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>MP Stoinis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>MP Stoinis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>AU Rashid</bowler>
+          <non_striker>MP Stoinis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>AU Rashid</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>AU Rashid</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>AU Rashid</bowler>
+          <non_striker>MP Stoinis</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>AU Rashid</bowler>
+          <non_striker>MP Stoinis</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>AU Rashid</bowler>
+          <non_striker>MP Stoinis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>MG Neser</bowler>
+          <non_striker>MP Stoinis</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>MG Neser</bowler>
+          <non_striker>MP Stoinis</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>MG Neser</bowler>
+          <non_striker>MP Stoinis</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>MG Neser</bowler>
+          <non_striker>MP Stoinis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>MG Neser</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>MG Neser</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>CJ Simmons</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>CJ Simmons</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>CJ Simmons</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>CJ Simmons</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>CJ Simmons</bowler>
+          <non_striker>MP Stoinis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>CJ Simmons</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>MP Stoinis</batsman>
+          <bowler>B Laughlin</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>KW Richardson</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>MP Stoinis</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>B Laughlin</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>GJ Maxwell</batsman>
+          <bowler>B Laughlin</bowler>
+          <non_striker>KP Pietersen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>B Laughlin</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>B Laughlin</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>KP Pietersen</batsman>
+          <bowler>B Laughlin</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>TM Head</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>KP Pietersen</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>GJ Maxwell</batsman>
+          <bowler>AU Rashid</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>AU Rashid</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>AU Rashid</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>GJ Maxwell</batsman>
+          <bowler>AU Rashid</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>AU Rashid</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>GJ Maxwell</batsman>
+          <bowler>AU Rashid</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>MG Neser</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>MG Neser</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>MG Neser</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>GJ Maxwell</batsman>
+          <bowler>MG Neser</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>GJ Maxwell</batsman>
+          <bowler>MG Neser</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>MG Neser</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>GJ Maxwell</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>GJ Maxwell</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>GJ Maxwell</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>DJ Hussey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>DJ Hussey</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>DPMD Jayawardene</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>DJ Hussey</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>GJ Maxwell</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>JP Faulkner</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>GJ Maxwell</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>JP Faulkner</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>JP Faulkner</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>GJ Maxwell</batsman>
+          <bowler>AU Rashid</bowler>
+          <non_striker>JP Faulkner</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>KW Richardson</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>GJ Maxwell</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>JP Faulkner</batsman>
+          <bowler>AU Rashid</bowler>
+          <non_striker>PSP Handscomb</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>JP Faulkner</batsman>
+          <bowler>AU Rashid</bowler>
+          <non_striker>PSP Handscomb</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>PSP Handscomb</batsman>
+          <bowler>AU Rashid</bowler>
+          <non_striker>JP Faulkner</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>PSP Handscomb</batsman>
+          <bowler>AU Rashid</bowler>
+          <non_striker>JP Faulkner</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>JP Faulkner</batsman>
+          <bowler>AU Rashid</bowler>
+          <non_striker>PSP Handscomb</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>PSP Handscomb</batsman>
+          <bowler>B Laughlin</bowler>
+          <non_striker>JP Faulkner</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>JP Faulkner</batsman>
+          <bowler>B Laughlin</bowler>
+          <non_striker>PSP Handscomb</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>JP Faulkner</batsman>
+          <bowler>B Laughlin</bowler>
+          <non_striker>PSP Handscomb</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>JP Faulkner</batsman>
+          <bowler>B Laughlin</bowler>
+          <non_striker>PSP Handscomb</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>JP Faulkner</batsman>
+          <bowler>B Laughlin</bowler>
+          <non_striker>PSP Handscomb</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>PSP Handscomb</batsman>
+          <bowler>B Laughlin</bowler>
+          <non_striker>JP Faulkner</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>JP Faulkner</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>PSP Handscomb</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>PSP Handscomb</batsman>
+          <bowler>KW Richardson</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>JP Faulkner</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>PSP Handscomb</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>JP Faulkner</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>B Laughlin</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>PSP Handscomb</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>JP Faulkner</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>A Zampa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>A Zampa</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>JP Faulkner</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>A Zampa</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>JW Hastings</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>JP Faulkner</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>7</ball>
+          <batsman>JW Hastings</batsman>
+          <bowler>KW Richardson</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>JP Faulkner</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>JW Hastings</batsman>
+          <bowler>B Laughlin</bowler>
+          <non_striker>JP Faulkner</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>JW Hastings</batsman>
+          <bowler>B Laughlin</bowler>
+          <non_striker>JP Faulkner</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>JW Hastings</batsman>
+          <bowler>B Laughlin</bowler>
+          <non_striker>JP Faulkner</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>JW Hastings</batsman>
+          <bowler>B Laughlin</bowler>
+          <non_striker>JP Faulkner</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>JW Hastings</batsman>
+          <bowler>B Laughlin</bowler>
+          <non_striker>JP Faulkner</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>JW Hastings</batsman>
+          <bowler>B Laughlin</bowler>
+          <non_striker>JP Faulkner</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2010-01-06</created>
-    <revision>1</revision>
+    <revision>3</revision>
   </meta>
   <info>
     <dates>
@@ -16873,6 +16873,15 @@
           <batsman>PM Siddle</batsman>
           <bowler>Mohammad Sami</bowler>
           <non_striker>MEK Hussey</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>Mohammad Sami</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

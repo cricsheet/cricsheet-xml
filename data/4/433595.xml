@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2011-04-25</created>
-    <revision>1</revision>
+    <revision>3</revision>
   </meta>
   <info>
     <city>Kolkata</city>
@@ -168,6 +168,16 @@
           <batsman>TLW Cooper</batsman>
           <bowler>DT Johnston</bowler>
           <non_striker>RN ten Doeschate</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>RN ten Doeschate</in>
+                <out>W Barresi</out>
+                <reason>injury</reason>
+                <role>batter</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
@@ -1524,6 +1534,15 @@
           <batsman>RN ten Doeschate</batsman>
           <bowler>AR Cusack</bowler>
           <non_striker>W Barresi</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>AR Cusack</in>
+                <reason>injury</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2016-06-26</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <dates>
@@ -21,6 +21,12 @@
     <player_of_match>
       <player_of_match>A Symonds</player_of_match>
     </player_of_match>
+    <supersubs>
+      <supersub>
+        <team>Sri Lanka</team>
+        <player>HMCM Bandara</player>
+      </supersub>
+    </supersubs>
     <teams>
       <team>Australia</team>
       <team>Sri Lanka</team>
@@ -5449,18 +5455,21 @@
           <batsman>DR Martyn</batsman>
           <bowler>HMCM Bandara</bowler>
           <non_striker>SM Katich</non_striker>
+          <replacements>
+            <match>
+              <match>
+                <in>HMCM Bandara</in>
+                <out>MS Atapattu</out>
+                <reason>supersub</reason>
+                <team>Sri Lanka</team>
+              </match>
+            </match>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
             <total>0</total>
           </runs>
-          <supersub>
-            <supersub>
-              <in>HMCM Bandara</in>
-              <out>MS Atapattu</out>
-              <team>Sri Lanka</team>
-            </supersub>
-          </supersub>
         </delivery>
         <delivery>
           <over>21</over>

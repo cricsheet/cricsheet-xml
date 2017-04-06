@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2014-06-08</created>
     <revision>2</revision>
   </meta>
@@ -5493,6 +5493,16 @@
           <batsman>MR Aguilleira</batsman>
           <bowler>EA Osborne</bowler>
           <non_striker>DJS Dottin</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>DJS Dottin</in>
+                <out>Kyshona A Knight</out>
+                <reason>injury</reason>
+                <role>batter</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

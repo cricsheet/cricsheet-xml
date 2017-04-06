@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2016-06-22</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Auckland</city>
@@ -22,6 +22,16 @@
     <player_of_match>
       <player_of_match>DR Smith</player_of_match>
     </player_of_match>
+    <supersubs>
+      <supersub>
+        <team>New Zealand</team>
+        <player>JS Patel</player>
+      </supersub>
+      <supersub>
+        <team>West Indies</team>
+        <player>RN Lewis</player>
+      </supersub>
+    </supersubs>
     <teams>
       <team>New Zealand</team>
       <team>West Indies</team>
@@ -3848,18 +3858,21 @@
           <batsman>CH Gayle</batsman>
           <bowler>KD Mills</bowler>
           <non_striker>D Ganga</non_striker>
+          <replacements>
+            <match>
+              <match>
+                <in>RN Lewis</in>
+                <out>FH Edwards</out>
+                <reason>supersub</reason>
+                <team>West Indies</team>
+              </match>
+            </match>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
             <total>0</total>
           </runs>
-          <supersub>
-            <supersub>
-              <in>RN Lewis</in>
-              <out>FH Edwards</out>
-              <team>West Indies</team>
-            </supersub>
-          </supersub>
         </delivery>
         <delivery>
           <over>0</over>
@@ -4956,18 +4969,21 @@
           <batsman>RS Morton</batsman>
           <bowler>JEC Franklin</bowler>
           <non_striker>D Ganga</non_striker>
+          <replacements>
+            <match>
+              <match>
+                <in>JS Patel</in>
+                <out>PG Fulton</out>
+                <reason>supersub</reason>
+                <team>New Zealand</team>
+              </match>
+            </match>
+          </replacements>
           <runs>
             <batsman>1</batsman>
             <extras>0</extras>
             <total>1</total>
           </runs>
-          <supersub>
-            <supersub>
-              <in>JS Patel</in>
-              <out>PG Fulton</out>
-              <team>New Zealand</team>
-            </supersub>
-          </supersub>
         </delivery>
         <delivery>
           <over>15</over>

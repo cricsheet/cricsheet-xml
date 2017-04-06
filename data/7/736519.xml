@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricsheet>
   <meta>
-    <data_version>0.8</data_version>
+    <data_version>0.9</data_version>
     <created>2014-05-06</created>
-    <revision>2</revision>
+    <revision>4</revision>
   </meta>
   <info>
     <city>Kuala Lumpur</city>
@@ -31,8 +31,8 @@
       <winner>United Arab Emirates</winner>
     </toss>
     <umpires>
+      <umpire>UK Brahmanage</umpire>
       <umpire>VK Jha</umpire>
-      <umpire>U Kaluhetti</umpire>
     </umpires>
     <venue>Kinrara Academy Oval</venue>
   </info>
@@ -569,7 +569,7 @@
         <delivery>
           <over>6</over>
           <ball>4</ball>
-          <batsman>Ahmed Faiz</batsman>
+          <batsman>Ahmed Faiz Mohammad Noor</batsman>
           <bowler>Mohammad Naveed</bowler>
           <non_striker>Anwar Arudin</non_striker>
           <runs>
@@ -583,7 +583,7 @@
                 <fielder>SP Patil</fielder>
               </fielders>
               <kind>caught</kind>
-              <player_out>Ahmed Faiz</player_out>
+              <player_out>Ahmed Faiz Mohammad Noor</player_out>
             </wicket>
           </wickets>
         </delivery>
