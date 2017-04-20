@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2017-04-20</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Hobart</city>
+    <competition>Big Bash League</competition>
+    <dates>
+      <date>2013-12-22</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>T20</match_type>
+    <outcome>
+      <result>no result</result>
+    </outcome>
+    <overs>20</overs>
+    <teams>
+      <team>Hobart Hurricanes</team>
+      <team>Adelaide Strikers</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Hobart Hurricanes</winner>
+    </toss>
+    <umpires>
+      <umpire>MD Martell</umpire>
+      <umpire>SJ Nogajski</umpire>
+    </umpires>
+    <venue>Bellerive Oval</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Adelaide Strikers</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>M Klinger</batsman>
+          <bowler>JM Mennie</bowler>
+          <non_striker>AD Hales</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>M Klinger</batsman>
+          <bowler>JM Mennie</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>AD Hales</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>AD Hales</batsman>
+          <bowler>JM Mennie</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>M Klinger</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>M Klinger</batsman>
+          <bowler>JM Mennie</bowler>
+          <non_striker>AD Hales</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>M Klinger</batsman>
+          <bowler>JM Mennie</bowler>
+          <non_striker>AD Hales</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>AD Hales</batsman>
+          <bowler>JM Mennie</bowler>
+          <non_striker>M Klinger</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>M Klinger</batsman>
+          <bowler>DE Bollinger</bowler>
+          <non_striker>AD Hales</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>M Klinger</batsman>
+          <bowler>DE Bollinger</bowler>
+          <non_striker>AD Hales</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>M Klinger</batsman>
+          <bowler>DE Bollinger</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>AD Hales</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>AD Hales</batsman>
+          <bowler>DE Bollinger</bowler>
+          <non_striker>M Klinger</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>AD Hales</batsman>
+          <bowler>DE Bollinger</bowler>
+          <non_striker>M Klinger</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>AD Hales</batsman>
+          <bowler>DE Bollinger</bowler>
+          <non_striker>M Klinger</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>M Klinger</batsman>
+          <bowler>XJ Doherty</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>AD Hales</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>M Klinger</batsman>
+          <bowler>XJ Doherty</bowler>
+          <non_striker>AD Hales</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>M Klinger</batsman>
+          <bowler>XJ Doherty</bowler>
+          <non_striker>AD Hales</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>M Klinger</batsman>
+          <bowler>XJ Doherty</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>AD Hales</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>AD Hales</batsman>
+          <bowler>XJ Doherty</bowler>
+          <non_striker>M Klinger</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>M Klinger</batsman>
+          <bowler>XJ Doherty</bowler>
+          <non_striker>AD Hales</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>7</ball>
+          <batsman>M Klinger</batsman>
+          <bowler>XJ Doherty</bowler>
+          <non_striker>AD Hales</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>M Klinger</batsman>
+          <bowler>DE Bollinger</bowler>
+          <non_striker>AD Hales</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>AD Hales</batsman>
+          <bowler>DE Bollinger</bowler>
+          <non_striker>M Klinger</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>AD Hales</batsman>
+          <bowler>DE Bollinger</bowler>
+          <non_striker>M Klinger</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>AD Hales</batsman>
+          <bowler>DE Bollinger</bowler>
+          <non_striker>M Klinger</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>AD Hales</batsman>
+          <bowler>DE Bollinger</bowler>
+          <non_striker>M Klinger</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>AD Hales</batsman>
+          <bowler>DE Bollinger</bowler>
+          <non_striker>M Klinger</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>M Klinger</batsman>
+          <bowler>EP Gulbis</bowler>
+          <non_striker>AD Hales</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>AD Hales</batsman>
+          <bowler>EP Gulbis</bowler>
+          <non_striker>M Klinger</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>AD Hales</batsman>
+          <bowler>EP Gulbis</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>M Klinger</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>AD Hales</batsman>
+          <bowler>EP Gulbis</bowler>
+          <non_striker>M Klinger</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>AD Hales</batsman>
+          <bowler>EP Gulbis</bowler>
+          <non_striker>M Klinger</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>AD Hales</batsman>
+          <bowler>EP Gulbis</bowler>
+          <non_striker>M Klinger</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>7</ball>
+          <batsman>AD Hales</batsman>
+          <bowler>EP Gulbis</bowler>
+          <non_striker>M Klinger</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>M Klinger</batsman>
+          <bowler>B Laughlin</bowler>
+          <non_striker>AD Hales</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>M Klinger</batsman>
+          <bowler>B Laughlin</bowler>
+          <non_striker>AD Hales</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>AD Hales</batsman>
+          <bowler>B Laughlin</bowler>
+          <non_striker>M Klinger</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>AD Hales</batsman>
+          <bowler>B Laughlin</bowler>
+          <non_striker>M Klinger</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>AD Hales</batsman>
+          <bowler>B Laughlin</bowler>
+          <non_striker>M Klinger</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>EP Gulbis</fielder>
+                <fielder>B Laughlin</fielder>
+              </fielders>
+              <kind>run out</kind>
+              <player_out>AD Hales</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>M Klinger</batsman>
+          <bowler>B Laughlin</bowler>
+          <non_striker>PJ Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>
