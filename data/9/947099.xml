@@ -1,0 +1,3261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2017-04-30</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Chelmsford</city>
+    <competition>NatWest T20 Blast</competition>
+    <dates>
+      <date>2016-05-20</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>T20</match_type>
+    <outcome>
+      <by>
+        <runs>8</runs>
+      </by>
+      <winner>Surrey</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>Azhar Mahmood</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Essex</team>
+      <team>Surrey</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Essex</winner>
+    </toss>
+    <umpires>
+      <umpire>MJ Saggers</umpire>
+      <umpire>BV Taylor</umpire>
+    </umpires>
+    <venue>County Ground</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Surrey</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>MW Dixon</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>SM Davies</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>SM Davies</batsman>
+          <bowler>MW Dixon</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>SM Davies</batsman>
+          <bowler>MW Dixon</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>MW Dixon</bowler>
+          <non_striker>SM Davies</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>SM Davies</batsman>
+          <bowler>MW Dixon</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>SM Davies</batsman>
+          <bowler>MW Dixon</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <batsman>SM Davies</batsman>
+          <bowler>MW Dixon</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>MR Quinn</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>SM Davies</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>SM Davies</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>MR Quinn</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>SM Davies</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>SM Davies</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>SM Davies</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>RN ten Doeschate</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>SM Davies</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>8</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>MW Dixon</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>MW Dixon</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>MW Dixon</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>MW Dixon</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>MW Dixon</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>MW Dixon</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>GR Napier</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>GR Napier</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>GR Napier</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>GR Napier</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>GR Napier</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>GR Napier</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>RS Bopara</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>JJ Roy</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>RJ Burns</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>RJ Burns</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>RJ Burns</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>RJ Burns</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Wahab Riaz</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>KC Sangakkara</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>GC Wilson</batsman>
+          <bowler>MR Quinn</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RJ Burns</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>7</ball>
+          <batsman>GC Wilson</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>RJ Burns</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>RJ Burns</batsman>
+          <bowler>GR Napier</bowler>
+          <non_striker>GC Wilson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>RJ Burns</batsman>
+          <bowler>GR Napier</bowler>
+          <non_striker>GC Wilson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>RJ Burns</batsman>
+          <bowler>GR Napier</bowler>
+          <non_striker>GC Wilson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>GC Wilson</batsman>
+          <bowler>GR Napier</bowler>
+          <non_striker>RJ Burns</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>GC Wilson</batsman>
+          <bowler>GR Napier</bowler>
+          <non_striker>RJ Burns</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>GC Wilson</batsman>
+          <bowler>GR Napier</bowler>
+          <non_striker>RJ Burns</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>GC Wilson</batsman>
+          <bowler>RS Bopara</bowler>
+          <non_striker>RJ Burns</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>GC Wilson</batsman>
+          <bowler>RS Bopara</bowler>
+          <non_striker>RJ Burns</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>RJ Burns</batsman>
+          <bowler>RS Bopara</bowler>
+          <non_striker>GC Wilson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>GC Wilson</batsman>
+          <bowler>RS Bopara</bowler>
+          <non_striker>RJ Burns</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>RJ Burns</batsman>
+          <bowler>RS Bopara</bowler>
+          <non_striker>GC Wilson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>RJ Burns</batsman>
+          <bowler>RS Bopara</bowler>
+          <non_striker>GC Wilson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>RJ Burns</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>GC Wilson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>GR Napier</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>RJ Burns</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>SM Curran</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>GC Wilson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>SM Curran</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>GC Wilson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>SM Curran</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>GC Wilson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>SM Curran</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>GC Wilson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>GC Wilson</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>SM Curran</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>SM Curran</batsman>
+          <bowler>MW Dixon</bowler>
+          <non_striker>GC Wilson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>SM Curran</batsman>
+          <bowler>MW Dixon</bowler>
+          <non_striker>GC Wilson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>SM Curran</batsman>
+          <bowler>MW Dixon</bowler>
+          <non_striker>GC Wilson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>SM Curran</batsman>
+          <bowler>MW Dixon</bowler>
+          <non_striker>GC Wilson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>GC Wilson</batsman>
+          <bowler>MW Dixon</bowler>
+          <non_striker>SM Curran</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>RN ten Doeschate</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>GC Wilson</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>Azhar Mahmood</batsman>
+          <bowler>MW Dixon</bowler>
+          <non_striker>SM Curran</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>Azhar Mahmood</batsman>
+          <bowler>MR Quinn</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>SM Curran</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>Azhar Mahmood</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>SM Curran</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>SM Curran</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>SM Curran</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>SM Curran</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>RN ten Doeschate</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>SM Curran</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>Azhar Mahmood</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>TK Curran</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>7</ball>
+          <batsman>TK Curran</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>TK Curran</batsman>
+          <bowler>RS Bopara</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>TK Curran</batsman>
+          <bowler>RS Bopara</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>Azhar Mahmood</batsman>
+          <bowler>RS Bopara</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>TK Curran</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>Azhar Mahmood</batsman>
+          <bowler>RS Bopara</bowler>
+          <non_striker>TK Curran</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>TK Curran</batsman>
+          <bowler>RS Bopara</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>Azhar Mahmood</batsman>
+          <bowler>RS Bopara</bowler>
+          <non_striker>TK Curran</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>7</ball>
+          <batsman>TK Curran</batsman>
+          <bowler>RS Bopara</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>Azhar Mahmood</batsman>
+          <bowler>GR Napier</bowler>
+          <non_striker>TK Curran</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>TK Curran</batsman>
+          <bowler>GR Napier</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>TK Curran</batsman>
+          <bowler>GR Napier</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>TK Curran</batsman>
+          <bowler>GR Napier</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>TK Curran</batsman>
+          <bowler>GR Napier</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>Azhar Mahmood</batsman>
+          <bowler>GR Napier</bowler>
+          <non_striker>TK Curran</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>Azhar Mahmood</batsman>
+          <bowler>RS Bopara</bowler>
+          <non_striker>TK Curran</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>TK Curran</batsman>
+          <bowler>RS Bopara</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>TK Curran</batsman>
+          <bowler>RS Bopara</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>TK Curran</batsman>
+          <bowler>RS Bopara</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>TK Curran</batsman>
+          <bowler>RS Bopara</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>Azhar Mahmood</batsman>
+          <bowler>RS Bopara</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>TK Curran</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>7</ball>
+          <batsman>Azhar Mahmood</batsman>
+          <bowler>RS Bopara</bowler>
+          <non_striker>TK Curran</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>Azhar Mahmood</batsman>
+          <bowler>MW Dixon</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>TK Curran</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>Azhar Mahmood</batsman>
+          <bowler>MW Dixon</bowler>
+          <non_striker>TK Curran</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>Azhar Mahmood</batsman>
+          <bowler>MW Dixon</bowler>
+          <non_striker>TK Curran</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>TK Curran</batsman>
+          <bowler>MW Dixon</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>TK Curran</batsman>
+          <bowler>MW Dixon</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>Azhar Mahmood</batsman>
+          <bowler>MW Dixon</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>TK Curran</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>7</ball>
+          <batsman>TK Curran</batsman>
+          <bowler>MW Dixon</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>TK Curran</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>TK Curran</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>TK Curran</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>TK Curran</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>TK Curran</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>Azhar Mahmood</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>TK Curran</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>TK Curran</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>Azhar Mahmood</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>TK Curran</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>TK Curran</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>Azhar Mahmood</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>TK Curran</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>Azhar Mahmood</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>TK Curran</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>TK Curran</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>Azhar Mahmood</batsman>
+          <bowler>GR Napier</bowler>
+          <non_striker>TK Curran</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>Azhar Mahmood</batsman>
+          <bowler>GR Napier</bowler>
+          <non_striker>TK Curran</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>TK Curran</batsman>
+          <bowler>GR Napier</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>TK Curran</batsman>
+          <bowler>GR Napier</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>TK Curran</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>MW Pillans</batsman>
+          <bowler>GR Napier</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>MW Pillans</batsman>
+          <bowler>GR Napier</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>MW Pillans</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>MW Pillans</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>Azhar Mahmood</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>MW Pillans</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>Azhar Mahmood</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>MW Pillans</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>Azhar Mahmood</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>MW Pillans</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>MW Pillans</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>Azhar Mahmood</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>Azhar Mahmood</batsman>
+          <bowler>RS Bopara</bowler>
+          <non_striker>MW Pillans</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Ashar Zaidi</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Azhar Mahmood</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>MW Pillans</batsman>
+          <bowler>RS Bopara</bowler>
+          <non_striker>JE Burke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>MW Pillans</batsman>
+          <bowler>RS Bopara</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>JE Burke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>MW Pillans</batsman>
+          <bowler>RS Bopara</bowler>
+          <non_striker>JE Burke</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>MW Pillans</batsman>
+          <bowler>RS Bopara</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>JE Burke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>MW Pillans</batsman>
+          <bowler>RS Bopara</bowler>
+          <non_striker>JE Burke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>7</ball>
+          <batsman>JE Burke</batsman>
+          <bowler>RS Bopara</bowler>
+          <non_striker>MW Pillans</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>8</ball>
+          <batsman>MW Pillans</batsman>
+          <bowler>RS Bopara</bowler>
+          <non_striker>JE Burke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Essex</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>JD Ryder</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>JD Ryder</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>JD Ryder</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>JD Ryder</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>JD Ryder</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>RS Bopara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>RS Bopara</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>JD Ryder</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Azhar Mahmood</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>RS Bopara</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>JD Ryder</batsman>
+          <bowler>Azhar Mahmood</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>JD Ryder</batsman>
+          <bowler>Azhar Mahmood</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>JD Ryder</batsman>
+          <bowler>Azhar Mahmood</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>T Westley</batsman>
+          <bowler>Azhar Mahmood</bowler>
+          <non_striker>JD Ryder</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>JD Ryder</batsman>
+          <bowler>Azhar Mahmood</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>JD Ryder</batsman>
+          <bowler>Azhar Mahmood</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>T Westley</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>JD Ryder</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>JD Ryder</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>JD Ryder</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>JD Ryder</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>T Westley</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>JD Ryder</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>T Westley</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>JD Ryder</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>T Westley</batsman>
+          <bowler>Azhar Mahmood</bowler>
+          <non_striker>JD Ryder</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>T Westley</batsman>
+          <bowler>Azhar Mahmood</bowler>
+          <non_striker>JD Ryder</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>T Westley</batsman>
+          <bowler>Azhar Mahmood</bowler>
+          <non_striker>JD Ryder</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>JD Ryder</batsman>
+          <bowler>Azhar Mahmood</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>JD Ryder</batsman>
+          <bowler>Azhar Mahmood</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>GC Wilson</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>JD Ryder</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>DW Lawrence</batsman>
+          <bowler>Azhar Mahmood</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>GC Wilson</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>DW Lawrence</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>T Westley</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>T Westley</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>T Westley</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>T Westley</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>T Westley</batsman>
+          <bowler>TK Curran</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>T Westley</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>7</ball>
+          <batsman>T Westley</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>MW Pillans</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>MW Pillans</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>MW Pillans</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>T Westley</batsman>
+          <bowler>MW Pillans</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>T Westley</batsman>
+          <bowler>MW Pillans</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>MW Pillans</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>T Westley</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>T Westley</batsman>
+          <bowler>MW Pillans</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>T Westley</batsman>
+          <bowler>MW Pillans</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>T Westley</batsman>
+          <bowler>MW Pillans</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>T Westley</batsman>
+          <bowler>MW Pillans</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>T Westley</batsman>
+          <bowler>MW Pillans</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>T Westley</batsman>
+          <bowler>MW Pillans</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>7</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>MW Pillans</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>T Westley</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>T Westley</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>T Westley</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>T Westley</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>T Westley</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>TK Curran</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>JE Burke</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>T Westley</batsman>
+          <bowler>JE Burke</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>T Westley</batsman>
+          <bowler>JE Burke</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>JE Burke</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>JE Burke</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>JE Burke</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>T Westley</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>T Westley</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>T Westley</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>T Westley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>T Westley</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>T Westley</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>T Westley</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>Ashar Zaidi</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>Ashar Zaidi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>Ashar Zaidi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>Ashar Zaidi</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>Ashar Zaidi</batsman>
+          <bowler>MW Pillans</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>Ashar Zaidi</batsman>
+          <bowler>MW Pillans</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>Ashar Zaidi</batsman>
+          <bowler>MW Pillans</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>Ashar Zaidi</batsman>
+          <bowler>MW Pillans</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>Ashar Zaidi</batsman>
+          <bowler>MW Pillans</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>Ashar Zaidi</batsman>
+          <bowler>MW Pillans</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>Ashar Zaidi</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>Ashar Zaidi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>Ashar Zaidi</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>Ashar Zaidi</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>Ashar Zaidi</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>Ashar Zaidi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>Ashar Zaidi</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>Ashar Zaidi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>KC Sangakkara</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>RN ten Doeschate</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>JS Foster</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>Ashar Zaidi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>Ashar Zaidi</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>JS Foster</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>JS Foster</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>Ashar Zaidi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>Ashar Zaidi</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>JS Foster</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>Ashar Zaidi</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>JS Foster</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>Ashar Zaidi</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>JS Foster</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>JS Foster</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>Ashar Zaidi</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>JS Foster</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>Ashar Zaidi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>Ashar Zaidi</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>JS Foster</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>Ashar Zaidi</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>GR Napier</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>JS Foster</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>GR Napier</batsman>
+          <bowler>Azhar Mahmood</bowler>
+          <non_striker>JS Foster</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>GR Napier</batsman>
+          <bowler>Azhar Mahmood</bowler>
+          <non_striker>JS Foster</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>GR Napier</batsman>
+          <bowler>Azhar Mahmood</bowler>
+          <non_striker>JS Foster</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>GR Napier</batsman>
+          <bowler>Azhar Mahmood</bowler>
+          <non_striker>JS Foster</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>GR Napier</batsman>
+          <bowler>Azhar Mahmood</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>JS Foster</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>GR Napier</batsman>
+          <bowler>Azhar Mahmood</bowler>
+          <non_striker>JS Foster</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>7</ball>
+          <batsman>GR Napier</batsman>
+          <bowler>Azhar Mahmood</bowler>
+          <non_striker>JS Foster</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>JS Foster</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>GR Napier</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>JE Burke</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>JS Foster</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>GR Napier</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>Wahab Riaz</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>JE Burke</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>GR Napier</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>Wahab Riaz</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>MW Dixon</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>Wahab Riaz</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>MW Dixon</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>Wahab Riaz</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>MW Dixon</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>MW Dixon</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>Wahab Riaz</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>MW Dixon</batsman>
+          <bowler>Azhar Mahmood</bowler>
+          <non_striker>Wahab Riaz</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>MW Dixon</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>MR Quinn</batsman>
+          <bowler>Azhar Mahmood</bowler>
+          <non_striker>Wahab Riaz</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>MR Quinn</batsman>
+          <bowler>Azhar Mahmood</bowler>
+          <non_striker>Wahab Riaz</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>MR Quinn</batsman>
+          <bowler>Azhar Mahmood</bowler>
+          <non_striker>Wahab Riaz</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>caught and bowled</kind>
+              <player_out>MR Quinn</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>
