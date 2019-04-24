@@ -1,0 +1,2460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2019-04-22</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <venue>Brisbane Cricket Ground, Woolloongabba</venue>
+    <competition>Big Bash League</competition>
+    <dates>
+      <date>2019-02-08</date>
+    </dates>
+    <gender>male</gender>
+    <teams>
+      <team>Brisbane Heat</team>
+      <team>Melbourne Stars</team>
+    </teams>
+    <outcome>
+      <winner>Brisbane Heat</winner>
+      <by>
+        <wickets>10</wickets>
+      </by>
+    </outcome>
+    <toss>
+      <decision>field</decision>
+      <winner>Brisbane Heat</winner>
+    </toss>
+    <player_of_match>
+      <player_of_match>BCJ Cutting</player_of_match>
+    </player_of_match>
+    <match_type>T20</match_type>
+    <overs>20</overs>
+    <city>Brisbane</city>
+    <umpires>
+      <umpire>GJ Davidson</umpire>
+      <umpire>AK Wilds</umpire>
+    </umpires>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Melbourne Stars</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <non_striker>BR Dunk</non_striker>
+          <bowler>MT Renshaw</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>MT Renshaw</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>BR Dunk</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <non_striker>BR Dunk</non_striker>
+          <bowler>MT Renshaw</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <non_striker>BR Dunk</non_striker>
+          <bowler>MT Renshaw</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>MT Renshaw</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>BR Dunk</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>MT Renshaw</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>BR Dunk</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <non_striker>BR Dunk</non_striker>
+          <bowler>JK Lalor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <non_striker>BR Dunk</non_striker>
+          <bowler>JK Lalor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <non_striker>BR Dunk</non_striker>
+          <bowler>JK Lalor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <non_striker>BR Dunk</non_striker>
+          <bowler>JK Lalor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <non_striker>BR Dunk</non_striker>
+          <bowler>JK Lalor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <non_striker>BR Dunk</non_striker>
+          <bowler>JK Lalor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>MP Kuhnemann</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>BR Dunk</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>MP Kuhnemann</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>BR Dunk</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>MP Kuhnemann</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>BR Dunk</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>MP Kuhnemann</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>BR Dunk</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <non_striker>BR Dunk</non_striker>
+          <bowler>MP Kuhnemann</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <non_striker>BR Dunk</non_striker>
+          <bowler>MP Kuhnemann</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <non_striker>BR Dunk</non_striker>
+          <bowler>JA Prestwidge</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>JA Prestwidge</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>BR Dunk</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <non_striker>BR Dunk</non_striker>
+          <bowler>JA Prestwidge</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>JA Prestwidge</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>BR Dunk</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <non_striker>BR Dunk</non_striker>
+          <bowler>JA Prestwidge</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <non_striker>BR Dunk</non_striker>
+          <bowler>JA Prestwidge</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <non_striker>BR Dunk</non_striker>
+          <bowler>MT Renshaw</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>MT Renshaw</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>BR Dunk</batsman>
+          <wickets>
+            <wicket>
+              <player_out>BR Dunk</player_out>
+              <fielders>
+                <fielder>BCJ Cutting</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>MT Renshaw</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>PSP Handscomb</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <non_striker>PSP Handscomb</non_striker>
+          <bowler>MT Renshaw</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <non_striker>PSP Handscomb</non_striker>
+          <bowler>MT Renshaw</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <non_striker>PSP Handscomb</non_striker>
+          <bowler>MT Renshaw</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>JK Lalor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>PSP Handscomb</batsman>
+          <wickets>
+            <wicket>
+              <player_out>PSP Handscomb</player_out>
+              <fielders>
+                <fielder>MT Renshaw</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>JK Lalor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>GJ Maxwell</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>JK Lalor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>GJ Maxwell</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <non_striker>GJ Maxwell</non_striker>
+          <bowler>JK Lalor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <non_striker>GJ Maxwell</non_striker>
+          <bowler>JK Lalor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>JK Lalor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>GJ Maxwell</batsman>
+          <wickets>
+            <wicket>
+              <player_out>GJ Maxwell</player_out>
+              <kind>caught and bowled</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <non_striker>NJ Maddinson</non_striker>
+          <bowler>JA Prestwidge</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>JA Prestwidge</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>NJ Maddinson</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>JA Prestwidge</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>NJ Maddinson</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>JA Prestwidge</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>NJ Maddinson</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>JA Prestwidge</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>NJ Maddinson</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>JA Prestwidge</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>NJ Maddinson</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>BCJ Cutting</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>NJ Maddinson</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>BCJ Cutting</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>NJ Maddinson</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>BCJ Cutting</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>NJ Maddinson</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <non_striker>NJ Maddinson</non_striker>
+          <bowler>BCJ Cutting</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>BCJ Cutting</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>NJ Maddinson</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>BCJ Cutting</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>NJ Maddinson</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>7</ball>
+          <non_striker>NJ Maddinson</non_striker>
+          <bowler>BCJ Cutting</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <non_striker>NJ Maddinson</non_striker>
+          <bowler>MP Kuhnemann</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>MP Kuhnemann</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>NJ Maddinson</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <non_striker>NJ Maddinson</non_striker>
+          <bowler>MP Kuhnemann</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>MP Kuhnemann</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>NJ Maddinson</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <non_striker>NJ Maddinson</non_striker>
+          <bowler>MP Kuhnemann</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <non_striker>NJ Maddinson</non_striker>
+          <bowler>MP Kuhnemann</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>JA Prestwidge</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>NJ Maddinson</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>JA Prestwidge</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>NJ Maddinson</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>JA Prestwidge</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>NJ Maddinson</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>JA Prestwidge</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>NJ Maddinson</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>JA Prestwidge</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>NJ Maddinson</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>JA Prestwidge</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>NJ Maddinson</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>7</ball>
+          <non_striker>NJ Maddinson</non_striker>
+          <bowler>JA Prestwidge</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>MJ Swepson</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>NJ Maddinson</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>MJ Swepson</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>NJ Maddinson</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>MJ Swepson</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>NJ Maddinson</batsman>
+          <wickets>
+            <wicket>
+              <player_out>NJ Maddinson</player_out>
+              <fielders>
+                <fielder>M Bryant</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>MJ Swepson</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SE Gotch</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <non_striker>SE Gotch</non_striker>
+          <bowler>MJ Swepson</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>MJ Swepson</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SE Gotch</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>BCJ Cutting</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>SE Gotch</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>BCJ Cutting</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SE Gotch</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <non_striker>SE Gotch</non_striker>
+          <bowler>BCJ Cutting</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <non_striker>SE Gotch</non_striker>
+          <bowler>BCJ Cutting</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <non_striker>SE Gotch</non_striker>
+          <bowler>BCJ Cutting</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>BCJ Cutting</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SE Gotch</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>7</ball>
+          <non_striker>SE Gotch</non_striker>
+          <bowler>BCJ Cutting</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>8</ball>
+          <non_striker>SE Gotch</non_striker>
+          <bowler>BCJ Cutting</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>MJ Swepson</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SE Gotch</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <non_striker>SE Gotch</non_striker>
+          <bowler>MJ Swepson</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>MJ Swepson</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SE Gotch</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <non_striker>SE Gotch</non_striker>
+          <bowler>MJ Swepson</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>MJ Swepson</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SE Gotch</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>MJ Swepson</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SE Gotch</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>MP Kuhnemann</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SE Gotch</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>MP Kuhnemann</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SE Gotch</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <non_striker>SE Gotch</non_striker>
+          <bowler>MP Kuhnemann</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>MP Kuhnemann</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SE Gotch</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <non_striker>SE Gotch</non_striker>
+          <bowler>MP Kuhnemann</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <non_striker>SE Gotch</non_striker>
+          <bowler>MP Kuhnemann</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>MJ Swepson</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SE Gotch</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <non_striker>SE Gotch</non_striker>
+          <bowler>MJ Swepson</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>MJ Swepson</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SE Gotch</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <non_striker>SE Gotch</non_striker>
+          <bowler>MJ Swepson</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <non_striker>SE Gotch</non_striker>
+          <bowler>MJ Swepson</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <non_striker>SE Gotch</non_striker>
+          <bowler>MJ Swepson</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <non_striker>SE Gotch</non_striker>
+          <bowler>JA Prestwidge</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <non_striker>SE Gotch</non_striker>
+          <bowler>JA Prestwidge</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <non_striker>SE Gotch</non_striker>
+          <bowler>JA Prestwidge</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>JA Prestwidge</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>SE Gotch</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>JA Prestwidge</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SE Gotch</batsman>
+          <wickets>
+            <wicket>
+              <player_out>SE Gotch</player_out>
+              <fielders>
+                <fielder>AI Ross</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>JA Prestwidge</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>DJ Bravo</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>7</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>JA Prestwidge</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>DJ Bravo</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>MP Kuhnemann</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>DJ Bravo</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <non_striker>DJ Bravo</non_striker>
+          <bowler>MP Kuhnemann</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>MP Kuhnemann</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>DJ Bravo</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <non_striker>DJ Bravo</non_striker>
+          <bowler>MP Kuhnemann</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>MP Kuhnemann</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>DJ Bravo</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <non_striker>MP Stoinis</non_striker>
+          <bowler>MP Kuhnemann</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>DJ Bravo</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>7</ball>
+          <non_striker>DJ Bravo</non_striker>
+          <bowler>MP Kuhnemann</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <non_striker>DJ Bravo</non_striker>
+          <bowler>JK Lalor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <non_striker>DJ Bravo</non_striker>
+          <bowler>JK Lalor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MP Stoinis</batsman>
+          <wickets>
+            <wicket>
+              <player_out>MP Stoinis</player_out>
+              <kind>run out</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <non_striker>DJ Bravo</non_striker>
+          <bowler>JK Lalor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>JM Bird</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <non_striker>JM Bird</non_striker>
+          <bowler>JK Lalor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>DJ Bravo</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <non_striker>JM Bird</non_striker>
+          <bowler>JK Lalor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>DJ Bravo</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <non_striker>JM Bird</non_striker>
+          <bowler>JK Lalor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>DJ Bravo</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <non_striker>DJ Bravo</non_striker>
+          <bowler>BCJ Cutting</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>JM Bird</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <non_striker>JM Bird</non_striker>
+          <bowler>BCJ Cutting</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>DJ Bravo</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <non_striker>JM Bird</non_striker>
+          <bowler>BCJ Cutting</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <batsman>DJ Bravo</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <non_striker>DJ Bravo</non_striker>
+          <bowler>BCJ Cutting</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>JM Bird</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <non_striker>JM Bird</non_striker>
+          <bowler>BCJ Cutting</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>DJ Bravo</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <non_striker>DJ Bravo</non_striker>
+          <bowler>BCJ Cutting</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JM Bird</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <non_striker>JM Bird</non_striker>
+          <bowler>JK Lalor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>DJ Bravo</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <non_striker>JM Bird</non_striker>
+          <bowler>JK Lalor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>DJ Bravo</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <non_striker>JM Bird</non_striker>
+          <bowler>JK Lalor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>DJ Bravo</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <non_striker>JM Bird</non_striker>
+          <bowler>JK Lalor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>DJ Bravo</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <non_striker>DJ Bravo</non_striker>
+          <bowler>JK Lalor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JM Bird</batsman>
+          <wickets>
+            <wicket>
+              <player_out>JM Bird</player_out>
+              <fielders>
+                <fielder>MT Renshaw</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <non_striker>A Zampa</non_striker>
+          <bowler>JK Lalor</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>DJ Bravo</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>7</ball>
+          <non_striker>A Zampa</non_striker>
+          <bowler>JK Lalor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>DJ Bravo</batsman>
+          <wickets>
+            <wicket>
+              <player_out>DJ Bravo</player_out>
+              <kind>run out</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Brisbane Heat</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <non_striker>BCJ Cutting</non_striker>
+          <bowler>DJ Worrall</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Bryant</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <non_striker>BCJ Cutting</non_striker>
+          <bowler>DJ Worrall</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>M Bryant</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <non_striker>BCJ Cutting</non_striker>
+          <bowler>DJ Worrall</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>M Bryant</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <non_striker>BCJ Cutting</non_striker>
+          <bowler>DJ Worrall</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>M Bryant</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <non_striker>BCJ Cutting</non_striker>
+          <bowler>DJ Worrall</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Bryant</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <non_striker>BCJ Cutting</non_striker>
+          <bowler>DJ Worrall</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>M Bryant</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>JM Bird</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <non_striker>BCJ Cutting</non_striker>
+          <bowler>JM Bird</bowler>
+          <runs>
+            <extras>2</extras>
+            <total>2</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>2</wides>
+          </extras>
+          <batsman>M Bryant</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>JM Bird</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>JM Bird</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>JM Bird</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>JM Bird</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>JM Bird</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>8</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>JM Bird</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <non_striker>BCJ Cutting</non_striker>
+          <bowler>DJ Worrall</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Bryant</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <non_striker>BCJ Cutting</non_striker>
+          <bowler>DJ Worrall</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>M Bryant</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <non_striker>BCJ Cutting</non_striker>
+          <bowler>DJ Worrall</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Bryant</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <non_striker>BCJ Cutting</non_striker>
+          <bowler>DJ Worrall</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>M Bryant</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <non_striker>BCJ Cutting</non_striker>
+          <bowler>DJ Worrall</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Bryant</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <non_striker>BCJ Cutting</non_striker>
+          <bowler>DJ Worrall</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>M Bryant</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>A Zampa</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <non_striker>BCJ Cutting</non_striker>
+          <bowler>A Zampa</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>M Bryant</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <non_striker>BCJ Cutting</non_striker>
+          <bowler>A Zampa</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Bryant</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>A Zampa</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>A Zampa</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>A Zampa</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <non_striker>BCJ Cutting</non_striker>
+          <bowler>MP Stoinis</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Bryant</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <non_striker>BCJ Cutting</non_striker>
+          <bowler>MP Stoinis</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>M Bryant</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <non_striker>BCJ Cutting</non_striker>
+          <bowler>MP Stoinis</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Bryant</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>MP Stoinis</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>MP Stoinis</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>MP Stoinis</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>7</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>MP Stoinis</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <non_striker>BCJ Cutting</non_striker>
+          <bowler>GJ Maxwell</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>M Bryant</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <non_striker>BCJ Cutting</non_striker>
+          <bowler>GJ Maxwell</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>M Bryant</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <non_striker>BCJ Cutting</non_striker>
+          <bowler>GJ Maxwell</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>M Bryant</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <non_striker>BCJ Cutting</non_striker>
+          <bowler>GJ Maxwell</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Bryant</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <non_striker>BCJ Cutting</non_striker>
+          <bowler>GJ Maxwell</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>M Bryant</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <non_striker>BCJ Cutting</non_striker>
+          <bowler>GJ Maxwell</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>M Bryant</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>A Zampa</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <non_striker>BCJ Cutting</non_striker>
+          <bowler>A Zampa</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Bryant</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>A Zampa</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>A Zampa</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>A Zampa</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>A Zampa</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>S Lamichhane</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <non_striker>BCJ Cutting</non_striker>
+          <bowler>S Lamichhane</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Bryant</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>S Lamichhane</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>3</total>
+            <batsman>3</batsman>
+          </runs>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <non_striker>BCJ Cutting</non_striker>
+          <bowler>S Lamichhane</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>M Bryant</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <non_striker>BCJ Cutting</non_striker>
+          <bowler>S Lamichhane</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Bryant</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>S Lamichhane</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <non_striker>BCJ Cutting</non_striker>
+          <bowler>DJ Bravo</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Bryant</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>DJ Bravo</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>DJ Bravo</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>DJ Bravo</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>DJ Bravo</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>DJ Bravo</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>7</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>DJ Bravo</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>8</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>DJ Bravo</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <non_striker>BCJ Cutting</non_striker>
+          <bowler>S Lamichhane</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Bryant</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>S Lamichhane</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>S Lamichhane</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>S Lamichhane</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <non_striker>M Bryant</non_striker>
+          <bowler>S Lamichhane</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>BCJ Cutting</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <non_striker>BCJ Cutting</non_striker>
+          <bowler>S Lamichhane</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>M Bryant</batsman>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>
