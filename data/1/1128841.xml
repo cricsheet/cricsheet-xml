@@ -3,37 +3,37 @@
   <meta>
     <data_version>0.9</data_version>
     <created>2019-04-26</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
-    <venue>Dubai International Cricket Stadium</venue>
+    <city>Dubai</city>
     <competition>Pakistan Super League</competition>
     <dates>
       <date>2018-03-11</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Karachi Kings</team>
-      <team>Lahore Qalandars</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <result>tie</result>
       <eliminator>Lahore Qalandars</eliminator>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>Agha Salman</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Karachi Kings</team>
+      <team>Lahore Qalandars</team>
+    </teams>
     <toss>
       <decision>field</decision>
       <winner>Lahore Qalandars</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>Agha Salman</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Dubai</city>
     <umpires>
       <umpire>RT Robinson</umpire>
       <umpire>Aleem Dar</umpire>
     </umpires>
+    <venue>Dubai International Cricket Stadium</venue>
   </info>
   <innings>
     <inning>
@@ -3150,6 +3150,216 @@
               <kind>run out</kind>
             </wicket>
           </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>3</inningsNumber>
+      <team>Lahore Qalandars</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <non_striker>BB McCullum</non_striker>
+          <bowler>Mohammad Amir</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Fakhar Zaman</batsman>
+          <wickets>
+            <wicket>
+              <player_out>Fakhar Zaman</player_out>
+              <kind>run out</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <non_striker>BB McCullum</non_striker>
+          <bowler>Mohammad Amir</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>AP Devcich</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <non_striker>BB McCullum</non_striker>
+          <bowler>Mohammad Amir</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <batsman>AP Devcich</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <non_striker>AP Devcich</non_striker>
+          <bowler>Mohammad Amir</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>BB McCullum</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <non_striker>AP Devcich</non_striker>
+          <bowler>Mohammad Amir</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>BB McCullum</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <non_striker>BB McCullum</non_striker>
+          <bowler>Mohammad Amir</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>AP Devcich</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <non_striker>AP Devcich</non_striker>
+          <bowler>Mohammad Amir</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>BB McCullum</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>8</ball>
+          <non_striker>AP Devcich</non_striker>
+          <bowler>Mohammad Amir</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>BB McCullum</batsman>
+          <wickets>
+            <wicket>
+              <player_out>BB McCullum</player_out>
+              <kind>run out</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>4</inningsNumber>
+      <team>Karachi Kings</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <non_striker>CA Ingram</non_striker>
+          <bowler>SP Narine</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>LMP Simmons</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <non_striker>CA Ingram</non_striker>
+          <bowler>SP Narine</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>LMP Simmons</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <non_striker>LMP Simmons</non_striker>
+          <bowler>SP Narine</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>CA Ingram</batsman>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>MJ McClenaghan</fielder>
+              </fielders>
+              <player_out>CA Ingram</player_out>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <non_striker>Shahid Afridi</non_striker>
+          <bowler>SP Narine</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>LMP Simmons</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <non_striker>Shahid Afridi</non_striker>
+          <bowler>SP Narine</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>LMP Simmons</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <non_striker>LMP Simmons</non_striker>
+          <bowler>SP Narine</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>Shahid Afridi</batsman>
         </delivery>
       </deliveries>
     </inning>

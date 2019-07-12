@@ -3,39 +3,39 @@
   <meta>
     <data_version>0.9</data_version>
     <created>2019-04-16</created>
-    <revision>1</revision>
+    <revision>3</revision>
   </meta>
   <info>
-    <venue>Wankhede Stadium</venue>
+    <city>Mumbai</city>
     <competition>IPL</competition>
     <dates>
       <date>2019-04-13</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Mumbai Indians</team>
-      <team>Rajasthan Royals</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Rajasthan Royals</winner>
       <by>
         <wickets>4</wickets>
       </by>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>JC Buttler</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Mumbai Indians</team>
+      <team>Rajasthan Royals</team>
+    </teams>
     <toss>
       <decision>field</decision>
       <winner>Rajasthan Royals</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>JC Buttler</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Mumbai</city>
     <umpires>
       <umpire>Nitin Menon</umpire>
       <umpire>A Nand Kishore</umpire>
     </umpires>
+    <venue>Wankhede Stadium</venue>
   </info>
   <innings>
     <inning>
@@ -1001,9 +1001,6 @@
           <wickets>
             <wicket>
               <player_out>SA Yadav</player_out>
-              <fielders>
-                <fielder>SV Samson</fielder>
-              </fielders>
               <kind>bowled</kind>
             </wicket>
           </wickets>

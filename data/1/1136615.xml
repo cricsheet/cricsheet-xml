@@ -3,39 +3,39 @@
   <meta>
     <data_version>0.9</data_version>
     <created>2019-04-19</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
-    <venue>Feroz Shah Kotla</venue>
+    <city>Delhi</city>
     <competition>IPL</competition>
     <dates>
       <date>2018-05-20</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Delhi Daredevils</team>
-      <team>Mumbai Indians</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Delhi Daredevils</winner>
       <by>
         <runs>11</runs>
       </by>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>A Mishra</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Delhi Daredevils</team>
+      <team>Mumbai Indians</team>
+    </teams>
     <toss>
       <decision>bat</decision>
       <winner>Delhi Daredevils</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>A Mishra</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Delhi</city>
     <umpires>
       <umpire>HDPK Dharmasena</umpire>
       <umpire>CK Nandan</umpire>
     </umpires>
+    <venue>Feroz Shah Kotla</venue>
   </info>
   <innings>
     <inning>
@@ -392,9 +392,6 @@
           <wickets>
             <wicket>
               <player_out>GJ Maxwell</player_out>
-              <fielders>
-                <fielder>HH Pandya</fielder>
-              </fielders>
               <kind>bowled</kind>
             </wicket>
           </wickets>

@@ -3,18 +3,16 @@
   <meta>
     <data_version>0.9</data_version>
     <created>2019-06-06</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
-    <venue>Sophia Gardens</venue>
+    <city>Cardiff</city>
     <dates>
       <date>2019-06-04</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Afghanistan</team>
-      <team>Sri Lanka</team>
-    </teams>
+    <match_type>ODI</match_type>
+    <match_type_number>4149</match_type_number>
     <outcome>
       <winner>Sri Lanka</winner>
       <by>
@@ -22,21 +20,23 @@
       </by>
       <method>D/L</method>
     </outcome>
+    <overs>50</overs>
+    <player_of_match>
+      <player_of_match>N Pradeep</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Afghanistan</team>
+      <team>Sri Lanka</team>
+    </teams>
     <toss>
       <decision>field</decision>
       <winner>Afghanistan</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>N Pradeep</player_of_match>
-    </player_of_match>
-    <match_type>ODI</match_type>
-    <match_type_number>4149</match_type_number>
-    <overs>50</overs>
-    <city>Cardiff</city>
     <umpires>
       <umpire>P Wilson</umpire>
       <umpire>NJ Llong</umpire>
     </umpires>
+    <venue>Sophia Gardens</venue>
   </info>
   <innings>
     <inning>
@@ -2553,9 +2553,6 @@
           <wickets>
             <wicket>
               <player_out>I Udana</player_out>
-              <fielders>
-                <fielder>Najibullah Zadran</fielder>
-              </fielders>
               <kind>bowled</kind>
             </wicket>
           </wickets>

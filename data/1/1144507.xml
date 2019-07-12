@@ -3,39 +3,39 @@
   <meta>
     <data_version>0.9</data_version>
     <created>2019-06-21</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
-    <venue>Edgbaston</venue>
+    <city>Birmingham</city>
     <dates>
       <date>2019-06-19</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>New Zealand</team>
-      <team>South Africa</team>
-    </teams>
+    <match_type>ODI</match_type>
+    <match_type_number>4165</match_type_number>
     <outcome>
       <winner>New Zealand</winner>
       <by>
         <wickets>4</wickets>
       </by>
     </outcome>
+    <overs>50</overs>
+    <player_of_match>
+      <player_of_match>KS Williamson</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>New Zealand</team>
+      <team>South Africa</team>
+    </teams>
     <toss>
       <decision>field</decision>
       <winner>New Zealand</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>KS Williamson</player_of_match>
-    </player_of_match>
-    <match_type>ODI</match_type>
-    <match_type_number>4165</match_type_number>
-    <overs>50</overs>
-    <city>Birmingham</city>
     <umpires>
       <umpire>IJ Gould</umpire>
       <umpire>NJ Llong</umpire>
     </umpires>
+    <venue>Edgbaston</venue>
   </info>
   <innings>
     <inning>
@@ -1058,9 +1058,6 @@
           <wickets>
             <wicket>
               <player_out>F du Plessis</player_out>
-              <fielders>
-                <fielder>MJ Henry</fielder>
-              </fielders>
               <kind>bowled</kind>
             </wicket>
           </wickets>

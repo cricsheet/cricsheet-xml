@@ -3,39 +3,39 @@
   <meta>
     <data_version>0.9</data_version>
     <created>2019-04-15</created>
-    <revision>1</revision>
+    <revision>3</revision>
   </meta>
   <info>
-    <venue>Punjab Cricket Association IS Bindra Stadium, Mohali</venue>
+    <city>Chandigarh</city>
     <competition>IPL</competition>
     <dates>
       <date>2019-04-01</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Kings XI Punjab</team>
-      <team>Delhi Capitals</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Kings XI Punjab</winner>
       <by>
         <runs>14</runs>
       </by>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>SM Curran</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Kings XI Punjab</team>
+      <team>Delhi Capitals</team>
+    </teams>
     <toss>
       <decision>field</decision>
       <winner>Delhi Capitals</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>SM Curran</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Chandigarh</city>
     <umpires>
       <umpire>CB Gaffaney</umpire>
       <umpire>AK Chaudhary</umpire>
     </umpires>
+    <venue>Punjab Cricket Association IS Bindra Stadium, Mohali</venue>
   </info>
   <innings>
     <inning>
@@ -3086,9 +3086,6 @@
           <wickets>
             <wicket>
               <player_out>GH Vihari</player_out>
-              <fielders>
-                <fielder>SM Curran</fielder>
-              </fielders>
               <kind>bowled</kind>
             </wicket>
           </wickets>
